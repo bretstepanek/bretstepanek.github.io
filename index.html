@@ -1,0 +1,501 @@
+<!DOCTYPE HTML>
+<meta charset="utf-8">
+<html>
+<head>
+  <title>Final Project</title>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400italic,600italic,700italic,200,300,400,600,700,900">
+<link rel="stylesheet" href="./data/d3.slider.css" />
+<script src="http://d3js.org/d3.v4.min.js"></script>
+<script>
+  d3v4 = d3
+  window.d3 = null
+</script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<!-- Map 2 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://unpkg.com/d3-simple-slider"></script>
+<script src="./scripts/d3.slider.js"></script>
+<!-- <script src="d3.slider2.js"></script> -->
+
+<!-- Observable -->
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/@observablehq/notebook-inspector@1/dist/notebook-inspector-style.css">
+
+<style>
+
+body, h1, h3, h4, h5, h6, p {
+  margin-left: 10;
+  margin-right: 10;
+  padding: 10;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.1em;
+  color: #333;
+  font-weight: 400;
+}
+
+#leftHalf {
+   background: url("./images/left.png");
+   width: 199px;
+   position: absolute;
+   left: 9px;
+   height: 100vh;
+}
+#rightHalf {
+   background: url("./images/right.png");
+   width: 198px;
+   position: absolute;
+   right: 9px;
+   height: 100vh;
+}
+
+#content {
+  /*margin: 300px 200px 10px 200px;*/
+  /*padding: 1px;*/
+  /*width: 100px;*/
+  /*border: 1px solid #ccc;*/
+  /*flex-basis: 50%;*/
+  max-height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y proximity;
+  scroll-snap-type: mandatory;
+  /*scroll-snap-points-y: 11;*/
+}
+
+section {
+    margin: 5px 200px 10px 200px;
+    border-bottom: 1px solid white;
+    padding: 3rem;
+    /*Uncomment next line for presentation mode*/
+    /*height: 100vh;*/
+    scroll-snap-align: start;
+    position: relative;
+}
+
+h1 {
+  font-size: 3.5em;
+  font-weight: 900;
+  color: #000;
+}
+
+h2 {
+  margin: 10px 0px 0px 0px;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #000;
+}
+
+h3 {
+  margin: 10px 0px 0px 0px;
+  font-size: 2em;
+  font-weight: 900;
+  color: #000;
+}
+
+h4 {
+  margin: 10px 200px 0px 200px;
+  font-size: 1.5em;
+  font-weight: 900;
+  color: #000;
+}
+
+h6 {
+  margin: 10px 350px 0px 120px;
+  line-height: 1em;
+  font-size: 1em;
+  font-style: italic;
+}
+
+table, th, td {
+  margin: 10px 10px 0px 0px;
+  line-height: 1.75em;
+  font-size: 1em;
+  font-weight: 600;
+  color: #000;
+}
+
+h2.year {
+  margin: 0px 0px 0px 0px;
+  font-size: 1.3em;
+  font-weight: 700;
+}
+
+p {
+  margin: 10px 0px 0px 0px;
+}
+
+.county {
+  fill: none;
+  stroke-width: 0.1pt;
+  stroke: #C0C0C0;
+}
+
+.states {
+  fill: none;
+  stroke: #C0C0C0;
+  stroke-linejoin: round;
+}
+
+input {
+  display: block;
+  width: 200px;
+  margin: 10px 0px 0px 0px;
+}
+
+#legend text {
+  font-size: 0.9em;
+  color: #333;
+  font-weight: 400;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 7px;
+  font-size: 0.9em;
+  pointer-events: none;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+  -moz-box-shadow:    3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+  box-shadow:         3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+.tooltip p {
+  margin: 0;
+  padding: 0;
+}
+
+.tooltip table {
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse;
+}
+
+.wide {
+  width: 140px;
+}
+
+/*Map 2 styling*/
+path {
+  fill: none;
+  stroke: #333;
+  stroke-width: .5px;
+}
+
+.land-boundary {
+  stroke: #C0C0C0;
+}
+
+.county-boundary {
+  stroke-width: 0.1pt;
+  stroke: #C0C0C0;
+}
+
+.state-boundary{
+  stroke: #C0C0C0;
+}
+
+.site {
+  stroke-width: .5px;
+  stroke: #332200;
+  fill: #e69900;
+}
+
+#slider3 {
+  margin: 0px 0 10px 20px;
+  width: 900px;
+}
+
+/*Stacked bar chart*/
+.axis text {
+  font: 10px;
+}
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis--x path {
+  display: none;
+}
+
+/*Percent Change Graph*/
+/*hides tick marks on bottom xaxis */
+.axisChange line{
+      visibility:hidden;
+    }
+
+/* hides bottom xaxis line*/
+.axisChange .domain {
+  display: none;
+}
+
+.axisChange {
+    font: 13px sans-serif;
+  }
+
+  .yUnits {
+    font: 14px sans-serif;
+  }
+
+  .caption {
+    font: 12px sans-serif;
+  }
+
+.chartDisplayTitle{
+  fill:#354B5F;
+  font-weight: bold;
+  font: 20px sans-serif;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="leftHalf"></div>
+<div id="rightHalf"></div>
+<div id="content">
+  <section style="background-image: url(./images/center.png);text-shadow: 0px 0px 5px #000000;">
+    <a name="top"></a>
+    <center>
+      <h1 style="margin-top:2in; color: #ffffff; font-size: 3.5em; margin-left: -30; margin-right: -30;-webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: black;">Why Have Microbreweries Been Doing So Well Only in the Last Ten Years? </h1>
+      <h1 style="margin-bottom:0.1in; color: #ffffff; font-size: 2.5em;-webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;">The Migration of Breweries Across America</h1>
+      <h1 style="margin-bottom:0.1in; color: #ffffff; font-size: 2em;-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;">11.154 Final Project by:</h1>
+      <h1 style="color: #ffffff; font-size: 2em;-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;">Bret Stepanek and Jackson Lubin</h1>
+      
+      
+    </center>
+  </section>
+
+    <section>
+    <center>
+      <h4>
+        We would like to introduce you to a data-based analysis of the craft beer explosion revolutionizing the American beer market. 
+   	</h4>
+    </center>
+    <br>
+    <p>
+  		We are interested in the craft beer market dynamics because of extreme migration of sales from large market leaders to local microbreweries. We define craft breweries as any brewery that produces less than six million barrels of beer each year, which is enough for 6,000 bars’ worth per year.
+  	</p>
+    <br>
+    <center>
+    <h4>
+        Our Process
+    </h4>
+  </center>
+    <p>
+      Starting with about two dozen individual data sources, we amassed and synthesized the datasets together to make our visualizations easier to understand. 
+    </p>
+    <p>
+    We are interested in this topic because we wanted to learn more about the recent surge in brewery startups in America, and we thought adults in America would want to discover some cool trends we found. 
+    <br><br><b>This is aimed at all Americans who want a fun conversation while catching up with a friend over a cold one.</b>
+    <br><br><br>
+    <p><center><b>For reference:</b></center></p>
+    </p>
+      <center>
+        <table>
+          <tr>
+            <th align="right">31 Gallons</th> <th>=</th> <th align="left">1 Barrel</th>
+          </tr>
+          <tr>
+            <th align="right">1 Barrel</th> <th>=</th> <th align="left">330 Beers</th>
+          </tr>
+          <tr>
+            <th align="right">1 Beer</th> <th>=</th> <th align="left">12 fl. oz.</th>
+          </tr>
+        </table>
+      </p>
+    </center>
+  </section>
+    
+  <section>
+    <center>
+      <h3>Beer Production by Size of Brewery</h3>
+      <br>
+      <div id="productionStacked"></div>
+      <h6>Breweries are grouped by how many barrels per year they produced. <br>About 1,000 barrels per year is roughly the amount an average bar in a major city will buy in one year. </h6>
+      <center>
+        <table>
+          <tr>
+            <th align="right">Micro</th> <th>=</th> <th align="left">1 to 30,000 barrels produced per year</th>
+          </tr>
+          <tr>
+            <th align="right">Medium</th> <th>=</th> <th align="left">30,001 to 100,000 barrels produced per year</th>
+          </tr>
+          <tr>
+            <th align="right">Regional</th> <th>=</th> <th align="left">100,001 to 1M barrels produced per year</th>
+          </tr>
+          <tr>
+            <th align="right">National</th> <th>=</th> <th align="left">1M+ barrels produced per year</th>
+          </tr>
+        </table>
+      </p>
+    </center>
+    </center>
+    <script src="./scripts/production_stacked_bar.js"></script>
+    <br>
+    <p>
+      One might suspect that beer production overall has exploded wildly, but that is not the case. Over the last decade, <b>the U.S. yearly beer sales has decreased by 0.66% every year</b>; however, the amount of beer sold from <b>microbreweries has increased by 10.5% per year </b> in the same timeframe. Microbreweries are bucking market trends and outmaneuvering the big breweries. They are producing larger and larger volumes each year because of an explosion in the number of breweries in America in the last ten years. <br>
+    </p>
+  </section>
+
+  <section>
+    <center>
+      <h3>Yearly Percent Change in Production by Size of Brewery</h3>
+      <br>
+      <div id="changeGraph"></div>
+    </center>
+    <script src="./scripts/change_graph.js"></script>
+    
+    <p>
+      This is a close-up of the previous graph. Note that the smallest breweries have had consistent and high growth for a decade, while the larger the brewery, the worse it has been doing in the past few years.
+    </p>
+  </section>
+
+  <section>
+    <center>
+      <h3>Number of Breweries</h3>
+      <div id="numberStacked"></div>
+    </center>
+    <script src="./scripts/number_stacked_bar.js"></script>
+    <br>
+    <h6>Note that the legend here is different from the previous charts because there are so few national breweries, therefore their category would be invisible. </h6>
+    <br><br>
+    <p>
+      The number of breweries in America has almost <b> quadrupled in the last ten years.</b> The most growth is in the number of the smallest breweries that are just starting up.
+    </p>
+  </section>
+ 
+ <section>
+    <h4>
+    Why is this trend happening? There are two main causes: <br> <br> </h4>
+    <h4 style="margin-left: 0">1. Consumer choice trends </h4> 
+
+    <p>
+      <a name="src1"></a>
+      Adults in America today generally believe that the biggest, <b>national breweries do not have high quality finished products,</b> and so they want beer from local breweries. According to a poll by the Brewer’s Association, an industry group for craft and independent breweries, 67% of beer drinkers said that it was important to them that the beer they drank came from a local brewery [<a href="#sources">1</a>]. In general, the closer to home the brewery is, the more local residents want to drink from it. 
+    </p> 
+    <br>
+    <h4 style="margin-left: 0">2. Microbrewery friendly government policies</h4>
+    <p>
+    <b>
+      <a name="src2"></a>
+      The second reason for a craft brewery explosion in recent years is a handful of government policies that aim to help small breweries. </b> <br>At the end of the Prohibition Era in 1933, the federal government heavily restricted the beer industry. With a <b>“Three-Tier System,” </b>they required that brewers could not distribute the beer themselves and then the distributors had to use retailers to sell the final product to consumers [<a href="#sources">2</a>]. This was aimed to decrease vertical monopolies and cause deliberate inefficiencies in the market to help competition, and it worked. </p><p>
+
+      This system means that the breweries themselves often do not know where their beer is even being sold because distributors buy the beer outright from the breweries and sell to retailers in closely guarded trade routes. This was a limitation to our data collection and meant that no distributors wanted to help us and one brewery sent us data. Our only information on individual breweries came from the Cambridge Brewing Company, where  <b>the only details the owner knew himself was that his beer was sold in Massachusetts and Rhode Island. </b>
+    </p><p>
+      The flip side to our lack of individual brewery data is that this system means that small startup microbreweries are allowed to sell to the same stores and in the same market as their much larger rivals, allowing easy access to a massive market. 
+    </p>
+    <br>
+    <br>
+  </section>
+
+  <section>
+    <center>
+        <h3>Breweries Started per Year</h3>
+        <br>
+        <div id="slider3"></div>
+        <br>
+        <h2 id="yearTextData"></h2>
+        <div id="mapTimeline"></div>
+      </center>
+    <script src="./scripts/mapTimeline.js"></script>
+    <h4 style="margin-right: 0; margin-left: 0">So why didn’t more breweries start in 1933 when prohibition ended?</h4>
+    <p>
+        <a name="src3"></a>
+        In 1978, congress passed a bill that legalized brewing beer at home without taxation, which caused the 1980’s to see a mini-explosion of craft beer similar to what we’re seeing today [<a href="#sources">3</a>]. In 1984 we see the first year of double digit breweries opening up, which continues to today. Today we might have heard of Sierra Nevada, Sam Adams, or the mch smaller Cambridge Brewing Company, all of which were founded in the 1980’s during this first microbrewery surge. 
+    </p>
+    <p>
+    <b>How about the surge in the last ten years? Why did it happen now? </b> <br> Another government policy can help explain the recent surge. This jump in the number of startup breweries this decade can be partially explained by state-by-state exceptions to the Three-Tier System that allows breweries under a certain size to produce and sell their beer on premises in a taproom and completely sidestep the distributors and retailers. These exceptions have greatly increased the ease of new breweries opening up because they do not have to deal with distribution. Also, some states had restrictions on homebrewing in a restriction of the federal law. For example in Alabama and Mississippi, homebrewing was not legal until 2013 even though it has been legal federally since 1978.
+
+    </p>
+  </section>
+
+  <section>
+    <center>
+        <h3>Craft Brewery Production by County from 2008 to 2017</h3>
+        <h2>(Major nationwide breweries not included)</h2>
+    </center>
+
+        <h2 class="year"></h2>
+        <div class="slider"></div>
+        <div id="slider"></div>
+        <!-- <button id="play-button">Play</button> -->
+      <center>
+        <div id="heatMap"></div>
+      </center>
+      <script src="./scripts/heatMap.js"></script>
+      <p>
+      Note the huge migration of microbreweries to the entire West Coast and in the Northeast. On the American western coastline in 2017, <b>every single county was a source craft beer.</b> The lower Midwest still is a drought of production, while the upper Midwest Mountain region has greatly expanded.
+      <br> </p><p>
+      Looking in on specific cities, <b>Los Angeles, with over ten million people, is producing 78,000 barrels. </b>That means only about 78 bars in L.A. can stock beer from within the county. </p><p>
+      However Boston, the hometown of Sam Adams, produced 4.2 million barrels, and <b>Sam Adams alone produced 2.3 million barrels, or 55% of the Suffolk County production. </b></p><p>
+      Moving to Chicago, Cook County produced 280,000 barrels of beer with an <b>annual 56.7% growth rate.</b> It had 825 people employed in the beer industry in 2017 in 28 different breweries, a county where there were only 4 breweries before 2008. <br>
+    </p>
+    <p> You see all of this growth because only <b> one percent of counties had a decrease in production over the last ten years.</b> </p>
+      
+  </section>
+
+  <section>
+    <center><h1>Further Research</h1></center>
+    <p>
+      Below are some visualiations that are outside the scope of the project but are nonetheless intersting and would be a fantastic extension for further research.  We collected data from the U.S. Census and created bar charts for employment and average salary of the beer industry which could provide some additional intersting insights.
+    </p>
+    <center>
+      <h3>Total Beer Industry Employment</h3>
+      <div id="employmentStacked"></div>
+    </center>
+    <script src="./scripts/employment_stacked.js"></script>
+  </section>
+
+  <section>
+   <center>
+      <h3>Average Salary of Breweries</h3>
+      <div id="salaryGraph"></div>
+    </center>
+    <script src="./scripts/average_salary.js"></script>
+  </section>
+
+  <section>
+    <center><h1>Sources</h1></center>
+    <a name="sources"></a>
+    <p>
+      Visualizations were built using Mike Bostock's d3 library and were inspired specifically by the following projects:<br>
+      <li> Doug Dowson's <a href="http://bl.ocks.org/dougdowson/9832019">Choropleth</a> </li>
+      <li> Mike Bostock's <a href="https://bl.ocks.org/mbostock/eec4a6cda2f573574a11">Map Pan & Zoom II</a> </li>
+      <li> al's <a href="http://bl.ocks.org/cmdoptesc/fc0e318ce7992bed7ca8">D3: Map Timeline</a> </li>
+      <li> Mike Bostock's <a href="https://bl.ocks.org/mbostock/1134768">Stacked Bar Chart</a> </li>
+      <li> Raymond DiLorenzo's <a href="https://bl.ocks.org/Rdilorenzo73/d3ef804fca7ed0ddaf67a0fb74f76682">D3 Grouped Bar Chart</a> </li>
+    </p>
+    <p>
+      Data from:<br>
+      <li><b>Brewers Association:</b> This data was used to create the choropleth. We were provided with production by brewery from 2008 to 2017 from the Brewers Association. This data was combined with geographical data scrapped from the Brewers Association website to construct a unified data set. the cleaning process is as follows: zip codes were scrapped from the site (mapping to the brewery's name) and run in a python script to obtain state and county information. The county information was then mapped to a fips code so that the final, cleaned data set had brewery name, fips code and production from 2008 to 2017 where it was used to create the choropleth.</li>
+      <li><strong>Dun & Bradstreet:</strong> This data was used to create the timeline map. Similar to the Brewers Association data, this data provided us with a zip code for each brewery which was then run through a similar python script to get latitude and longitude coordinates. This was combined with the original data set and cleaned to produce a data set containing brewery name, year founded, latitude and longitude. This was then used to create the timeline map. </li>
+      <li><strong>U.S. Census Data:</strong> This data was used to create the stacked and grouped bar charts. The census data was cleaned by combining all spreadsheets (one for each year) into a single sheet and running a python script to convert to a properly formatted csv file. </li>
+    </p>  
+
+    <p>
+      Other sources:<br>
+      <li>[<a href="https://www.washingtonpost.com/lifestyle/food/america-now-has-more-breweries-than-ever-and-that-might-be-a-problem/2016/01/15/d23e3800-b998-11e5-99f3-184bc379b12d_story.html?utm_term=.5ef2b2910d50">1</a>] America now has more breweries than ever. And that might be a problem., <a href="#src2">Back to Section</a></li>
+      <li>[<a href="https://www.theatlantic.com/business/archive/2018/01/craft-beer-industry/550850/">2</a>] Craft Beer Is the Strangest, Happiest Economic Story in America, <a href="#src2">Back to Section</a></li>
+      <li>[<a href="https://beerandbrewing.com/the-day-homebrewing-was-legalized/">3</a>] The Day Homebrewing Was Legalized, <a href="#src3">Back to Section</a></li>
+      <li><a href="https://www.evergreenhq.com/blog/most-americans-live-within-10-miles-of-a-brewery/"> Most Americans live within 10 miles of a brewery</a></li>
+      <br>
+    </p>
+    <a href="#top">Back to Top</a>
+  </section>
+</div>
+</body>
+</html>

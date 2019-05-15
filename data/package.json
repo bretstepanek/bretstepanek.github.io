@@ -1,0 +1,9 @@
+{
+  "name": "project",
+  "main": "observable_graphs.js",
+  "version": "650.0.0",
+  "author": {
+    "name": "jacksonlubin",
+    "url": "https://observablehq.com/@jacksonlubin"
+  }
+}

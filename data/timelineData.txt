@@ -1,0 +1,2727 @@
+name	city	state	founded	lat	long
+1933 Brewing Co LLC	Fort Collins	Colorado	2013	40.52	-105.02
+3 Point, LLC	Carson City	Nevada	2013	39.16	-119.86
+303 Vodka	Boulder	Colorado	2008	40.05	-105.21
+3403 Brighton LLC	Denver	Colorado	2013	39.76	-104.97
+38 State Brewing Company LLC	Littleton	Colorado	2012	39.57	-105.08
+471 Kalamath, LLC	Denver	Colorado	2015	39.64	-104.91
+7 Hermits Brewing Company LLC	Eagle	Colorado	2014	39.66	-106.82
+Absolute Threshold Brewery	Fort Collins	Colorado	2015	40.56	-105.13
+Admiral Beverage	Santa Fe	New Mexico	2010	35.6	-106.1
+Adventurous Stills	Tempe	Arizona	2017	33.44	-111.93
+Alibi Ale Works	Incline Village	Nevada	2015	39.3	-119.9
+All Colorado Beer Festival	Colorado Springs	Colorado	2008	38.88	-104.82
+Millercoors LLC	Milwaukee	Wisconsin	1855	43.04	-87.97
+Millercoors LLC	Albany	Georgia	1855	31.5	-84.0
+Anheuser-Busch, LLC	Columbus	Ohio	1852	40.08	-82.98
+Anheuser-Busch, LLC	Cartersville	Georgia	1852	34.2	-84.8
+Asher Brewing Company LLC	Boulder	Colorado	2008	40.05	-105.21
+Avery Brewing Company	Boulder	Colorado	1993	40.05	-105.21
+B A B Brewery	Los Lunas	New Mexico	2010	34.8	-106.8
+B B I Acquisition Co Inc	Breckenridge	Colorado	1989	39.5	-106.1
+Back Country Brewery & Restaurant LLC	Frisco	Colorado	1996	39.59	-106.09
+Backstop Brewing Co LLC	Longmont	Colorado	2016	40.17	-105.09
+Balance Brewing Company LLC	Golden	Colorado	2014	39.7	-105.2
+Bargain Brew and Smokes	Idaho Falls	Idaho	2005	43.5	-112.3
+Barley House Ltd LLC	Alamogordo	New Mexico	1999	32.8	-106.1
+Barrio Brewing Company, LLC	Tucson	Arizona	2008	32.25	-110.95
+Bayern Brewing, Inc	Missoula	Montana	1986	46.86	-113.99
+Bbd Acquisition Co	Denver	Colorado	1991	39.76	-104.97
+Beans and Brew 301	Herriman	Utah	2010	40.49	-112.08
+Bear Island Brewing Company, LLC	Boise	Idaho	2013	43.63	-116.29
+Beaverhead Brewing Company	Dillon	Montana	2015	45.0	-112.9
+Bent Barley Brewing Company, LLC	Centennial	Colorado	2017	39.62	-104.78
+Beryl's Beer Company	Denver	Colorado	2014	39.76	-104.97
+Big Brands, LLC	Las Vegas	Nevada	2015	36.25	-115.24
+Big Nose Brewing Co	Denver	Colorado	1997	39.75	-105.0
+Big Sky Brewing Company	Missoula	Montana	1993	47.0	-114.1
+Billings Brewing Co Inc	Billings	Montana	1994	45.7	-108.4
+Bitter Root Brewing LLP	Hamilton	Montana	1998	46.2	-114.2
+Black Mountain Brewing Co	Cave Creek	Arizona	1989	33.8	-112.0
+Black Shirt Brewing Co	Denver	Colorado	2013	39.76	-104.97
+Black Star Beer	Whitefish	Montana	2008	48.5	-114.6
+Blackfoot River Brewing Company LLC	Helena	Montana	1995	46.5	-112.1
+Blacksmith Brewing L.L.C.	Stevensville	Montana	2008	46.5	-114.1
+Blessed Brews	Alamosa	Colorado	2013	37.5	-105.8
+Bogus Brewing, Inc.	Boise	Idaho	2015	43.7	-116.1
+Bond's Brewing Company	Laramie	Wyoming	2018	41.4	-105.8
+Boogie's Brewery & Distillery, LLC	Deming	New Mexico	2017	32.2	-107.8
+Bosque Brewing Company, LLC	Albuquerque	New Mexico	2012	35.18	-106.59
+Bottled Llama Brewing LLC	Kingman	Arizona	2007	35.5	-114.2
+Boulder Beer, Inc.	Boulder	Colorado	1979	40.05	-105.21
+Sierra Nevada Brewing Co.	Mills River	North Carolina	1979	35.46	-82.48
+Bozeman Brewing Co., Inc.	Bozeman	Montana	2007	45.7	-111.0
+Branagan's, LLC	Sandy	Utah	2015	40.6	-111.7
+Branded Hearts Distillery	Reno	Nevada	2015	39.55	-119.8
+Breckenridge Brewery	Denver	Colorado	2015	39.76	-104.97
+Breckenridge Brewery LLC	Littleton	Colorado	1991	39.6	-105.01
+Breckenridge Brewery of Colorado LLC	Littleton	Colorado	1994	39.6	-105.01
+Breckenridge Brewery, Inc.	Littleton	Colorado	2011	39.6	-105.01
+Brew Haus Brewing Co LLC	Chandler	Arizona	1998	33.27	-111.99
+Brew Makers Xperience LLC	Santa Fe	New Mexico	2016	35.6	-105.9
+Brew Montana, LLC	Missoula	Montana	2016	47.0	-114.1
+Brew More Happiness	Phoenix	Arizona	2015	33.62	-112.05
+Brewbies Brewing, LLC	Colorado Springs	Colorado	2008	38.88	-104.82
+Brewchatter LLC	Sparks	Nevada	2014	39.54	-119.74
+Brewery Hill LLC	Breckenridge	Colorado	2013	39.5	-106.1
+Brewing Consulting Services, LLC	Boise	Idaho	2011	43.7	-116.3
+Brewing Solutions LLC	Gilbert	Arizona	2008	33.33	-111.74
+Brewser Brewing Co LLC	Mesa	Arizona	2006	33.4	-111.72
+Bristol Brewing Company	Colorado Springs	Colorado	1993	38.83	-104.83
+Bru Handcrafted	Boulder	Colorado	2013	39.97	-105.22
+Brw Nampa LLC	Boise	Idaho	2015	43.6	-116.19
+Buckhorn Brewers LLC	Loveland	Colorado	2012	40.4	-105.2
+Bugsy Brewing, Inc.	Las Vegas	Nevada	2012	36.14	-115.23
+Bull Desert Red Sales	Phoenix	Arizona	2010	33.41	-112.03
+C B, Inc	Gillette	Wyoming	2001	43.9	-105.5
+C Squared Ciders LLC	Denver	Colorado	2014	39.76	-104.97
+Cabinet Mountain Brewing Company, L.L.C.	Libby	Montana	2013	48.2	-115.4
+Camber Brewing Company	Fraser	Colorado	2018	39.948	-105.816
+Carters Brewing	Billings	Montana	2007	45.7	-108.4
+Catalina Products, L.L.C.	Tucson	Arizona	1994	32.33	-110.83
+Cbc Holdco 2 LLC	Denver	Colorado	2017	39.75	-105.0
+Cbc Holdco, Inc.	Denver	Colorado	2007	39.75	-105.0
+Cedrs LLC	Henderson	Nevada	2017	36.01	-115.04
+Cheyenne Brewing Company	Cheyenne	Wyoming	2015	41.4	-104.8
+Chicago Brewing Co	Las Vegas	Nevada	1999	36.14	-115.28
+Cloudburst Brewing LLC	Post Falls	Idaho	2013	47.7	-116.9
+Coalescent Collaborations, LLC	Longmont	Colorado	2016	40.17	-105.09
+Colorado Boy Brewing Co Inc	Ridgway	Colorado	2008	38.1	-107.7
+Colorado Brewers Group, LLC	Monument	Colorado	2010	39.1	-104.9
+Colorado Brewing Systems, LLC	Fort Collins	Colorado	2016	40.7	-105.0
+Coors Brewing Co	Denver	Colorado	2014	39.75	-105.0
+American Craft Brewery LLC	Breinigsville	Pennsylvania	1984	40.55	-75.66
+Coors Brewing Company	Golden	Colorado	1990	39.7	-105.2
+Great Bay Distributors, Inc.	Holiday	Florida	1968	28.19	-82.72
+The Boston Beer Company Inc	Breinigsville	Pennsylvania	1984	40.55	-75.66
+Coro, LLC	Arvada	Colorado	2008	39.81	-105.12
+Council Brewery	Surprise	Arizona	2017	33.6	-112.38
+Crazy Mountain Brewing Company, LLC	Avon	Colorado	2009	39.63	-106.52
+Creekside Kitchen	Flagstaff	Arizona	1994	35.2	-111.8
+Db Kelly De Vargas Inc	Albuquerque	New Mexico	1996	35.14	-106.52
+DC Brewery Capital Management	Centennial	Colorado	2015	39.58	-104.96
+Deering Brewing Co LLC	Queen Creek	Arizona	2007	33.3	-111.5
+Del Maguey Inc	Ranchos De Taos	New Mexico	1995	36.3	-105.6
+Demon Spawn Ale Works, LLC	Aurora	Colorado	2015	39.7	-104.84
+Devils Head Distillery LLC	Englewood	Colorado	2015	39.65	-105.01
+Dillinger Brewing Company, LLC	Tucson	Arizona	2015	32.27	-111.0
+Distillery 365	Albuquerque	New Mexico	2015	35.14	-106.65
+Dog and Pony Brew Co. LLC	Tempe	Arizona	2014	33.44	-111.93
+Dolores River Brewery LLC	Dolores	Colorado	1998	37.5	-108.3
+Dragoon Brewing Company	Tucson	Arizona	2011	32.24	-111.07
+Dry Lands Brewing Company LLC	Lovington	New Mexico	2016	32.9	-103.4
+DSB Brewing Co., LLC	Queen Creek	Arizona	2007	33.2	-111.6
+Duel Brewing Company	Santa Fe	New Mexico	2014	35.6	-106.1
+Duel Overground, LLC	Albuquerque	New Mexico	2016	35.07	-106.64
+East West Beer Exchange	Colorado Springs	Colorado	2017	38.88	-104.82
+Eddie McStiff's, Inc.	Moab	Utah	1991	38.6	-109.4
+Eight Bit Brewing	Avondale	Arizona	2015	33.42	-112.32
+El Buzo Brewery LLC	Boise	Idaho	2013	43.7	-116.1
+Elevation 5003 Distillery, LLC	Fort Collins	Colorado	2015	40.52	-105.02
+Elk Ridge Brewing Company, LLC	Deer Lodge	Montana	2013	46.4	-112.7
+Epic Brewing Company, L.L.C.	Salt Lake City	Utah	2010	40.76	-111.88
+Erway Brewing Services LLC	Albuquerque	New Mexico	2015	35.14	-106.65
+Estes Park Brewery, Inc	Estes Park	Colorado	1994	40.4	-105.6
+Factotum Brewhouse	Denver	Colorado	2018	39.76	-105.02
+Fbbc, LLC	Golden	Colorado	2014	39.8	-105.3
+Fiction Beer Company	Denver	Colorado	2013	39.73	-104.91
+Fireweed Ferments LLC	Crested Butte	Colorado	2016	38.9	-106.9
+Five Star Brewing Co Inc	Las Vegas	Nevada	2004	36.06	-115.26
+Flag Brew Tours	Flagstaff	Arizona	2016	36.0	-111.0
+Flathead Lake Brewing Co., Inc.	Bigfork	Montana	2004	47.9	-113.7
+Flying Bass Et Brewing	Chandler	Arizona	2015	33.32	-111.82
+Foam On The Range	Centennial	Colorado	2016	39.63	-104.87
+Formulove LLC	Lehi	Utah	2014	40.39	-111.85
+Four Corners Brewing Co	Cortez	Colorado	1998	37.3	-108.7
+Four Peaks Brewing Company, Inc.	Tempe	Arizona	1995	33.44	-111.93
+Anheuser-Busch Companies, LLC	Fort Collins	Colorado	1852	40.7	-105.0
+Four Peas LLC	Tucson	Arizona	2004	32.21	-110.89
+Funkwerks, Inc.	Fort Collins	Colorado	2011	40.7	-105.0
+Gemini Brewing Company, LLC	Westminster	Colorado	2015	39.88	-105.04
+Glacier Brewing Company	Polson	Montana	2003	47.8	-114.2
+Golden City Brewery LLC	Golden	Colorado	1993	39.7	-105.2
+Goodman Cr Cos	Aurora	Colorado	2006	39.73	-104.79
+Grand Canyon Brewing Company, LLC	Williams	Arizona	2007	35.7	-112.5
+Grand Teton Brewing Co., Inc.	Victor	Idaho	1997	43.6	-111.2
+Granite Brewery LLC	Albuquerque	New Mexico	2016	35.15	-106.57
+American Craft Brewery LLC	Cincinnati	Ohio	1984	39.12	-84.55
+Great Divide Brewing Company	Denver	Colorado	1993	39.76	-104.97
+Great Northern	Denver	Colorado	1996	39.64	-104.91
+Great Northern Brewing Company	Whitefish	Montana	2002	48.5	-114.6
+Grimm Brothers Brewhouse LLC	Loveland	Colorado	2010	40.4	-105.2
+Harvest Moon Brewing, LLP	Belt	Montana	1997	47.3	-110.9
+Helton Brewing Company Real Estate, LLC	Phoenix	Arizona	2016	33.51	-112.03
+High Performance Beverage Company	Cave Creek	Arizona	2012	33.8	-112.0
+High Sierra Brewing Co LLC	Sparks	Nevada	2015	39.54	-119.74
+Holm Brew Brewing Co	Clifton	Colorado	2018	39.08	-108.41
+Hometown Brewing Company	Prescott	Arizona	2016	34.5	-112.4
+Hops and Handlebars, Inc.	Lafayette	Colorado	2016	40.02	-105.1
+Hub City Brewing Co. LLC	Los Lunas	New Mexico	2013	34.8	-106.8
+Hutchison W Gary	Whitefish	Montana	1991	48.5	-114.6
+Indian Head Brewing Company	Las Vegas	Nevada	2016	36.18	-115.31
+Indian Peaks Brewing Company	Longmont	Colorado	1993	40.17	-105.09
+Iron Works Brewery & Pub Inc	Lakewood	Colorado	1990	39.69	-105.15
+James R Lukash	Phoenix	Arizona	2016	33.8	-112.1
+Javu Brew LLC	Boise	Idaho	2016	43.56	-116.29
+Jjb Unlimited, LLC	Northglenn	Colorado	2015	39.9	-104.94
+Joseph James Brewing Co., Inc.	Henderson	Nevada	2007	36.06	-115.09
+Just Brew It	Carson City	Nevada	2010	39.1	-119.7
+Katabatic Brewing Co	Livingston	Montana	2014	45.5	-110.5
+Kettlehouse Brewing Co LLC	Missoula	Montana	1995	46.9	-113.9
+Knight International, L.L.C.	Reno	Nevada	2008	39.5	-119.9
+Kraus Brewing Services Ltd	Santa Fe	New Mexico	1993	35.6	-105.9
+Lang Creek Brewery Inc	Marion	Montana	1972	48.1	-114.8
+Little Big Brewing LLC	Berthoud	Colorado	2005	40.3	-105.1
+Little Black Drink LLC	Fort Collins	Colorado	2016	40.52	-105.02
+Little Machine LLC	Denver	Colorado	2014	39.76	-105.02
+Lovelady Brewing Company, LLC	Henderson	Nevada	2014	36.05	-114.96
+M Mountain Brewing Company	Maricopa	Arizona	2016	33.0	-111.9
+Madison River Brewing Company	Belgrade	Montana	2004	46.0	-111.1
+Mamachari, LLC	Salt Lake City	Utah	2013	40.76	-111.9
+Manitou Brewing Company LLC	Manitou Springs	Colorado	2013	38.83	-104.93
+Maple Mountain Brew Company / Mmbc	Provo	Utah	2015	40.24	-111.65
+Marble Brewery, Inc.	Albuquerque	New Mexico	2007	35.07	-106.64
+Melvin Brewing Company, LLC	Alpine	Wyoming	2014	43.13	-110.99
+Mesquite River Brewing Company LLC	Scottsdale	Arizona	2015	33.62	-111.95
+MI Lehigh Brew Review	Aurora	Colorado	2016	39.66	-104.77
+Anheuser-Busch Companies, LLC	Orlando	Florida	1852	28.4	-81.32
+Anheuser-Busch, LLC	Saint Louis	Missouri	1852	38.59	-90.22
+Miss Little Brewing	Phoenix	Arizona	2016	33.36	-112.03
+Missoula Brewing Company, LLC	Missoula	Montana	2006	47.0	-114.1
+MO Mighty Brewing Company	Great Falls	Montana	2012	47.52	-111.27
+Molson Coors Brewing Company	Denver	Colorado	1873	39.75	-105.0
+Coors Brewing Company	Elkton	Virginia	1873	38.4	-78.6
+Montucky Cold Snacks, LLC	Livingston	Montana	2012	45.5	-110.5
+Mother Lode Brewery Limited Liability Company	Idaho Springs	Colorado	1994	39.7	-105.7
+Murph's Corner Brew	Boise	Idaho	2015	43.56	-116.29
+Muzics Brews	Goodyear	Arizona	2015	33.48	-112.4
+N Q Brew	Denver	Colorado	2014	39.76	-104.97
+New Age Beverages Corporation	Denver	Colorado	2010	39.85	-104.95
+Anheuser-Busch, LLC	San Diego	California	1852	32.8	-117.24
+New Belgium Brewing Company, Inc.	Fort Collins	Colorado	1990	40.7	-105.0
+New Terrain Brewing Company Ltd.	Golden	Colorado	2015	39.8	-105.3
+Nimbus Brewing Company, L.L.C.	Tucson	Arizona	1996	32.25	-110.95
+Northman Brewery Inc	Montrose	Colorado	2015	38.5	-107.8
+Odd13 Brewing Inc.	Lafayette	Colorado	2013	40.02	-105.1
+Odell Brewing Company, Inc.	Fort Collins	Colorado	1989	40.7	-105.0
+Odyssey Beerwerks, LLC	Arvada	Colorado	2012	39.79	-105.1
+Off Leash Ales, LLC	Denver	Colorado	2015	39.66	-105.1
+On The Fly Brewery, LLC	Townsend	Montana	2017	46.5	-111.4
+Open Window Brewing Company LLC	Highlands Ranch	Colorado	2016	39.53	-104.95
+Opera Distillery	Amado	Arizona	2015	31.7	-111.0
+Outcrop Brewing Company	Highlands Ranch	Colorado	2016	39.54	-105.01
+Outdoor Brewing Company	Denver	Colorado	2015	39.68	-104.96
+Owl Brewing, LLC	Durango	Colorado	2016	37.4	-107.8
+Painted Lady Bed & Brew LLC	Albuquerque	New Mexico	2015	35.1	-106.67
+Paradox Beer Company, Inc	Divide	Colorado	2012	38.9	-105.1
+Payette Brewing Company LLC	Boise	Idaho	2010	43.7	-116.1
+Peak 54 Brewing Company	Denver	Colorado	2015	39.74	-105.02
+Peak Brewing Company LLC	Durango	Colorado	1996	37.4	-107.8
+Phoenix Brewing Company	Phoenix	Arizona	1996	33.43	-112.01
+Portneuf Valley Brewing LLC	Pocatello	Idaho	1996	42.9	-112.4
+Post Falls Brewing Company, LLC	Post Falls	Idaho	2013	47.7	-116.9
+Prairie Fire Brewing Company LLC	Gillette	Wyoming	2012	44.6	-105.6
+Millercoors LLC	Golden	Colorado	1855	39.7	-105.2
+Premier Marketing & Distribution, LLC	Las Vegas	Nevada	2013	36.08	-115.22
+Prison Hill Brewing Co., L.L.C.	Yuma	Arizona	2013	32.6	-114.7
+Proximo Distillers LLC	Denver	Colorado	2010	39.69	-105.0
+Pusch Ridge Brewing	Tucson	Arizona	1997	32.34	-110.98
+Quarry Brewing	Butte	Montana	2007	46.1	-112.4
+Rants & Raves Brewery LLC	Moscow	Idaho	2015	46.7	-116.9
+Ratio Beerworks	Denver	Colorado	2014	39.76	-104.97
+Record Street Brewing Co.	Reno	Nevada	2015	39.55	-119.8
+Red Lodge Ale House	Red Lodge	Montana	2001	45.2	-109.5
+Millercoors LLC	Plano	Texas	1855	33.08	-96.81
+Revision Brewing Company LLC	Sparks	Nevada	2016	39.61	-119.71
+Rio Bravo Brewing Company, LLC	Albuquerque	New Mexico	2013	35.07	-106.64
+Rise and Shine Moonshine Distillery and	Laughlin	Nevada	2015	35.2	-114.8
+Rising Sun Distillery	Denver	Colorado	2015	39.73	-104.97
+Rockslide Brewery	Grand Junction	Colorado	1995	39.07	-108.55
+Rockstar Brewing Company, Inc	Las Vegas	Nevada	2005	36.11	-115.21
+Rocky Mountain Brewing Company, LLC	Colorado Springs	Colorado	2006	38.85	-104.72
+Rvival Brew LLC	Evergreen	Colorado	2014	39.7	-105.4
+SA Als Bean Boutique	Kingman	Arizona	2003	35.3	-113.7
+Salmon River Brewery LLC	Mccall	Idaho	2013	44.9	-115.9
+Salt Lake Brewing Co., LLC	Salt Lake City	Utah	2007	40.71	-111.89
+San Tan Brewing Company, LLC	Chandler	Arizona	2006	33.32	-111.82
+Sangre De Cristo Brewing Inc	Taos	New Mexico	1987	36.5	-105.5
+Santa Fe Brewing Company	Santa Fe	New Mexico	1988	35.5	-105.9
+Sawtooth Brewery LLC	Ketchum	Idaho	2010	43.8	-114.6
+The Lagunitas Brewing Company	Chicago	Illinois	1993	41.85	-87.68
+Second Street Brewery Incorporated	Santa Fe	New Mexico	1995	35.6	-105.9
+Anheuser-Busch, LLC	Fort Collins	Colorado	1852	40.52	-105.02
+Anheuser-Busch, LLC	Roswell	Georgia	1852	34.02	-84.31
+Shamrock Brewing Company, Inc.	Denver	Colorado	2005	39.73	-104.98
+Shot Shooter International LLC	Brighton	Colorado	2010	39.96	-104.91
+Sierra Blanca Brewing Co., Inc.	Moriarty	New Mexico	1996	34.9	-105.8
+Sisu Brewing Company LLC	Loveland	Colorado	2016	40.5	-105.2
+Ska Brewing Co.	Durango	Colorado	1995	37.2	-107.9
+Skateboard Brewery	Phoenix	Arizona	2015	33.51	-111.99
+Skull Brewing	Reno	Nevada	2016	39.5	-119.83
+Sleeping Giant Brewing Company LLC	Helena	Montana	1995	46.5	-112.1
+Sleeping Giant Enterprises, LLC	Fort Collins	Colorado	2016	40.52	-105.02
+Sonoran Brewing Co LLC	Avondale	Arizona	2005	33.42	-112.32
+Southern Sub Pub & Brewery	Boulder	Colorado	2003	39.98	-105.26
+Square Peg Brewerks LLC	Alamosa	Colorado	2016	37.5	-105.8
+Stickman, LLC	Carlsbad	New Mexico	2016	32.4	-104.3
+Stoik Beverage, LLC	Arvada	Colorado	2017	39.83	-105.06
+Strange Brewing Company LLC	Denver	Colorado	2009	39.74	-105.02
+Sun Valley Brewing Co	Hailey	Idaho	1985	43.6	-114.3
+Take That Brewing	Thornton	Colorado	2015	39.96	-104.91
+The Arvada Liberation LLC	Arvada	Colorado	2012	39.79	-105.1
+The Brew Longmont	Longmont	Colorado	2015	40.17	-105.09
+The Brew Shack	Lake Havasu City	Arizona	2015	34.48	-114.33
+The Brewing-Science Institute Inc	Woodland Park	Colorado	1995	39.0	-105.0
+The Bunkhouse Brewery LLC	Bozeman	Montana	2015	45.6	-111.1
+The Patron Spirits Company	Las Vegas	Nevada	1990	36.08	-115.22
+The Union Colony Brewery LLC	Evans	Colorado	1994	40.37	-104.72
+Timberline Brewing Company	Boulder	Colorado	1997	40.05	-105.21
+Tjh LLC	Wellington	Colorado	2011	40.8	-105.1
+Tombstone Brewing Company	Tempe	Arizona	1996	33.44	-111.93
+Trail Crest	Flagstaff	Arizona	2017	35.2	-111.8
+Truth or Consequences Brewing Company	Truth Or Consequences	New Mexico	2016	33.1	-106.8
+Tumbleroot Brewing, LLC	Santa Fe	New Mexico	2018	35.5	-105.9
+Turtle Mountain Brewing	Rio Rancho	New Mexico	1999	35.3	-106.7
+Two22brew	Aurora	Colorado	2013	39.62	-104.78
+Uberbrew LLC	Billings	Montana	2012	45.7	-108.4
+Uinta Brewing Company	Salt Lake City	Utah	1993	40.75	-111.99
+Unnamed Beer Company, LLC	Boulder	Colorado	2017	40.05	-105.21
+Up North Distillery, LLC	Post Falls	Idaho	2015	47.7	-116.9
+Upslope Brewing Co	Boulder	Colorado	2008	40.05	-105.21
+Millercoors LLC	Milwaukee	Wisconsin	1855	43.04	-87.97
+Utah Brewers Cooperative, L.C.	Salt Lake City	Utah	2000	40.71	-111.89
+Vail Brewing Company	Avon	Colorado	2014	39.63	-106.52
+Veterans' Beer Alliance, Inc.	Colorado Springs	Colorado	2016	38.88	-104.82
+Vida Pueblo Brewing Company	Tucson	Arizona	2013	32.22	-110.97
+Anheuser-Busch, LLC	Jersey City	New Jersey	1852	40.72	-74.05
+Wanderlust Brewing Company	Flagstaff	Arizona	2010	36.0	-111.0
+Anheuser-Busch, LLC	Baldwinsville	New York	1852	43.2	-76.4
+Weldwerks Brewing Company, LLC	Greeley	Colorado	2014	40.4	-104.7
+Whichcraft, LLC	Denver	Colorado	2013	39.68	-104.96
+Whistling Hare Distillery	Golden	Colorado	2014	39.8	-105.3
+White Mountain Brewing Co LLC	Williams	Arizona	2007	35.7	-112.5
+Wicked Monkey Brewing Company, L.L.C.	Marana	Arizona	2013	32.3	-111.7
+Wild Egde Brewing Collective	Cortez	Colorado	2017	37.3	-108.7
+Wilderness Brewing Co	Roberts	Montana	1996	45.3	-109.2
+Windsor Can Plant	Windsor	Colorado	2011	40.5	-104.9
+Wmc/Pbd LLC	Pine Bluffs	Wyoming	2016	41.3	-104.2
+Yellowstone Valley Brewing LLC	Billings	Montana	1996	45.7	-108.4
+127 Brewing	Jackson	Michigan	2016	42.2	-84.4
+14th Star Brewing LLC	Saint Albans	Vermont	2014	44.8	-73.1
+1812 Brewing Company, Inc.	Watertown	New York	2017	44.0	-75.9
+1a Distillery Consulting LLC	Ipswich	Massachusetts	2015	42.7	-70.8
+2 Tones Brewing Co	Columbus	Ohio	2016	39.97	-82.87
+2124 Brewing Company LLC	Pittsburgh	Pennsylvania	2012	40.5	-80.08
+2nd Bridge Brewing Co LLC	Manchester	Connecticut	2016	41.8	-72.53
+3cross Brewing Company	Worcester	Massachusetts	2013	42.25	-71.84
+412 Brews Inc	Coraopolis	Pennsylvania	2015	40.5	-80.19
+459 Brewers Bridge LLC	Jackson	New Jersey	2015	40.1	-74.4
+46 and 2 Brewing LLC	Cleveland Heights	Ohio	2015	41.51	-81.57
+5 Mile Brewing Company LLC	Detroit	Michigan	2016	42.35	-83.0
+51 North Brewing	Lake Orion	Michigan	2011	42.78	-83.27
+612 Offnere Street LLC	Portsmouth	Ohio	2010	38.79	-82.92
+734 Brewing Company Inc.	Ypsilanti	Michigan	2013	42.27	-83.6
+7th Settlement Brewery, LLC	Dover	New Hampshire	2011	43.19	-70.89
+902 Brewing Inc	Jersey City	New Jersey	2017	40.71	-74.07
+Anheuser-Busch, LLC	Lisle	Illinois	1852	41.79	-88.08
+Aberrant Brewing Company Inc	Howell	Michigan	2014	42.6	-83.9
+Actual Brewing Company LLC	Columbus	Ohio	2015	40.01	-82.92
+Advanced Brewing Sys LLC	Prospect Park	New Jersey	2011	40.95	-74.19
+AEC Brews LLC DBA Old Firehouse B	Williamsburg	Ohio	2014	39.1	-84.0
+Aero Alehouse	Loves Park	Illinois	2014	42.33	-88.99
+Agonic Brewing Company LLC	Rice Lake	Wisconsin	2016	45.5	-91.7
+Ahnapee Brewery	Algoma	Wisconsin	2017	44.6	-87.5
+Alao, Temitope	Collinsville	Illinois	2015	38.7	-90.0
+Alchemy Brewing LLC	Stowe	Vermont	2005	44.5	-72.7
+Alchemy Canning, Ltd.	Stowe	Vermont	2011	44.5	-72.7
+Ale Asylum, LLC	Madison	Wisconsin	2012	43.13	-89.35
+Allagash Brewing Company	Portland	Maine	1994	43.69	-70.29
+Allied Brand	Grand Rapids	Michigan	2007	42.88	-85.53
+Alpha Beer Service, LLC	Columbus	Ohio	2001	40.08	-82.94
+Alt Brew	Madison	Wisconsin	2015	43.13	-89.35
+Alvarium Beer Company, LLC	New Britain	Connecticut	2016	41.69	-72.79
+American Beer Beverage Ltd Inc	Upper Darby	Pennsylvania	2011	39.96	-75.27
+Anheuser-Busch, LLC	New York	New York	1852	40.791	-73.966
+American Craft Brewery LLC	Boston	Massachusetts	2013	42.35	-71.04
+Anheuser-Busch, LLC	Williamsburg	Virginia	1852	37.2	-76.7
+Amherst Brewing Co Inc	Amherst	Massachusetts	1997	42.38	-72.52
+Ampere Brewing, LLC	Columbus	Ohio	2018	39.92	-82.88
+Amtec International of Newyork	Brooklyn	New York	2011	40.71	-73.95
+Anheuser-Busch, LLC	Houston	Texas	1852	29.76	-95.25
+Anheuser-Busch, LLC	Jacksonville	Florida	1852	30.5	-81.7
+Anheuser-Busch, LLC	Charlotte	North Carolina	1852	35.05	-80.81
+Anheuser-Busch Inbev Finance Inc.	New York	New York	2014	40.791	-73.966
+Anheuser-Busch Inbev Services, LLC	New York	New York	2017	40.791	-73.966
+Anheuser-Busch, LLC	Houston	Texas	1852	29.76	-95.25
+Anheuser-Busch, LLC	Washington	District of Columbia	1852	38.93	-76.97
+Anheuser-Busch, LLC	Pomona	California	1852	34.05	-117.72
+Anheuser-Busch, LLC	Van Nuys	California	1852	34.2	-118.49
+Anheuser-Busch, LLC	Country Club Hills	Illinois	1852	41.56	-87.73
+Anheuser-Busch, LLC	Saint Louis	Missouri	1852	38.59	-90.22
+Millercoors LLC	Milwaukee	Wisconsin	1855	43.04	-87.97
+Anheuser-Busch, LLC	Baldwinsville	New York	2016	43.2	-76.4
+Ann Arbor Ales Inc	Lansing	Michigan	2016	42.73	-84.56
+Another Brewing Company LLC	Pittsfield	Massachusetts	2018	42.5	-73.3
+Appalachian Brewing Company, Inc.	Harrisburg	Pennsylvania	1995	40.26	-76.89
+Apple Blossom Winery, LLC	Kalamazoo	Michigan	2012	42.3	-85.7
+Apple Rush Company	Glenview	Illinois	2010	42.08	-87.82
+Aquanaut Brewing Company	Chicago	Illinois	2012	41.97	-87.66
+AR Tart, LLC	Philadelphia	Pennsylvania	2015	40.07	-75.21
+Arclight Brewing Company	Watervliet	Michigan	2013	42.2	-86.2
+Argus Brewery	Chicago	Illinois	2010	41.69	-87.62
+Art Domain	New York	New York	2016	40.73	-73.99
+Artful Dodger Brewing Co	Midland	Michigan	2008	43.6	-84.4
+Ashleigh, Inc	Kennebunk	Maine	1987	43.4	-70.6
+Aspetuck Brew Lab LLC	Fairfield	Connecticut	2014	41.17	-73.28
+Atlas Distributing, Inc.	Auburn	Massachusetts	1933	42.2	-71.85
+Atwater In The Park	Grosse Pointe Park	Michigan	2014	42.38	-82.92
+Austin Brothers' Beer Company LLC	Alpena	Michigan	2015	45.1	-83.5
+Avalon Brewhouse LLC	Cape May Court House	New Jersey	2016	39.1	-74.8
+B & B Beverage	Milton	Pennsylvania	1975	41.0	-76.79
+B & S Beverage L L C	Patton	Pennsylvania	2008	40.6	-78.6
+Back Alley Brewery, LLC	Coopersburg	Pennsylvania	2018	40.5	-75.4
+Backdraft Brewing Company	Wayne	Michigan	1997	42.28	-83.39
+Bad Martha, LLC	Edgartown	Massachusetts	2012	41.39	-70.53
+Banko North Inc.	Jessup	Pennsylvania	2003	41.46	-75.55
+Bare Bones Brewery LLC	Oshkosh	Wisconsin	2014	44.0	-88.6
+Bare Cove Brewery	Hingham	Massachusetts	2016	42.22	-70.88
+Barkeater Craft Brewery, LLC	Lowville	New York	2012	43.8	-75.5
+Barley Island Brewing Co	Noblesville	Indiana	1999	40.1	-85.9
+Barleygrail Brewing Cooperative	Hudson	Ohio	2016	41.25	-81.46
+Barnstorm Brewing Company LLC	Coldwater	Ohio	2015	40.48	-84.67
+Barrel House Z, LLC	Weymouth	Massachusetts	2015	42.21	-70.93
+Barrier Brewing Company LLC	Long Beach	New York	2012	40.6	-73.64
+Basement LLC	Worcester	Massachusetts	2015	42.26	-71.8
+Bass Lake Brewing, LLC	Ludington	Michigan	2017	44.0	-86.4
+Battlefield Brew Works	Gettysburg	Pennsylvania	2013	39.8	-77.2
+Bavarian Birehaus Brauaus Milw	Glendale	Wisconsin	2016	43.14	-87.92
+Bayfront Brewing Co	Meadville	Pennsylvania	2008	41.6	-80.2
+Bb Brewing Company Inc	Malvern	Pennsylvania	1996	40.04	-75.53
+BBC Keg Company, LLC	Boston	Massachusetts	2002	42.35	-71.04
+Bear Bones, Inc.	Lewiston	Maine	2013	44.1	-70.2
+Bear Hands Brewing Company, Inc	Central Village	Connecticut	2016	41.69	-71.91
+Beer 4 Less	Zelienople	Pennsylvania	2007	40.77	-80.12
+Beer Baron, LLC	Indianapolis	Indiana	2010	39.87	-86.01
+Beer Brothers	Easton	Pennsylvania	2010	40.65	-75.22
+Beer Hitch Enterprises Inc	Fort Wayne	Indiana	2005	41.16	-85.06
+Beer To Go Inc	Easton	Pennsylvania	2008	40.65	-75.22
+Beercation, LLC	Pembroke	New Hampshire	2016	43.2	-71.4
+Belfast Bay Brewing Company Inc	Belfast	Maine	1996	44.5	-69.1
+Bell's Brewery, Inc.	Galesburg	Michigan	1983	42.29	-85.4
+Bell's Brewery, Inc.	Kalamazoo	Michigan	1983	42.3	-85.6
+Associated Microbreweries, Inc.	San Diego	California	1989	32.72	-117.18
+Benny Brewing Company LLC	Hanover Township	Pennsylvania	2016	41.22	-75.9
+Bent Frame Brewing	Madison	Wisconsin	2016	43.07	-89.46
+Bent River Brewing Co.	Moline	Illinois	1995	41.48	-90.49
+Millercoors LLC	Denver	Colorado	1855	39.82	-105.01
+Bent Water Brewing Co	Lynn	Massachusetts	2016	42.47	-70.97
+Berghoff Brewery	Chicago	Illinois	2018	41.9	-87.69
+Berkshire Brewing Company, Inc.	South Deerfield	Massachusetts	1992	42.47	-72.61
+Bernies Beer & Beverage Inc	Philadelphia	Pennsylvania	2005	40.02	-75.09
+Berry's Beverage Inc	Emlenton	Pennsylvania	2008	41.2	-79.7
+Best Beers, LLC	Bloomington	Indiana	2003	39.1	-86.6
+Better World Spirits Inc	York	Pennsylvania	2015	39.96	-76.73
+Beverage 364	Gibsonia	Pennsylvania	2015	40.64	-79.94
+Biere De Mac Brew Works, LLC	Mackinaw City	Michigan	2015	45.75	-84.73
+Big Boiler Brewing LLC	Lowell	Michigan	2015	43.0	-85.3
+Big Boy's Beer	Leechburg	Pennsylvania	2003	40.64	-79.61
+Big Daddy Brews LLC	East Kingston	New Hampshire	2016	42.91	-70.97
+Big Valley Beverage Inc	Reedsville	Pennsylvania	2000	40.68	-77.63
+Bigelow Brewing Company	Skowhegan	Maine	2015	44.8	-69.7
+Bighead Brewing Co LLC	Libertyville	Illinois	2004	42.29	-87.96
+Biloba Brewing Company	Brookfield	Wisconsin	2015	43.06	-88.16
+Binghamton Brewing Company, LLC	Johnson City	New York	2012	42.16	-76.0
+Bird Rare Holdings LLC	Holland	Michigan	2016	42.7	-86.1
+Birdfish Brewing Company, LLC	Columbiana	Ohio	2014	40.9	-80.7
+Black Bear Microbrew	Orono	Maine	2018	44.88	-68.72
+Black Bottom Brewing Company, Inc.	Detroit	Michigan	2016	42.33	-83.08
+Black Cloister Brewing Company, LLC	Toledo	Ohio	2014	41.65	-83.54
+Black Frog Brewery LLC	Holland	Ohio	2014	41.63	-83.75
+Black Hat Brew Works	Bridgewater	Massachusetts	2018	41.97	-70.98
+Black River Brewing Co Inc	Watertown	New York	2007	44.0	-75.9
+Black River Oar House Inc	Port Huron	Michigan	1996	42.99	-82.47
+Millercoors LLC	Milwaukee	Wisconsin	1855	43.04	-87.97
+Bloomer Brewery LLC	Eau Claire	Wisconsin	2014	44.8	-91.5
+Bloomer Brewing Co	Bloomer	Wisconsin	2015	45.1	-91.5
+Bloomer Brewing Company, LLC	Bloomer	Wisconsin	2011	45.1	-91.5
+Blue Island Beer Co	Blue Island	Illinois	2014	41.65	-87.68
+Bob C. Beverages, LLC	Wheeling	Illinois	2009	42.13	-87.92
+Bog Iron Brewing LLC	Norton	Massachusetts	2012	41.96	-71.18
+Boneshire Brew Works	Harrisburg	Pennsylvania	2016	40.27	-76.79
+Bonn Place Brewing, Inc.	Bethlehem	Pennsylvania	2015	40.59	-75.35
+Bookhouse Brewing, LLC	Cleveland	Ohio	2017	41.48	-81.7
+Boston Beer Company	Brooklyn	New York	2015	40.58	-73.99
+Boston Beer Corporation	Boston	Massachusetts	2000	42.35	-71.04
+Brainard Brewing, LLC	Mystic	Connecticut	2007	41.37	-71.98
+Brazen Street LLC	Brooklyn	New York	2008	40.67	-73.9
+Breakaway Brew Haus LLC	Bolton	Connecticut	2016	41.77	-72.44
+Breaker Brewing Co LLC	Wilkes Barre	Pennsylvania	2007	41.2	-75.8
+Breakroom Brewery	Chicago	Illinois	2014	41.95	-87.7
+Brew & Bronze	Gladstone	Michigan	2005	45.9	-87.1
+Brew By You	Auburn	New York	1996	42.9	-76.6
+Brew City Barkery LLC	New Berlin	Wisconsin	2016	42.97	-88.1
+Brew Cleveland LLC	North Olmsted	Ohio	2015	41.42	-81.92
+Brew Detroit LLC	Detroit	Michigan	2012	42.33	-83.08
+BREW EXPERIENCE	Morristown	New Jersey	2017	40.78	-74.5
+Brew Kettle Inc	Strongsville	Ohio	1995	41.31	-81.81
+Brew Kettle Strongsville LLC	Medina	Ohio	2013	41.1	-81.9
+Brew Monkeys LLC	Cincinnati	Ohio	2012	39.11	-84.49
+Brewchacho LLC	Cincinnati	Ohio	2016	39.16	-84.37
+Brewer's Apprentice, The Inc	Freehold	New Jersey	1996	40.2	-74.3
+John Harvard's Brewhouse, Llc	Framingham	Massachusetts	1992	42.32	-71.43
+Brewery Creek Brewing Company	Mineral Point	Wisconsin	1997	42.8	-90.1
+Brewery Legitimus LLC	Canton	Connecticut	2015	41.86	-72.91
+Brewery Ommegang Ltd.	Cooperstown	New York	1997	42.7	-74.9
+Brewery Real Estate Partnership	Columbus	Ohio	2008	39.97	-83.03
+Brewfarm Enterprises LLC	Wilson	Wisconsin	2008	44.92	-92.2
+Brewing On Front LLC	Collegeville	Pennsylvania	2015	40.18	-75.43
+Brewmasters Brewing Services, LLC	Williamsburg	Massachusetts	2016	42.4	-72.8
+Brewskees of Shiloh	York	Pennsylvania	2011	39.94	-76.81
+Brick and Barrel	Cleveland	Ohio	2014	41.48	-81.7
+Brick Road Brewery Corp	La Porte	Indiana	1996	41.6	-86.7
+Brighton Beverage Corporation	Norwood	Massachusetts	2010	42.18	-71.2
+Brinx Jones Brewing Company LLC	Haddonfield	New Jersey	2016	39.9	-75.04
+Anheuser-Busch, LLC	Saint Louis	Missouri	1852	38.59	-90.22
+Brix City Brewing	Little Ferry	New Jersey	2015	40.84	-74.04
+Broadway Brewing Corp	Jamaica	New York	1996	40.66	-73.82
+Broken Bat Brewing Company LLC	Milwaukee	Wisconsin	2015	42.97	-87.9
+Pyramid Breweries Inc.	Seattle	Washington	1984	47.57	-122.34
+Brook Broad Brewing LLC	East Windsor	Connecticut	2015	41.9	-72.59
+Brookline Bench Brewing Co., LLC	Cincinnati	Ohio	2017	39.1	-84.58
+Bruce Perry	Woodville	New York	2004	43.8	-76.2
+Brufist, LLC	Bowling Green	Ohio	2016	41.4	-83.7
+Bucks County Brewing and Distilling LLC	Pipersville	Pennsylvania	2014	40.43	-75.12
+Bucks County Brewing Co Inc	Lambertville	New Jersey	1996	40.37	-74.9
+Buddys Brews	Lemont Furnace	Pennsylvania	2007	39.93	-79.66
+Bull Falls Brewery LLC	Wausau	Wisconsin	2008	45.0	-89.5
+Bullock & Block Ltd	Rutland	Vermont	1989	43.6	-72.9
+Burgie Brauerei Inc	Newark	Ohio	1995	40.1	-82.4
+Burke's Brewing Company, Inc	Watertown	Massachusetts	2017	42.37	-71.18
+Burlington Beer Company	Williston	Vermont	2012	44.42	-73.09
+Busted Hump Brewing	West Simsbury	Connecticut	2016	41.87	-72.86
+Buttonwoods Craft Brewing LLC	Cranston	Rhode Island	2016	41.78	-71.43
+Buzzards Bay Brewing Inc	Westport	Massachusetts	1997	41.6	-71.1
+Byway Brewing Company LLC	Munster	Indiana	2014	41.55	-87.5
+C and D Stoney Tavern Ltd.	Findlay	Ohio	2018	41.0	-83.7
+C&D Brew U Sports Pub LLC	Findlay	Ohio	2015	41.0	-83.7
+Calumet Breweries Inc	Hammond	Indiana	1930	41.61	-87.49
+Cambridge Brewing Co Inc	Cambridge	Massachusetts	1989	42.36	-71.1
+Canal Street Brewing Co., L.L.C.	Grand Rapids	Michigan	1996	42.95	-85.67
+Cape Ann Brewing Company, Inc.	Gloucester	Massachusetts	2002	42.63	-70.69
+Cape Cod Beer, Inc.	Barnstable	Massachusetts	2005	41.7	-70.3
+Pyramid Breweries Inc.	Walnut Creek	California	1984	37.89	-122.04
+Cape May Brewing Limited Liability Company	Cape May	New Jersey	2007	38.97	-74.9
+Capital Brewery Company, Inc.	Middleton	Wisconsin	1984	43.1	-89.51
+Capitol Distributors Inc	Concord	New Hampshire	2011	43.2	-71.5
+Captain Lawrence Brewing, LLC	Pleasantville	New York	2005	41.13	-73.79
+Carbondale Craft Beer LLC	Carbondale	Illinois	2011	37.67	-89.27
+Carey House Cider and Brew Company LLC	Highland	New York	2016	41.7	-74.0
+Carlyle Brewing Co	Rockford	Illinois	2004	42.25	-89.08
+Carry Grandview Out	Columbus	Ohio	2008	39.97	-83.03
+Carton Brewing Company LLC	Atlantic Highlands	New Jersey	2010	40.4	-74.04
+Cartoon Brew	Brooklyn	New York	2016	40.65	-73.98
+Castle Island Brewing Company, LLC	Norwood	Massachusetts	2014	42.18	-71.2
+Caulfield's Restaurant Ltd	Flossmoor	Illinois	1996	41.54	-87.68
+Central Waters Brewing Co., Inc.	Amherst	Wisconsin	2000	44.41	-89.32
+Chapel House Brewery LLC	Livonia	Michigan	2016	42.4	-83.38
+Chapman's Cider Company LLC	Angola	Indiana	2012	41.7	-85.0
+Charter Oak Brewing Company LLC	New Canaan	Connecticut	2011	41.16	-73.5
+Chelsea Brewing Company, L.L.C.	New York	New York	1995	40.74	-74.0
+Chelsea Craft Brewing Company, LLC	Bronx	New York	2016	40.85	-73.9
+Chester County Brewing Company Inc	Downingtown	Pennsylvania	2001	40.0	-75.7
+Chester Haymore	East Saint Louis	Illinois	1983	38.6	-90.11
+Chocolay River Brewery LLC	Marquette	Michigan	2013	46.6	-87.3
+Choi and Park Inc	Emmaus	Pennsylvania	2016	40.52	-75.5
+Millercoors LLC	Milwaukee	Wisconsin	1855	43.04	-87.97
+Churchkey Farms, LLC	Deerfield	Michigan	2014	41.9	-83.8
+Cicerone Certification Program	Chicago	Illinois	2014	41.95	-87.65
+Cintron Beverage Group, LLC	Philadelphia	Pennsylvania	2006	39.89	-75.24
+Cisco Brewers, Inc.	Nantucket	Massachusetts	1995	41.3	-70.1
+City Beverage LLC	Markham	Illinois	2002	41.6	-87.68
+City Brewing	Latrobe	Pennsylvania	2008	40.3	-79.4
+City Brewing Company LLC	Latrobe	Pennsylvania	1932	40.3	-79.4
+City Brewing Company, LLC	La Crosse	Wisconsin	2000	43.8	-91.2
+Civilian Brewing Corps LLC	Bloomington	Indiana	2016	39.1	-86.6
+Clarion River Brewing Co	Clarion	Pennsylvania	2016	41.2	-79.4
+Climax Brewing Co Inc	Roselle Park	New Jersey	1995	40.67	-74.27
+Cmb Cincinnati, LLC	Middletown	Ohio	2003	39.44	-84.38
+Cnc Malting Company	Fenelton	Pennsylvania	2016	40.86	-79.74
+Cnc Malting Company, LLC	Butler	Pennsylvania	2015	40.8	-79.9
+Coastal Extreme Brewing Co, LLC	Newport	Rhode Island	1998	41.49	-71.32
+Cobblehaus Brewing Co	Coraopolis	Pennsylvania	2016	40.5	-80.19
+Cochraton Beverage	Cochranton	Pennsylvania	1997	41.5	-80.1
+Cody Brewing Company	Amesbury	Massachusetts	2010	42.85	-70.95
+Cold Brew Coffee Company LLC	Cheshire	Connecticut	2016	41.51	-72.91
+Collar Cold Brew LLC	New York	New York	2015	40.73	-73.98
+Colleagues of Beer, Inc.	Grayslake	Illinois	2012	42.34	-88.06
+Columbus Kombucha Company, LLC	Columbus	Ohio	2011	40.08	-82.98
+Common Crossing, Inc.	Berkley	Massachusetts	2010	41.83	-71.06
+Common Culture Brewing Co.	Evanston	Illinois	2013	42.03	-87.69
+Community Beer Works LLC	Buffalo	New York	2010	42.92	-78.89
+Conscious Mind Products LLC	Vernon Hills	Illinois	2018	42.24	-87.96
+Conshohocken Brewing Company	Havertown	Pennsylvania	2017	39.98	-75.31
+Conshohocken Brewing Company	Phoenixville	Pennsylvania	2017	40.13	-75.53
+Cooked River Brewing Co LLC	Cleveland	Ohio	2005	41.52	-81.67
+Cooper's Cave Ale Company Ltd (s-Corp)	Glens Falls	New York	1999	43.31	-73.64
+Cooperstown Brewing Company LLC	Oneonta	New York	1995	42.5	-75.1
+Copper City of Rome Brewing Company LLC	Rome	New York	2016	43.2	-75.5
+Core 3 Brewery Limited Liability Company	Franklinville	New Jersey	2015	39.62	-75.02
+Corner Brewery, LLC	Ypsilanti	Michigan	2006	42.27	-83.6
+Costar Brewing, Inc.	Pittsburgh	Pennsylvania	2011	40.47	-79.91
+Associated Microbreweries, Inc.	San Diego	California	1989	32.9	-117.21
+Cox Brewing Company Inc.	Mount Joy	Pennsylvania	2013	40.11	-76.51
+Craft Beer Guild Distributing of Vermont LLC	Kingston	Massachusetts	2010	41.98	-70.75
+Gordon Biersch Brewing Company	San Jose	California	1988	37.34	-121.88
+Craft Brewing Consultants Inc	Murrysville	Pennsylvania	2005	40.46	-79.66
+Crafted Pints Brewing Company LLC	Dayton	Ohio	2014	39.84	-84.11
+Cranberry Beverage Corp	Franklin	Pennsylvania	2001	41.4	-79.8
+Crazy Cowboy Brewing Company LLC	Woodbury	New York	2015	40.82	-73.47
+Crazy Winds Brewing	Dayton	Ohio	2015	39.74	-84.08
+Crown Brewing LLC	Crown Point	Indiana	2007	41.4	-87.3
+Crue Brew Brewery LLC	Raynham	Massachusetts	2015	41.94	-71.06
+Crystal Lake Beer Company	Crystal Lake	Illinois	2013	42.23	-88.31
+Curran Brewing Company LLC	Madison Township	Pennsylvania	2014	41.3	-75.5
+Custom Brewcrafters Inc	Honeoye Falls	New York	1997	43.0	-77.6
+D & H Inc	Middletown	Rhode Island	1952	41.52	-71.28
+D. G. Yuengling and Son, Incorporated	Pottsville	Pennsylvania	1829	40.7	-76.3
+Dayton Heidelberg Distributing Co.	Lorain	Ohio	1938	41.43	-82.22
+Dando Brewing Company, LLC	Vicksburg	Michigan	2016	42.1	-85.5
+Daredevil Brewing Co	Indianapolis	Indiana	2015	39.79	-86.25
+Dark City Brewery LLC	Asbury Park	New Jersey	2016	40.25	-74.05
+Das Big Dawg Brewhaus, LLC	Richmond	Indiana	2011	39.8	-84.9
+Tavistock Restaurants LLC	Indianapolis	Indiana	2003	39.77	-86.16
+Ddf.g, LLC	Saint Albans	Vermont	2005	44.8	-73.1
+Deciduous Brewing Co., LLC	Stratham	New Hampshire	2018	43.01	-70.9
+Definitive Brewing Company, LLC	Portland	Maine	2017	43.69	-70.29
+Dept 28 Inc	Schaumburg	Illinois	2010	42.04	-88.05
+Desi S Interstate Beer	Erie	Pennsylvania	2012	42.07	-80.17
+Destihl Brewery, LLC	Bloomington	Illinois	2015	40.47	-88.96
+Detroit Cycle Pub LLC	Macomb	Michigan	2016	42.65	-82.93
+Detroit Rivertown Brewing Compay LLC	Detroit	Michigan	2004	42.35	-83.0
+Devil's Belt Brewing Company LLC	Wallingford	Connecticut	2016	41.46	-72.81
+Dewalt Brewing Company	Reading	Pennsylvania	2016	40.33	-75.86
+DG BREWING COMPANY LLC	Ada	Michigan	2015	43.0	-85.5
+Diageo Investment Corporation	Norwalk	Connecticut	2007	41.14	-73.41
+Dinos Drive Thru LLC	Wooster	Ohio	2009	40.8	-82.0
+Dirftless Distillery	Baraboo	Wisconsin	2015	43.5	-89.7
+District Brewing Co, Inc	Columbus	Ohio	1988	39.96	-83.09
+Dj Liquors Inc.	Davis Junction	Illinois	2014	42.11	-89.09
+Dockside	South Bend	Indiana	2015	41.66	-86.26
+Door County Brewing Co., LLC	Baileys Harbor	Wisconsin	2013	45.1	-87.1
+Dorchester Beer Holdings LLC	Boston	Massachusetts	2015	42.32	-71.0
+Downeast Cider House, LLC	Boston	Massachusetts	2011	42.37	-71.02
+Dragon Mead LLC	Warren	Michigan	1997	42.47	-83.0
+Draught Horse Group LLC	New Hudson	Michigan	2015	42.5	-83.62
+Drewrys Brewing Company	Mchenry	Illinois	2012	42.34	-88.28
+Driftless Brewing Company, LLC	Soldiers Grove	Wisconsin	2011	43.4	-90.8
+Drink Local Draft Service	Cincinnati	Ohio	2016	39.26	-84.53
+Drinkgp, LLC	Indianapolis	Indiana	2016	39.87	-86.1
+Ds Brewing Company	Philadelphia	Pennsylvania	2000	39.97	-75.12
+Dscc Ventures, LLC	Long Island City	New York	2015	40.74	-73.94
+Durr Distributing LLC	Indianapolis	Indiana	2014	39.9	-86.3
+Duvel Mortgage USA Inc.	Cooperstown	New York	2015	42.7	-74.9
+Dyckman Brewing Company Inc	Bronx	New York	2013	40.82	-73.92
+Eagles Club	Mcconnelsville	Ohio	1935	39.7	-81.8
+Earnest Brew Works	Toledo	Ohio	2016	41.6	-83.67
+Earth Rider Brewing, LLC	Superior	Wisconsin	2015	46.6	-92.1
+East Coast Brewing Co LLC	Point Pleasant Beach	New Jersey	2010	40.08	-74.06
+East End Brewing Company, Inc.	Pittsburgh	Pennsylvania	2006	40.45	-79.9
+East Falls Beverage, LLC	Philadelphia	Pennsylvania	2015	40.01	-75.18
+East Rock Brewing	Cheshire	Connecticut	2015	41.51	-72.91
+Easton Beer	Glenside	Pennsylvania	2008	40.1	-75.18
+Easton Brewing Company LLC	Easton	Connecticut	2015	41.27	-73.31
+Eastwood Brewing Co.	Syracuse	New York	2018	43.07	-76.11
+Elk Brewing	Comstock Park	Michigan	2017	43.08	-85.68
+Ellicottville Brewing West	Fredonia	New York	2005	42.4	-79.3
+Elmhurst Brewing	Elmhurst	Illinois	2016	41.89	-87.94
+Elmhurst Brewing Co	Elmhurst	Illinois	2016	41.89	-87.94
+Empire Brewing Company, Inc.	Syracuse	New York	2006	43.04	-76.15
+Equilibrium Brewery, LLC	Middletown	New York	2014	41.4	-74.5
+Fabiano Brothers Development - Wisconsin, LLC	Bay City	Michigan	2012	43.6	-83.9
+Fancy Giraffe Brewing LLC	South Windsor	Connecticut	2015	41.83	-72.57
+Farm Coast Brewery LLC	Tiverton	Rhode Island	2015	41.61	-71.17
+Farm To Fist Brewing, LLC	Columbus	Ohio	2017	39.99	-83.0
+Fifty West Brewing Company	Cincinnati	Ohio	2012	39.16	-84.37
+Figure Eight Brewing LLC	Valparaiso	Indiana	2010	41.5	-87.0
+Finch's Beer Company, LLC	Chicago	Illinois	2009	41.88	-87.69
+Finestkind Brewing	Hampton	New Hampshire	1994	42.91	-70.81
+Firewalker's Small Batch Distillery, LLC	Coplay	Pennsylvania	2015	40.68	-75.53
+Five Burroughs Brewing Co.	Brooklyn	New York	2017	40.64	-74.02
+Fixture Brewing Company	Waukesha	Wisconsin	2012	43.03	-88.29
+Fizzics Group L.L.C.	Wall Township	New Jersey	2016	40.2	-74.17
+Floyd County Brewing Company L	New Albany	Indiana	2015	38.3	-85.8
+Flying Bison Brewing Company	Buffalo	New York	1995	42.86	-78.83
+Foam Brewers	Burlington	Vermont	2015	44.48	-73.2
+Folksbier Brauerei L.L.C.	Brooklyn	New York	2012	40.68	-74.0
+Forbidden Root, A Benefit LLC	Chicago	Illinois	2013	41.91	-87.61
+Forgottonia Brewing LLC	Macomb	Illinois	2018	40.4	-90.6
+Form Rare Brewing Company	Troy	New York	2015	42.7	-73.6
+Foundation Brewing Company	Portland	Maine	2012	43.69	-70.29
+Anheuser-Busch, LLC	Saint Louis	Missouri	1852	38.55	-90.32
+Four Mile Brewing, LLC	Olean	New York	2012	42.1	-78.4
+Four Points Bbq & Brewing Inc	Charleroi	Pennsylvania	2016	40.14	-79.93
+Fox River Brewing Company	Appleton	Wisconsin	2005	44.3	-88.4
+Fox River Brewing Company LLC	Oshkosh	Wisconsin	2013	44.07	-88.52
+Frankenmuth Brewery, LLC	Frankenmuth	Michigan	1987	43.36	-83.74
+Freedom Beverage Company, LLC	New York	New York	2012	40.75	-73.973
+Fresar Inc DBA Kozy Yak	Rosholt	Wisconsin	2012	44.7	-89.4
+Front Porch Brewing	Wallingford	Connecticut	2017	41.46	-72.81
+Frost Beer Works, LLC	Hinesburg	Vermont	2014	44.32	-73.09
+Fulton Street Brewery, LLC	Chicago	Illinois	2006	41.88	-87.69
+Funk Brewing Company LLC	Elizabethtown	Pennsylvania	2016	40.2	-76.6
+Furthermore Brewing, LLC	Spring Green	Wisconsin	2006	43.2	-90.1
+Geisler's Liquor Store	Thorofare	New Jersey	1935	39.86	-75.18
+Generations Brewing Company	Lancaster	Pennsylvania	2015	40.1	-76.3
+Gentle Giant Brewing Company LLC	Pearl River	New York	2016	41.06	-74.02
+Geoffrey Sullivan	Salem	Illinois	2013	38.6	-88.9
+Ghost Island Brewery	New Buffalo	Michigan	2017	41.79	-86.74
+Gilded Otter Brewing Co.	New Paltz	New York	1996	41.8	-74.1
+Ginger Windmill Brew LLC	Geneva	Illinois	2016	41.89	-88.31
+Gjs Sales, Inc.	Milwaukee	Wisconsin	1998	43.02	-87.93
+Glazer's Stoller Distributing, LLC	Franklin Park	Illinois	2013	41.93	-87.89
+Good Nature Brewing, Inc.	Hamilton	New York	2011	42.82	-75.54
+Goose Holdings, Inc.	Chicago	Illinois	1994	41.88	-87.69
+Gordon James LLC	Staten Island	New York	2014	40.63	-74.1
+Gpbc Inc	Ann Arbor	Michigan	1994	42.27	-83.71
+Grand Junction Brewery	Westfield	Indiana	2018	40.04	-86.17
+Gray Brewing Co.	Janesville	Wisconsin	1993	42.7	-89.1
+Great Brew Swag LLC	Green Bay	Wisconsin	2015	44.6	-88.1
+Great Lakes Brewing News	East Amherst	New York	1992	43.04	-78.7
+Great Rhythm Brewing Company LLC	Portsmouth	New Hampshire	2012	43.07	-70.8
+Great South Bay Brewery Corp	Bay Shore	New York	2008	40.71	-73.24
+Green Bay Brewing Company	Green Bay	Wisconsin	1995	44.49	-88.07
+Millercoors LLC	Fort Worth	Texas	1855	32.64	-97.33
+Green Lion Brewing Company, LLC	Pittsfield	Massachusetts	2013	42.5	-73.3
+Greenpoint Beerworks Inc	New York	New York	2004	40.76	-73.99
+Green's Pine Avenue Beer Distributors	Erie	Pennsylvania	1999	42.11	-80.05
+Grist House Brewing	Pittsburgh	Pennsylvania	2017	40.5	-79.97
+Group Martin LLC Jj	Newark	New Jersey	2014	40.7	-74.17
+Guinness America, Inc.	Norwalk	Connecticut	2007	41.14	-73.41
+Guys Brewing Gear	Kent	Ohio	2015	41.14	-81.33
+Guys Round Brewing Company	Lansdale	Pennsylvania	2011	40.23	-75.29
+Hackamore Inc	New York	New York	2015	40.75	-73.99
+Half Acre Beer Company	Chicago	Illinois	2006	41.95	-87.7
+Hanover Brewing Co, LLC	Hanover	Pennsylvania	2006	39.8	-77.0
+Hansa Bewery LLC	Cleveland	Ohio	2012	41.48	-81.7
+Hardcore Brewing Company	Seneca	Illinois	2014	41.3	-88.6
+Hardwick Sugar Shack	Hardwick	Massachusetts	2008	42.38	-72.19
+Harlem Brewing Company	New York	New York	2010	40.801	-73.953
+Harper Lane Brewery LLC	Middleboro	Massachusetts	2016	41.9	-70.9
+Harville Associates Inc	Harper Woods	Michigan	1997	42.44	-82.93
+Headquarters Pub LLC	Atlantic City	New Jersey	1998	39.39	-74.45
+Heartland Brewe	Port Chester	New York	2016	41.02	-73.68
+Heartland Malting LLC	Tiffin	Ohio	2016	41.1	-83.2
+Heavier Than Air Brewing Co LLC	Miamisburg	Ohio	2016	39.64	-84.27
+Heileman Brewing Company, Inc	La Crosse	Wisconsin	1996	43.8	-91.2
+Heller Brewing Co LLC	Sussex	Wisconsin	2006	43.15	-88.25
+Here and Now Brewing Company, LLC	Honesdale	Pennsylvania	2014	41.6	-75.3
+High Falls Brewing Company, LLC	Rochester	New York	1986	43.17	-77.6
+High Falls Operating Co, LLC	Rochester	New York	2008	43.17	-77.6
+High Jinx Brewing Company LLC	Providence	Rhode Island	2010	41.84	-71.44
+High Point Brewing Co Inc	Butler	New Jersey	1996	40.99	-74.38
+Highway Manor Brewing	Camp Hill	Pennsylvania	2017	40.24	-76.93
+Hill Farmstead, LLC	Greensboro Bend	Vermont	2007	44.57	-72.22
+Hill, James R & Hill, Earley W	Albany	Ohio	2009	39.2	-82.2
+Hired Hand Brewing	Vergennes	Vermont	2016	44.1	-73.3
+Hirth Brothers Brews LLC	Utica	Michigan	2017	42.64	-83.05
+Hobbs Tavern and Brewing Company LLC	West Ossipee	New Hampshire	2014	43.81	-71.23
+Hofbrauhaus of America LLC	Vassar	Michigan	2018	43.4	-83.6
+Holy Water Distillery LLC	Lewisberry	Pennsylvania	2016	40.13	-76.88
+Home Brew Camo LLC	Fombell	Pennsylvania	2015	40.83	-80.2
+Homestead Beer Company	Heath	Ohio	2012	40.0	-82.4
+Homestead Hard Cider LLC	Attleboro	Massachusetts	2013	41.94	-71.29
+Honest Weight Artisan Beer, LLC	Orange	Massachusetts	2013	42.6	-72.3
+Hoosier Brewhouse LLC	Fairland	Indiana	2016	39.62	-85.88
+Hop Butcher For The World, LLC	Darien	Illinois	2014	41.74	-87.99
+Hop Tree Brewing Ltd	Stow	Ohio	2016	41.18	-81.45
+Hops Brewhouse LLC	Pine Bush	New York	2015	41.6	-74.3
+Hopsters Brew and Boards	Boston	Massachusetts	2018	42.35	-71.04
+Hoptron Brewtique	Patchogue	New York	2012	40.7	-73.0
+Hornell Brewing Co Inc	White Plains	New York	2002	41.01	-73.74
+Horns & Halos Craft Brewing LLC	Caledonia	New York	2016	42.9	-77.8
+Horny Goat Brewing Co.	Milwaukee	Wisconsin	2009	43.02	-87.93
+Horsehead Brewering Inc	Horseheads	New York	2007	42.2	-76.8
+Hubbleton Brewing Company LLC	Waterloo	Wisconsin	2016	43.2	-89.0
+Hughes Brewing & Beverages	La Crosse	Wisconsin	2006	43.8	-91.2
+Hunterdon Brewing Company LLC	Whitehouse Station	New Jersey	1996	40.61	-74.76
+Hyde Park Brewing Co Inc	Hyde Park	New York	1995	41.79	-73.89
+Icarus Brewing	Lakewood	New Jersey	2017	40.07	-74.21
+Icb Acquisitions, LLC	Pittsburgh	Pennsylvania	2010	40.47	-79.95
+ICEE Company	Runnemede	New Jersey	2015	39.85	-75.08
+Im A Beer Hound	Lansing	Michigan	2010	42.73	-84.63
+Independent Brewers United Corporation	Burlington	Vermont	2008	44.48	-73.2
+Independent Brewers United Corporation	Rochester	New York	2017	43.17	-77.6
+Independent Brewers United, Inc.	Burlington	Vermont	2014	44.48	-73.2
+Independent Fermentations Brewing, LLC	Plymouth	Massachusetts	2014	41.9	-70.6
+Indian Ladder Farmstead Brewery and Cidery LLC	Altamont	New York	2014	42.7	-74.0
+Indiebrew, Llc.	Indianapolis	Indiana	2008	39.81	-86.32
+INTERNET 2001	New York	New York	2017	40.8	-73.97
+Iron Raven LLC	Washington	Michigan	2015	42.78	-83.04
+Irongate V LLC	Valparaiso	Indiana	2015	41.5	-87.1
+Jackie O'S Pub Brewery	Athens	Ohio	2018	39.3	-82.1
+Jackie Os Pub Brewery LLC	Athens	Ohio	2015	39.3	-82.1
+Jacob Leinenkugel Brewing Co., LLC	Chippewa Falls	Wisconsin	1867	44.9	-91.4
+Jalajas & Associates Computing, Inc.	Smithtown	New York	2016	40.86	-73.21
+James Joy, LLC	Farwell	Michigan	2014	43.8	-84.9
+Jamex Brewing Co	Grosse Pointe Woods	Michigan	2016	42.42	-82.9
+Refresco Beverages US Inc.	Fort Worth	Texas	1991	32.81	-97.05
+John S Adasek Jr	Utica	New York	2000	43.2	-75.2
+Jolly Pumpkin Artisan Ales LLC	Dexter	Michigan	2003	42.35	-83.9
+Jonas Bronck Brewing Co Inc	Florham Park	New Jersey	2001	40.77	-74.4
+Jones Brewing Company Inc	Smithton	Pennsylvania	1907	40.15	-79.72
+Joseph Huber Brewing Co Inc	Monroe	Wisconsin	1845	42.6	-89.6
+Jskc LLC	Wexford	Pennsylvania	2005	40.63	-80.08
+Just Little Ol'me LLC	Stratford	Connecticut	2018	41.23	-73.13
+K. Irwin Construction Inc	Quincy	Massachusetts	2016	42.24	-71.01
+K2 Brewing, Inc.	Penfield	New York	2016	43.15	-77.43
+Keegan Ales LLC	Kingston	New York	2004	41.9	-74.1
+Kennedy Beverage, LLC	Aliquippa	Pennsylvania	2011	40.6	-80.3
+Kent Falls Brewing Company	Kent	Connecticut	2016	41.73	-73.45
+Keuka Brewing Co., LLC	Hammondsport	New York	2008	42.5	-77.2
+Keweenaw Brewing Company, LLC	Houghton	Michigan	2003	47.1	-88.6
+Millercoors LLC	Rogers	Arkansas	1855	36.3	-94.1
+Keystone Food and Beverage Company	Bloomingdale	Illinois	2015	41.95	-88.1
+Kickback Brewery LLC	Westford	Vermont	2018	44.6	-73.01
+Kings County Brewers Collective, LLC	Brooklyn	New York	2014	40.65	-73.96
+Knot In The Grain Craft Brewery LLC	Rutland	Vermont	2015	43.6	-72.9
+Kosmo Enterprises Inc	Erie	Pennsylvania	1997	42.14	-80.09
+Kraftbrau Brewery Inc	Kalamazoo	Michigan	1996	42.3	-85.6
+Kraftify LLC	Pine Island	New York	2015	41.29	-74.49
+Kreider's Mulch	Washington Boro	Pennsylvania	1990	39.99	-76.44
+Millercoors LLC	Irwindale	California	1855	34.09	-117.97
+Kura, LLC	Waltham	Massachusetts	2015	42.37	-71.23
+Kyodo Beverage	New York	New York	2010	40.75	-73.973
+L and F Brewing Company LLC	Gahanna	Ohio	2015	40.03	-82.87
+La Cerveceria De San Luis LLC	New York	New York	2016	40.72	-73.99
+Labatt USA L.L.C.	Buffalo	New York	1996	42.87	-78.87
+Lackawanna Distributor Corp	Dunmore	Pennsylvania	2010	41.42	-75.6
+Lake Bluff Craft Brewing Company LLC	Lombard	Illinois	2016	41.88	-88.02
+Lake Monster Brewing LLC	Celina	Ohio	2014	40.5	-84.6
+Lake Stony Corporation	Saline	Michigan	2014	42.1	-83.8
+Lake Street Brewing, LLC	Oak Park	Illinois	2016	41.89	-87.79
+Lakefront Brewery, Inc.	Milwaukee	Wisconsin	1987	43.07	-87.91
+Lamplighter Brewing Co., LLC	Cambridge	Massachusetts	2014	42.36	-71.1
+Lancaster Brewing Company	Lancaster	Pennsylvania	2001	40.01	-76.25
+Lansing Brewing Company, LLC	Lansing	Michigan	2013	42.74	-84.52
+Laotto Brewing LLC	Avilla	Indiana	2015	41.35	-85.25
+Last Bay Beer Company LLC	Chicago	Illinois	2012	41.94	-87.66
+Laxios Ltd	Southampton	Massachusetts	2004	42.23	-72.74
+Lazy Eye Distillery	Wildwood	New Jersey	2015	38.99	-74.83
+Ld's Beer House Limited	Jeannette	Pennsylvania	2010	40.35	-79.61
+Legendary Brewing Company, LLC	Eagleville	Pennsylvania	2008	40.15	-75.38
+Leinenkugel Brewery	Chippewa Falls	Wisconsin	2014	44.9	-91.4
+Liambru Tasty, LLC	Proctor	Vermont	2016	43.65	-73.03
+Liberty Brewing Company Ltd	Grafton	Massachusetts	2001	42.2	-71.68
+Lic Brewery, LLC	Long Island City	New York	2012	40.74	-73.94
+Lick Toad Brewing Co	Shelton	Connecticut	2016	41.32	-73.14
+Life Force Beverages LLC	Boston	Massachusetts	2014	42.31	-71.08
+Like Minds Brewing, LLC	Chicago	Illinois	2015	41.88	-87.69
+Linda K Woodward Inc	Allentown	Pennsylvania	2001	40.57	-75.48
+Linesider Brewing Company, LLC	East Greenwich	Rhode Island	2018	41.64	-71.48
+Lion's Tail Brewing Co LLC	Greenville	Wisconsin	2015	44.3	-88.55
+Liquid State Brewing Company, Inc.	Ithaca	New York	2016	42.4	-76.5
+Lithology Brewing LLC	Baldwin	New York	2014	40.65	-73.61
+Little Guy Brewing Company LLC	Waterford	Michigan	2016	42.65	-83.41
+Local Beer LLC	Plympton	Massachusetts	2015	41.97	-70.81
+Lock 1 Distilling Company LLC	Phoenix	New York	2018	43.26	-76.34
+LOCUST LANE CRAFT BREWERY LLC	Malvern	Pennsylvania	2015	40.04	-75.53
+Lodge Brewing Inc	Plattsburgh	New York	2015	44.7	-73.5
+Loggers Brewing Co.	Saginaw	Michigan	2015	43.4	-84.1
+Long Ireland Brewing LLC	Riverhead	New York	2008	40.9	-72.6
+Long Live Beerworks, Inc.	Providence	Rhode Island	2014	41.82	-71.45
+Long Trail Brewing Company	Bridgewater Corners	Vermont	1989	43.6	-72.7
+Lord Hobo Brewing Company LLC	Woburn	Massachusetts	2013	42.49	-71.16
+Lost Nation Brewing, LLC	Morrisville	Vermont	2012	44.5	-72.6
+Lost Tavern Brewing, LLC	Hellertown	Pennsylvania	2011	40.59	-75.3
+Loud Beverage Corp.	Briarcliff Manor	New York	2006	41.14	-73.83
+Louie Lake Brewing LLC	Arena	Wisconsin	2002	43.1	-89.9
+Love Brewing Company	Philadelphia	Pennsylvania	2015	40.06	-75.08
+Lucette Brewing Company	Menomonie	Wisconsin	2009	44.8	-91.9
+Rock Bottom of Minneapolis, Inc.	Portland	Oregon	1993	45.52	-122.675
+Luck O Irish Beverage	Bohemia	New York	1990	40.77	-73.12
+Lucky Girl Brewing Company - Cross Roads	Paw Paw	Michigan	2016	42.2	-85.9
+M4 CIC LLC	Ann Arbor	Michigan	2015	42.22	-83.73
+Mad Scientists Brewing Partners LLC	Brooklyn	New York	2005	40.68	-74.0
+Magic Hat Brewing Company & Performing Arts Center, Inc.	South Burlington	Vermont	1994	44.45	-73.18
+Maine Beer Company, LLC	Freeport	Maine	2009	43.86	-70.1
+Maine Coast Brewing Co	Bar Harbor	Maine	1989	44.4	-68.3
+Majestic Foods, Inc.	Libertyville	Illinois	1994	42.29	-87.96
+Mantra America Inc.	Rockaway Park	New York	2007	40.58	-73.85
+Marios Drive Thru	Canton	Ohio	2005	40.8	-81.35
+Markers Edge LLC	Trenton	New Jersey	2018	40.23	-74.74
+Marks Brew Thru	Akron	Ohio	1993	41.01	-81.44
+Marnier-Lapostolle Inc.	New York	New York	1993	40.74	-73.97
+Marquette Distillery	Marquette	Michigan	2015	46.6	-87.3
+Mary Ann Pensiero Inc	Harrisburg	Pennsylvania	1986	40.29	-76.82
+Mass. Bay Brewing Company, Inc.	Boston	Massachusetts	1986	42.35	-71.04
+Massachusetts Beverage Alliance, LLC	Bellingham	Massachusetts	2011	42.08	-71.47
+Matt Brewing Co., Inc.	Utica	New York	1888	43.2	-75.2
+Mayflower Brewing Company, LLC	Plymouth	Massachusetts	2007	41.9	-70.6
+Mayhem Brewers, Inc.	Queensbury	New York	2015	43.4	-73.7
+Mbbc Vermont, LLC	Windsor	Vermont	1984	43.5	-72.5
+McKinleys Meadery LLC	Hebron	Ohio	2016	39.97	-82.52
+McLaughlin Distillery	Sewickley	Pennsylvania	2015	40.57	-80.15
+McMahon Brewing Co, LLC	Pittsburgh	Pennsylvania	2015	40.47	-79.95
+McZ's Brew Pub, LLC	Rosholt	Wisconsin	2016	44.7	-89.4
+ME 5 Cents, LLC	Wilkes Barre	Pennsylvania	2014	41.22	-75.9
+Medusa Brewing Company, Inc.	Hudson	Massachusetts	2013	42.39	-71.54
+Mercury Brewing & Distribution Co Inc	Ipswich	Massachusetts	1998	42.7	-70.8
+Mercury Brewing and Distribution Company, Inc	Ipswich	Massachusetts	1999	42.7	-70.8
+Meredith Bay Brewery	Center Harbor	New Hampshire	2015	43.71	-71.51
+Merino's Beer & Wine	Hudson	Ohio	1946	41.25	-81.46
+Metropolitan Brewing LLC	Chicago	Illinois	2009	41.95	-87.7
+Michigan City Brewing Co Inc	Michigan City	Indiana	2006	41.7	-86.9
+Middle Ages Brewing Company Ltd	Syracuse	New York	1995	43.05	-76.19
+Middlesex Brewing Co Inc	Wilmington	Massachusetts	1995	42.57	-71.17
+Midland Brew House	Saddle Brook	New Jersey	2015	40.9	-74.1
+Midwestern Ohio Brewing Society Inc	Versailles	Ohio	2015	40.25	-84.51
+Miiler Brewing Company	Trenton	Ohio	2010	39.49	-84.48
+Mikkeller Nyc	Flushing	New York	2018	40.75	-73.85
+Mill Brewing Company, LLC	Milltown	New Jersey	2017	40.45	-74.44
+Miller Breweries East, Inc	Milwaukee	Wisconsin	2004	43.04	-87.97
+Miller Brewing Company Employee Fund, Inc.	Milwaukee	Wisconsin	2000	43.04	-87.97
+Miller Brewing International, Inc.	Milwaukee	Wisconsin	1987	43.04	-87.97
+Miller Brewing Overseas, Inc	Milwaukee	Wisconsin	1990	43.04	-87.97
+Associated Microbreweries, Inc.	Costa Mesa	California	1989	33.68	-117.9
+Firestone Walker LLC	Penn Valley	California	1996	39.2	-121.2
+Millercoors LLC	Trenton	Ohio	1855	39.49	-84.48
+Night Shift Brewing, Inc.	Chelsea	Massachusetts	2012	42.4	-71.03
+Pyramid Breweries Inc.	Portland	Oregon	1984	45.55	-122.73
+Southern Glazer's Wine and Spirits of Texas, LLC	Baton Rouge	Louisiana	1968	30.43	-91.18
+Millercoors LLC	Menomonee Falls	Wisconsin	2017	43.15	-88.13
+MILLERCOORS LLC	Gurnee	Illinois	2017	42.38	-87.94
+Millercoors LLC LNG-TRM Dis &	Milwaukee	Wisconsin	2011	43.04	-87.97
+Mindful Brewing Company, LLC	Pittsburgh	Pennsylvania	2015	40.37	-80.02
+Minnicks Drive-Thru	Hamilton	Ohio	2010	39.4	-84.5
+Misconduct Brewing	Carmel	Indiana	2016	39.97	-86.18
+Miscreation Brewing	Hanover	Pennsylvania	2015	39.8	-77.0
+Mitten Brewing Company, LLC	Grand Rapids	Michigan	2012	42.98	-85.71
+Mlpnh Operating LLC	Eastchester	New York	2013	40.96	-73.81
+Modern Methods Brewing Company LLC	Warren	Ohio	2016	41.25	-80.82
+Moeller Brew Barn LLC	Maria Stein	Ohio	2015	40.4	-84.52
+Molly Pitcher Brewing Company	Carlisle	Pennsylvania	2014	40.23	-77.2
+Montauk Brewing Company, Inc.	Montauk	New York	1900	41.04	-71.94
+Moon Hill Brewing Co Inc	Athol	Massachusetts	2005	42.6	-72.2
+Moon Hill Brewing Co Inc	Gardner	Massachusetts	2005	42.59	-71.99
+Moorpat	Williamsville	New York	2014	42.99	-78.73
+Mor-Dall Enterprises, Inc	Marshall	Michigan	2000	42.3	-84.9
+Mortalis Brewing Company LLC	Rochester	New York	2017	43.23	-77.59
+Mount Pleasant Brewing Company	Mount Pleasant	Michigan	2012	43.6	-84.8
+Mountain Crest Srl LLC	Monroe	Wisconsin	2006	42.6	-89.6
+Moustache Brewing Co. LLC	Riverhead	New York	2012	40.9	-72.6
+Mt Hope Brewery Ltd	Cincinnati	Ohio	2015	39.11	-84.61
+Mug Shots Burgers and Brews	Allendale	Michigan	2015	42.98	-85.95
+Muller, Inc.	Philadelphia	Pennsylvania	1954	40.07	-75.01
+Municipal Brew Works LLC	Hamilton	Ohio	2014	39.4	-84.6
+Mythic Brewing LLC	Green Bay	Wisconsin	2003	44.54	-88.06
+Nano Brewing Technologies Inc	Philadelphia	Pennsylvania	2008	39.95	-75.16
+Narragansett Brewing Co	Pawtucket	Rhode Island	2006	41.88	-71.39
+Nash Brewing LLC	Loudon	New Hampshire	2015	43.3	-71.4
+Navigation Brewing Co	Tewksbury	Massachusetts	2014	42.61	-71.23
+Neighborhood Beer Company, Inc.	Exeter	New Hampshire	2015	43.0	-71.0
+New Barons Brewing Cooperative	Milwaukee	Wisconsin	2016	42.97	-87.9
+New England Brewing Company LLC	Woodbridge	Connecticut	1988	41.35	-73.0
+New Glarus Brewing Company	New Glarus	Wisconsin	1993	42.82	-89.65
+New Holland Brewery	Holland	Michigan	2016	42.8	-86.1
+New Holland Brewery	Grand Rapids	Michigan	2016	42.98	-85.71
+New Holland Brewing Company LLC	Holland	Michigan	1996	42.8	-86.1
+New Jersey Beer Co	North Bergen	New Jersey	2009	40.79	-74.02
+New Liberty Distillery	Philadelphia	Pennsylvania	2015	39.98	-75.15
+New Yankee Brewing	Greene	Rhode Island	2006	41.69	-71.73
+Newaygo Brewing Co LLC	Newaygo	Michigan	2014	43.4	-85.7
+Newburgh Brewing Company, LLC	Newburgh	New York	2012	41.54	-74.05
+Nine Giant Brewing, LLC	Cincinnati	Ohio	2016	39.11	-84.44
+Nite Owl Brewing LLC	Dayton	Ohio	2016	39.72	-84.19
+Noble Beast Brewing LLC	Cleveland	Ohio	2015	41.47	-81.74
+Noble Shepherd, LLC	Bloomfield	New York	2015	42.87	-77.47
+Nocturnum Brewing Company LLC	Sunbury	Ohio	2015	40.3	-82.8
+Nogi Brewing Company	Saylorsburg	Pennsylvania	2017	40.9	-75.4
+Noon Whistle Brewing	Lombard	Illinois	2015	41.88	-88.02
+Norris Brewing Supplies	Chicago	Illinois	1990	41.95	-87.75
+North American Breweries Holdings LLC	Rochester	New York	2009	43.17	-77.6
+North American Breweries, Inc.	Rochester	New York	2008	43.17	-77.6
+North Country Brewing Co	Slippery Rock	Pennsylvania	2002	41.0	-80.1
+North High Brewing LLC	Columbus	Ohio	2011	39.99	-83.0
+North Pier Brewing Company LLC	Saint Joseph	Michigan	2015	42.06	-86.45
+Northern Harvest Brewing Company, LLC	Moriah	New York	2014	44.02	-73.54
+Northshire Brewery Inc.	Bennington	Vermont	2010	42.9	-73.1
+Norton X Brewing Ltd	Plymouth	Michigan	2008	42.4	-83.5
+Norway Brewing Company, Inc.	Norway	Maine	2015	44.2	-70.6
+Null Taphouse	Dexter	Michigan	2015	42.35	-83.9
+Nutmeg Brewing & Restaurant Group LLC	Shelton	Connecticut	1996	41.32	-73.14
+Oak Park Brewing Company	Oak Park	Illinois	2016	41.89	-87.79
+Oak Pond Brewing Company	Skowhegan	Maine	1996	44.8	-69.7
+Oddball Brewing Co	Pembroke	New Hampshire	2014	43.2	-71.4
+Ohio Brewing Co., LLC	Akron	Ohio	2008	41.07	-81.52
+Olde Brooklyn Beverage Co, Inc	Brooklyn	New York	1998	40.7	-73.92
+Olde Bulldog Brewing LLC	Chicago	Illinois	2014	41.95	-87.65
+Olde Saratoga Brewing	Saratoga Springs	New York	2004	43.1	-73.8
+One Brew At A Time	Morrisville	Pennsylvania	2015	40.2	-74.81
+One Brew At A Time, LLC	Yardley	Pennsylvania	2015	40.2	-74.81
+O'Neill's Brewing Systems, LLC	Hamden	Connecticut	2013	41.37	-72.94
+Only Child Brewing Company, LLC	Gurnee	Illinois	2013	42.38	-87.94
+Ore Dock Brewing Company LLC	Marquette	Michigan	2011	46.6	-87.3
+O'So Brewing Company	Plover	Wisconsin	2007	44.4	-89.5
+Oswego Brewing Company, LLC	Oswego	Illinois	2016	41.69	-88.25
+Other Half Brewing Co	Brooklyn	New York	2016	40.68	-74.0
+Other Half Brewing Co.	Brooklyn	New York	2016	40.68	-74.0
+Otter Creek Brewing Company LLC	Middlebury	Vermont	1990	44.0	-73.2
+Outer Light Brewing Company LLC	Groton	Connecticut	2013	41.35	-72.04
+Oval Craft Brewing LLC	Altona	New York	2015	44.9	-73.6
+Oyster Bay Brewing Company	Oyster Bay	New York	2012	40.87	-73.53
+Ozone's Brew House LLC	East Lansing	Michigan	2015	42.76	-84.44
+Pac Partners, LLC	Chicago	Illinois	2012	41.95	-87.65
+Paddle Hard Distributing LLC	Grayling	Michigan	2016	44.7	-84.6
+Pangaea Beer Company LLC	Neshkoro	Wisconsin	2010	43.9	-89.2
+Paper City Brewery Co Inc	Holyoke	Massachusetts	1996	42.22	-72.64
+Paradox Brewery LLC	Schroon Lake	New York	2015	43.9	-73.7
+Paragraph 11, LLC	Woburn	Massachusetts	2014	42.49	-71.16
+Parched Eagle Brewpub LLC	Waunakee	Wisconsin	2014	43.2	-89.5
+Peacemaker Brewing Company LLC	Canandaigua	New York	2016	42.8	-77.3
+Peloton Cold Brew, LLC	West Chester	Pennsylvania	2015	40.0	-75.6
+Peoples Pint Brewery	Greenfield	Massachusetts	2002	42.63	-72.59
+Peoria's Brew On Premise	Peoria	Illinois	1998	40.68	-89.6
+Pepsico Beverages North America	Purchase	New York	2018	41.04	-73.71
+Pete's Beverage	Youngsville	Pennsylvania	1995	41.86	-79.32
+Philadelphia Brewers and Bottlers LLC	Philadelphia	Pennsylvania	2007	39.98	-75.12
+Pinelands Brewing Limited Liability Company	Tuckerton	New Jersey	2012	39.6	-74.4
+Pioneer Brewing Company, LLC	Fiskdale	Massachusetts	2004	42.11	-72.11
+Pitchfork Brewing	Hudson	Wisconsin	2013	45.0	-92.7
+Plan B Brewing Company, LLC	Londonderry	New Hampshire	2017	42.9	-71.4
+Platform Beers LLC	Cleveland	Ohio	2013	41.48	-81.7
+Plow Point Brewing Co	Chelsea	Michigan	2015	42.3	-84.0
+Plymouth Brewing Co LLC	Plymouth	Wisconsin	2010	43.8	-88.0
+Pogan Sayarat	Dublin	Ohio	2016	40.12	-83.14
+Poison Frog Brewing Company LLC	Jackson	Michigan	2014	42.22	-84.4
+Pollard Brewing	Canton	Michigan	2016	42.33	-83.49
+Pop A Top Cruise Thru	Mount Gilead	Ohio	2008	40.6	-82.8
+Port Huron Brewing Company, LLC	Wisconsin Dells	Wisconsin	2010	43.7	-89.8
+Portage Avenue Winery, LLC	Sault Sainte Marie	Michigan	2013	46.4	-84.3
+Potosi Brewing Company	Potosi	Wisconsin	2007	42.7	-90.7
+Pound It Brewing	Southampton	Pennsylvania	2016	40.19	-75.01
+Premier Malt Products Inc	Warren	Michigan	1933	42.47	-83.0
+Prescott Area Chamber-Commerce	Chippewa Falls	Wisconsin	2010	44.9	-91.4
+Princeton Homebrew	Trenton	New Jersey	2007	40.25	-74.79
+Proximo Distillers, LLC	Jersey City	New Jersey	2010	40.72	-74.05
+Public Craft Brewing Company LLC	Kenosha	Wisconsin	2010	42.62	-87.83
+Pup's Cider Company, LLC	Greenfield	New Hampshire	2002	42.93	-71.88
+Purblu Beverages Inc	Pittsburgh	Pennsylvania	2006	40.44	-79.99
+Pyramid	Tinley Park	Illinois	2015	41.57	-87.83
+Quick Six V Sub City	York	Pennsylvania	2001	39.92	-76.71
+Racine Brewing Company	Racine	Wisconsin	2017	42.69	-87.83
+Radiant Pig Beer Company LLC	New York	New York	2010	40.75	-73.99
+Rain Barrel Brewing	Lebanon	Ohio	2016	39.5	-84.2
+Raised Grain Brewing Company, LLC	Brookfield	Wisconsin	2015	43.06	-88.16
+Random Precision Brewing Company, LLC	Columbus	Ohio	2016	40.1	-83.06
+Raquette River Brewing	Tupper Lake	New York	2013	44.3	-74.4
+Rebellion Brew Haus	Moline	Illinois	2017	41.48	-90.49
+Reclamation Brewing Company	Butler	Pennsylvania	2012	40.9	-79.9
+Red Tail Brewing Company LLC	Reed City	Michigan	2015	43.9	-85.5
+Redemption Rock Brewery Co	Worcester	Massachusetts	2016	42.25	-71.76
+Referend LLC	Pennington	New Jersey	2016	40.33	-74.79
+Remarkable Liquids, LLC	Altamont	New York	2011	42.7	-74.0
+Revival Brewing Company	Cranston	Rhode Island	2011	41.77	-71.47
+Rhinebeck Hops LLC	Rhinebeck	New York	2015	41.93	-73.87
+Rhinelander Brewing Company LLC	Monroe	Wisconsin	2011	42.6	-89.6
+Riggs Beer Company	Urbana	Illinois	2016	40.1	-88.2
+Ritter Brewing Company LLC	Peckville	Pennsylvania	2015	41.48	-75.59
+Rivalry Brewing LLC	Farmington Hills	Michigan	2015	42.46	-83.35
+River Horse Brewery Co Inc	Ewing	New Jersey	1996	40.27	-74.82
+Riverwalk Brewing	Newburyport	Massachusetts	2016	42.81	-70.87
+Rmk Brewers LLC	Hampton	New Hampshire	2014	42.91	-70.81
+R'Noggin Brewing, LLC	Kenosha	Wisconsin	2014	42.54	-87.93
+Rochester Mills Production Brewery, L.L.C.	Auburn Hills	Michigan	2011	42.67	-83.28
+Rock Harbor Brewing Company	Rockland	Maine	2013	44.13	-69.13
+Rocky River Brewing Co	Rocky River	Ohio	1997	41.47	-81.85
+Rogers' Cideryard LLC	Johnstown	New York	2016	43.0	-74.4
+Rohrbach Brewing Company, Inc.	Rochester	New York	1991	43.13	-77.74
+Rolling Meadows Brewery, LLC	Springfield	Illinois	2009	39.77	-89.69
+Round Town Brewery, LLC	Indianapolis	Indiana	2013	39.7	-86.24
+Rowland's Calumet Brewing Co Inc	Chilton	Wisconsin	1990	44.0	-88.1
+Roy-Pitz Brewing Co., LLC	Chambersburg	Pennsylvania	2007	39.97	-77.67
+Rubber Soul Brewing Company, LLC	Harrisburg	Pennsylvania	2015	40.32	-76.88
+Rush River Brewing LLC	River Falls	Wisconsin	2004	44.8	-92.6
+Rust Belt Brewing LLC	Youngstown	Ohio	2008	41.11	-80.69
+S B C Holdings Inc.	Detroit	Michigan	1850	42.35	-83.0
+Saegertown Beer Distributor	Saegertown	Pennsylvania	1990	41.7	-80.1
+Sand Creek Brewing Company L L C	Black River Falls	Wisconsin	1998	44.3	-90.8
+Sap Brewing Inc	Aliquippa	Pennsylvania	2001	40.6	-80.3
+Saugatuck Brewing Co, Inc	Douglas	Michigan	1995	42.64	-86.2
+Sawmill Cider	Butler	Ohio	2017	40.5	-82.4
+Schreier Malting Co	Sheboygan	Wisconsin	2004	43.76	-87.71
+Scio To Brewing Company	Columbus	Ohio	2016	39.97	-83.03
+Scottish Bloodline Brewing Incorporated	Lowell	Massachusetts	2019	42.62	-71.34
+Sdr, LLC	Clinton	Connecticut	2010	41.3	-72.54
+Sebago Brewing Co.	Gorham	Maine	1998	43.7	-70.5
+Seery Athlone Brewing, Inc.	Addison	Illinois	2016	41.93	-88.02
+Seneca Street Enterprises. LLC	Manlius	New York	2015	43.0	-76.0
+Serious Brewing Co LLC	Esperance	New York	2014	42.78	-74.31
+Seventh Son Brewing Co	Columbus	Ohio	2012	39.99	-83.0
+Sgt S Drive Thru	Georgetown	Ohio	2010	38.9	-83.9
+Sheepscot Valley Brewing Co	Whitefield	Maine	2003	44.2	-69.6
+Sherwood Brewing Co	Utica	Michigan	2006	42.67	-83.0
+Shipyard Brewing Company Limited Liability Company	Portland	Maine	1994	43.66	-70.26
+Shire Draught LLC	Cicero	New York	2015	43.18	-76.07
+Shmaltz Brewing Company	Clifton Park	New York	2013	42.85	-73.79
+Shoprite Beverages Inc	Edison	New Jersey	1979	40.52	-74.34
+Shore Point Distributing Company, Inc.	Freehold	New Jersey	1933	40.2	-74.3
+Shoreline Brewing Company, LLC	Shelton	Connecticut	2003	41.32	-73.14
+Short's Brewing Co Inc	Rochester	Pennsylvania	1982	40.74	-80.23
+Short's Brewing Company, LLC	Elk Rapids	Michigan	2002	44.91	-85.4
+Shree Nathghi Corp	Delaware	New Jersey	2005	41.0	-75.0
+Shree Prabhu Krupa Inc T	Plainfield	New Jersey	2010	40.62	-74.43
+Side Effects Brewing Company, LLC	Nazareth	Pennsylvania	2014	40.76	-75.31
+Silver Creek Brewing Co	Cedarburg	Wisconsin	2007	43.31	-88.03
+Simple Brewer	Somers	New York	2012	41.33	-73.69
+Simple Brewing Company LLC	Brooklyn	New York	2015	40.68	-74.0
+Slesar Bros. Brewing Company, Inc.	Boston	Massachusetts	1989	42.363	-71.066
+Small Change Brewing Company, LLC	Somerville	Massachusetts	2015	42.39	-71.09
+SMK & Son Inc	Philadelphia	Pennsylvania	1991	40.01	-75.15
+SMS Brewing Co	Wilkes Barre	Pennsylvania	2015	41.2	-75.8
+Snicklefritz Cidery LLC	Coopersburg	Pennsylvania	2016	40.5	-75.4
+Snow Beverages Inc	New York	New York	2005	40.73	-73.98
+Snyder International Brewing Group LLC	Cleveland	Ohio	1998	41.52	-81.67
+So Cool Brands Inc.	Merrick	New York	2018	40.66	-73.55
+Sole Artisan Ales, Llc.	Easton	Pennsylvania	2015	40.65	-75.22
+Something Wicked Brewing LLC	Hanover	Pennsylvania	2014	39.8	-77.0
+Sons of Liberty Spirits Company	Wakefield	Rhode Island	2010	41.43	-71.54
+Sons of Toil Brewing LLC	Mount Orab	Ohio	2016	39.1	-83.9
+Soundgrowler Brewing Company	Tinley Park	Illinois	2016	41.57	-87.83
+South Bend Brew Werks LLC	South Bend	Indiana	2012	41.67	-86.25
+South Shore Brewery Inc	Ashland	Wisconsin	2000	46.8	-90.9
+South Side Drive Thru	Fort Loramie	Ohio	1991	40.33	-84.38
+Southport Brewing Co	Milford	Connecticut	2007	41.21	-73.05
+Southside Brew-Thru, LLC	Johnstown	Pennsylvania	2010	40.32	-78.88
+Spb LLC	Stevens Point	Wisconsin	2001	44.5	-89.6
+Specialty Beverage of Wisconsin, LLC	New Berlin	Wisconsin	1998	42.97	-88.1
+Spectacle Brewing, LLC	Garnerville	New York	2015	41.2	-74.0
+Spigot Brewing LLC	Ford City	Pennsylvania	2015	40.7	-79.5
+Sprague Farm & Brew Works	Venango	Pennsylvania	2005	41.78	-80.13
+Sprecher Brewing Company, Inc.	Glendale	Wisconsin	1985	43.14	-87.95
+St Benjamins Brewing Co	Philadelphia	Pennsylvania	2014	39.98	-75.15
+St. Nicholas Brewing Co.	Du Quoin	Illinois	2013	38.0	-89.3
+Steppin Out Inc	Newmanstown	Pennsylvania	1990	40.3	-76.26
+Stetson Brewing Co Inc	Manchester	Connecticut	1998	41.8	-72.53
+Steuben Brewing Co.	Hammondsport	New York	2019	42.5	-77.2
+Stickman Brews	Royersford	Pennsylvania	2016	40.21	-75.54
+Stickman Brews	Wayne	Pennsylvania	2015	40.06	-75.4
+Stickman Brews	Chester Springs	Pennsylvania	2018	40.1	-75.64
+Stoudt Brewing Company	Adamstown	Pennsylvania	1987	40.24	-76.06
+Strange Design Brewing Co., LLC	Scotch Plains	New Jersey	2017	40.64	-74.37
+Straub Brewery Inc	Saint Marys	Pennsylvania	1872	41.5	-78.5
+Sublime Brewing Company LLC	Plymouth	New Hampshire	2016	43.7	-71.7
+Sullivan Apple Cider	Saugus	Massachusetts	2007	42.47	-71.01
+Summit Beer Distributing Co.	Sewickley	Pennsylvania	2016	40.57	-80.15
+Sunday River Brewing Co, Inc	Boston	Massachusetts	1992	42.33	-71.04
+Sunrise Naturals LLC	Millersburg	Pennsylvania	2013	40.57	-76.91
+Sweetwater Brew, LLC	Wyoming	Michigan	2016	42.9	-85.72
+Sx Brewing Company, LLC	Ivoryton	Connecticut	2018	41.34	-72.45
+Symphony Brewing Systems LLC	Yardley	Pennsylvania	2011	40.2	-74.81
+T & H Kerrigan LLC	Nazareth	Pennsylvania	2016	40.76	-75.31
+Tailspin Brewing Company	Coldwater	Ohio	2016	40.48	-84.67
+Tenth and Blake Beer Company	Chicago	Illinois	2010	41.882	-87.637
+Terry Baker	Chambersburg	Pennsylvania	1958	39.9	-77.7
+The 861 Corp	Boston	Massachusetts	1973	42.33	-71.04
+The Backyard Brewhouse LLC	Kent	Ohio	2015	41.14	-81.33
+The Ball	Buffalo	New York	2015	42.94	-78.9
+The Baried Acorn Brewing Co LLC	Dundee	Illinois	2016	42.11	-88.32
+The Beer'd Brewing Co LLC	Stonington	Connecticut	2012	41.38	-71.92
+The Boston Beer Company Inc	Boston	Massachusetts	1984	42.35	-71.04
+Anheuser-Busch, LLC	Houston	Texas	1852	29.74	-95.45
+The Brew Kettle Production Works	Strongsville	Ohio	2007	41.31	-81.85
+The Brewery	Milwaukee	Wisconsin	2008	43.04	-87.92
+The Brewery Bunch Inc	Huntington	New York	2015	40.87	-73.41
+The Bronx Brewery LLC	Bronx	New York	2010	40.81	-73.92
+The Cape Vincent Brewing Co Inc	Peru	New York	2016	44.6	-73.6
+The Casual Pint	Loveland	Ohio	2016	39.26	-84.24
+The Coal Cracker Brewing Company	Reading	Pennsylvania	2001	40.35	-75.94
+The Commissary Brewing	Columbus	Ohio	2015	39.97	-83.03
+The Copper Penny Distillery LLC	Sanford	Maine	2016	43.4	-70.7
+The Cricket Hill Brewing Co Inc	Fairfield	New Jersey	2001	40.88	-74.3
+The Eastside Spot Inc	Marquette	Michigan	2010	46.6	-87.3
+The Eau Claire Brewing Project LLC	Eau Claire	Wisconsin	2013	44.8	-91.5
+The Foodery Phoenixvlle Inc	Blue Bell	Pennsylvania	2015	40.16	-75.28
+The Great Lakes Brewing Co	Cleveland	Ohio	1988	41.48	-81.7
+The Guy Beer	Warren	Vermont	2009	44.11	-72.85
+The Irish Mafia Brewing Co LLC	Victor	New York	2016	42.98	-77.42
+The Knickerbocker	Grand Rapids	Michigan	2016	42.98	-85.71
+The Landmark Brewing Co	East Syracuse	New York	2003	43.09	-76.05
+The Lion Brewery Inc	Wilkes Barre	Pennsylvania	1905	41.27	-75.84
+The Lumber Company Brewery LLC	Warren	Pennsylvania	2014	41.8	-79.1
+The Michigan Beer Growler Company	Franklin	Michigan	2014	42.52	-83.26
+The Mishawaka Brewing Company	Granger	Indiana	1992	41.73	-86.12
+The New Buffalo Brewing Co Inc	Clarence	New York	2013	43.0	-78.61
+The North Brewery LLC	Endicott	New York	2012	42.1	-76.1
+The Oracle Brewing Company	Saginaw	Michigan	2012	43.42	-83.97
+The Other Farm Brewing Company	Boyertown	Pennsylvania	2012	40.3	-75.7
+The Party Solution	Fremont	Michigan	2010	43.5	-85.9
+The Pittsburgh Brewing Company	Pittsburgh	Pennsylvania	1891	40.47	-79.95
+The Rivertown Brewing Company LLC	Middletown	Ohio	2009	39.44	-84.38
+The Stroh Companies Inc	Detroit	Michigan	1850	42.35	-83.0
+The Switchback Beerworks Inc	Burlington	Vermont	2002	44.48	-73.2
+The Tap	Bloomington	Indiana	2013	39.2	-86.6
+The Tri City Brewing Company	Bay City	Michigan	2007	43.6	-83.9
+The Washington Brewing Company	Washington	Pennsylvania	2016	40.2	-80.2
+The Westchester Homebrewers Organization Inc	Mohegan Lake	New York	2016	41.31	-73.85
+The White Lion Brewing Company LLC	Springfield	Massachusetts	2013	42.1	-72.52
+The Winery At Wyndridge Farm LLC	Dallastown	Pennsylvania	2013	39.88	-76.65
+Thieme and Wagner Brewing Company	Lafayette	Indiana	2016	40.3	-86.9
+Thirsty Dog Brewing Co	Akron	Ohio	2003	41.07	-81.52
+Thomas Hooker Brewing Co LLC	Bloomfield	Connecticut	2006	41.85	-72.74
+Three Floyds Brewing, LLC	Munster	Indiana	1996	41.55	-87.5
+Three Sheeps	Sheboygan	Wisconsin	2014	43.76	-87.71
+Threshers Brewing Co LLC	Warren	Maine	2016	44.12	-69.24
+Throwback Brewery LLC	North Hampton	New Hampshire	2010	42.98	-70.83
+Tin Bridge Brewing, LLC	Westfield	Massachusetts	2016	42.2	-72.8
+Tin Lizard Brewing Co	Newtown Square	Pennsylvania	2016	39.98	-75.44
+Tk Beer, Inc.	Upper Darby	Pennsylvania	2008	39.96	-75.27
+Tower Hill Berery	Chalfont	Pennsylvania	2014	40.29	-75.21
+Trail Point Brewing Company	Allendale	Michigan	2014	42.98	-85.95
+Train Wreck Distillery L.L.C.	Mount Holly	New Jersey	2015	40.01	-74.79
+Tri Town Discount Liquors	Canton	Massachusetts	2007	42.18	-71.12
+Tribute Brewing Company LLC	Eagle River	Wisconsin	2016	45.9	-89.2
+Trillium Brewing Company, LLC	Canton	Massachusetts	2011	42.18	-71.12
+Triple Bottom Brewing Co	Haverford	Pennsylvania	2017	40.01	-75.31
+Triple Eight Distillery, LLC	Nantucket	Massachusetts	2002	41.3	-70.1
+Troegs Brewing Company	Hershey	Pennsylvania	1996	40.27	-76.6
+Troon Brewing LLC	Belle Mead	New Jersey	2015	40.44	-74.65
+Troy City Brewing LLC	Fall River	Massachusetts	2016	41.69	-71.13
+Tuckahoe Brewing Company LLC	Egg Harbor Twp	New Jersey	2011	39.4	-74.6
+Turtle Swamp Brewing LLC	Boston	Massachusetts	2015	42.31	-71.12
+Tweed River Brewing Company, LLC	Mendham	New Jersey	2015	40.78	-74.59
+Twin Lights Brewing, LLC	Leonardo	New Jersey	2016	40.41	-74.06
+Twisted Branch Brewing Company LLC	Dearborn Heights	Michigan	2014	42.29	-83.26
+Two Bandits Brewing Company LLC	Bryan	Ohio	2016	41.5	-84.5
+Two Left Feet Brewing LLC	Grand Rapids	Michigan	2014	42.88	-85.53
+Two Tall Brewing Company LLC	Burlington	Wisconsin	2013	42.6	-88.3
+Tygart Beverage Co Inc	Troy	Pennsylvania	2004	41.8	-76.8
+Tyranena Brewing Company, LLC	Lake Mills	Wisconsin	1998	43.1	-88.9
+Ultimate Brewing Company	Drums	Pennsylvania	2015	41.0	-76.0
+Unbridled Brewing Company, LLC	Middletown	Ohio	2014	39.44	-84.38
+Under The Staircase Brewing Company LLC	Fort Wayne	Indiana	2016	41.15	-85.11
+Union House Brewing LLC	Plum City	Wisconsin	2011	44.6	-92.2
+Universal Crush, LLC	Allston	Massachusetts	2011	42.36	-71.13
+Untold Brewing LLC	Scituate	Massachusetts	2015	42.21	-70.77
+Upland Brewing Company	Indianapolis	Indiana	2009	39.82	-86.12
+Upland Brewing Company, Inc.	Bloomington	Indiana	1996	39.2	-86.6
+Upper Pass Beer Co. LLC	Tunbridge	Vermont	2015	43.9	-72.48
+Uptown Local	New York	New York	1991	40.78	-73.95
+Urban Brewing Initiative, L.L.C.	Detroit	Michigan	2014	42.3	-83.3
+Valcour Brewing Company LLC	Plattsburgh	New York	2012	44.65	-73.47
+Vanberg & Dewulf Co Inc.	Cooperstown	New York	2012	42.7	-74.9
+Vermont Beer Shapers, Ltd.	Springfield	Vermont	2014	43.3	-72.5
+Vermont Brewers Association	Burlington	Vermont	2018	44.48	-73.2
+Vermont Pub Brewry Burlington	Burlington	Vermont	1988	44.48	-73.2
+Vernon Wine & Liquor Inc.	Long Island City	New York	2013	40.74	-73.94
+Victory Brewing Company, LLC	Downingtown	Pennsylvania	1994	40.0	-75.7
+Victory Parkesburg	Parkesburg	Pennsylvania	2017	39.96	-75.93
+Vink & Beri LLC	Montgomeryville	Pennsylvania	2012	40.22	-75.23
+Wachusett Brewing Company Inc	Westminster	Massachusetts	1993	42.56	-71.91
+Wadsworth Brewing Company LLC	Wadsworth	Ohio	2016	41.1	-81.8
+Warped Wing Brewing Company, LLC	Dayton	Ohio	2014	39.76	-84.21
+Warsaw Brewing Corporation	Warsaw	Illinois	2007	40.3	-91.4
+Wasser Brewing Company LLC	Greencastle	Indiana	2014	39.7	-86.9
+Watch City Brewing Company, Inc.	Newburyport	Massachusetts	1994	42.81	-70.87
+Water Street Brewery	Milwaukee	Wisconsin	1987	43.04	-87.89
+WATERMARK BREWING CO LLC	Benton Harbor	Michigan	2015	42.1	-86.3
+West Bend Brewing Company, Ltd.	West Bend	Wisconsin	1997	43.5	-88.2
+West End Beer Mart	Johnstown	Pennsylvania	1987	40.37	-78.96
+West Hempstead Beverage	West Hempstead	New York	2010	40.69	-73.65
+West Kill Brewing LLC	West Kill	New York	2014	42.18	-74.34
+Westend Brewing LLC	Cincinnati	Ohio	2005	39.11	-84.61
+Westfield Beverage Company	Westfield	Pennsylvania	2007	41.9	-77.5
+Weyerbacher Brewing Co	Easton	Pennsylvania	1994	40.65	-75.22
+White Birch Brewing LLC	Nashua	New Hampshire	2009	42.77	-71.53
+Whitehorse Brewing LLC	Berlin	Pennsylvania	2014	39.9	-78.9
+Wilbos Inc	Quakertown	Pennsylvania	2015	40.5	-75.3
+Wild Beard Brewing Co	Pepperell	Massachusetts	2016	42.67	-71.59
+Wild Mitten LLC	Wyoming	Michigan	2014	42.9	-85.72
+William Simon Brewery	Buffalo	New York	2000	42.86	-78.83
+Willimantic Brewing Co. L.L.C.	Willimantic	Connecticut	1996	41.7	-72.21
+Willoughby Brewing Company	Willoughby	Ohio	1996	41.64	-81.37
+Windmill Brewing	Dyer	Indiana	2018	41.46	-87.5
+Wirtz Beverage Illinois, LLC	Cicero	Illinois	2012	41.84	-87.76
+Wisconsin Brewing Company, LLC	Verona	Wisconsin	2011	43.0	-89.6
+Wissahickon Brewing Company	Philadelphia	Pennsylvania	2015	40.05	-75.23
+Woodcock Brothers Brewing Comp	Wilson	New York	2013	43.27	-78.83
+Woodland Hop Farm and Fermentation, LLC	Utica	New York	2015	43.2	-75.2
+Woodward Avenue Brewers	Ferndale	Michigan	1997	42.46	-83.14
+Wt Brews, LLC	Baldwinsville	New York	2013	43.2	-76.4
+Ybc Holdings, Inc.	Philadelphia	Pennsylvania	1994	39.97	-75.12
+Yellow Springs Brewery, LLC	Yellow Springs	Ohio	2012	39.8	-83.9
+Yonkers Wholesale Beer Distributors Inc.	Yonkers	New York	2012	40.92	-73.89
+York Harbor Brewing Company	Kittery	Maine	2015	43.11	-70.73
+Ypsilanti Brewing Co	Ypsilanti	Michigan	2001	42.27	-83.6
+Zbh Malting, Inc.	Massapequa	New York	2006	40.68	-73.46
+Zenny Brewing Company LLC	Gloucester	Massachusetts	2015	42.63	-70.69
+1 Beech Brewing	Port Orange	Florida	2015	29.1	-81.08
+10k Brewing LLC	Anoka	Minnesota	2015	45.3	-93.4
+12 Point Brewing Company LLC	Panama City	Florida	2013	30.3	-85.7
+16 Mile Brewing Company, Inc.	Georgetown	Delaware	2009	38.7	-75.4
+1821 Brewhouse Inc	Lawrenceville	Georgia	2015	34.01	-84.01
+217 Brew Works	Wilson	North Carolina	2018	35.7	-77.9
+217 Brew Works LLC	Wilson	North Carolina	2015	35.79	-77.98
+23rd Street Brewery Acquisition LLC	Lawrence	Kansas	2006	38.89	-95.35
+2nd Shift Brewing	Saint Louis	Missouri	2017	38.63	-90.27
+3 Keys Brewing Company, LLC	Sarasota	Florida	2016	27.26	-82.52
+3 Yee Haw LLC	Pigeon Forge	Tennessee	2015	35.76	-83.57
+3rd Planet Brewing Inc.	Niceville	Florida	2015	30.6	-86.4
+3rd Wave Brewing Co., LLC	Delmar	Delaware	2012	38.5	-75.5
+4th Tap Brewing Cooperative	Austin	Texas	2015	30.38	-97.71
+5 Seasons Brewing LLC	Alpharetta	Georgia	2007	34.09	-84.22
+512 Brewing Company	Austin	Texas	2007	30.21	-97.8
+88.12 West LLC	Dauphin Island	Alabama	2015	30.2	-88.2
+900main LLC	Round Rock	Texas	2015	30.53	-97.72
+903 Brewers LLC	Sherman	Texas	2014	33.6	-96.5
+A C Miller Brewing Company	Eden	North Carolina	1977	36.5	-79.7
+A Lively Brew LLC	Hot Springs	Arkansas	2015	34.5	-93.1
+Abbey of The Holy Goats, Brewery, LLC	Roswell	Georgia	2015	34.02	-84.31
+Abita Brewing Co., L.L.C.	Covington	Louisiana	1984	30.48	-90.1
+ABS Oneshot, LP	Houston	Texas	2004	29.97	-95.34
+Accurate Beverage Services LLC	Royse City	Texas	2013	32.9	-96.3
+Ace Beverage Refurb & Sales LLC	Norcross	Georgia	2013	33.94	-84.21
+Adam Dalton Distillery	Asheville	North Carolina	2011	35.59	-82.56
+ADC Inc	Tucker	Georgia	2016	33.86	-84.21
+Adelbert's Brewery LLC	Austin	Texas	2010	30.38	-97.71
+Admerk Corp., Inc.	Washington	District of Columbia	2011	38.91	-77.02
+Aftershock LLC	Inman	South Carolina	2016	35.1	-82.1
+Against The Grain LLC	Louisville	Kentucky	2012	38.25	-85.75
+AJS Brewing Co	Lewes	Delaware	2006	38.7	-75.2
+Akademia Brewing Company LLC	Watkinsville	Georgia	2016	33.8	-83.4
+Alliance Brewing Company, LLC	Knoxville	Tennessee	2015	35.9	-83.8
+Alltech Lexington Brewing and Distillery	Lexington	Kentucky	2016	38.05	-84.5
+Alltechs Lexington Brewing & Distilling Co	Lexington	Kentucky	2010	38.05	-84.5
+Altmeyer & Lewis Brewing Company, LLC	San Marcos	Texas	2015	29.9	-98.0
+American Beerworks, LLC	Atlanta	Georgia	2016	33.79	-84.35
+Millercoors LLC	Milwaukee	Wisconsin	1855	43.04	-87.97
+Anheuser Busch Investment	Saint Louis	Missouri	1984	38.59	-90.22
+Anheuser-Busch Companies, LLC	Saint Louis	Missouri	1848	38.59	-90.22
+Millercoors LLC	Pittsford	New York	1855	43.06	-77.53
+Millercoors LLC	Stockbridge	Georgia	1855	33.6	-84.2
+Anheuser-Busch Inbev Worldwide Inc.	Saint Louis	Missouri	2008	38.59	-90.22
+Anheuser-Busch International Holdings, Inc.	Saint Louis	Missouri	1993	38.59	-90.22
+Anheuser-Busch River North Investment Capital Corporation	Saint Louis	Missouri	2009	38.59	-90.22
+Anheuser-Busch San Diego Wholesaler Development Corporation	Saint Louis	Missouri	2009	38.59	-90.22
+Anheuser-Busch Spanish Holdings, Inc.	Saint Louis	Missouri	2009	38.59	-90.22
+Anheuser-Busch Wholesaller Development Corp.	Saint Louis	Missouri	2009	38.59	-90.22
+Anheuser-Busch Wholesaller Development Corporation III	Saint Louis	Missouri	2009	38.59	-90.22
+Anheuser-Busch World Trade Ltd.	Saint Louis	Missouri	2009	38.59	-90.22
+Anheuser-Busch, LLC	Fort Collins	Colorado	1852	40.7	-105.0
+Anheuser-Busch, LLC	Duluth	Georgia	1852	34.02	-84.14
+Anheuser-Busch, LLC	Saint Louis	Missouri	1852	38.59	-90.22
+Apple A Day, Inc.	Sarasota	Florida	1993	27.33	-82.35
+Arcticbrew, Inc.	Lawrenceville	Georgia	2009	34.01	-84.01
+Asi Yahola Brewing Company LLC	Athens	Georgia	2019	34.0	-83.35
+Aspire Beverage Company, LLC	Victoria	Minnesota	2012	44.86	-93.66
+Athens Brewing Co	Athens	Texas	2015	32.2	-95.8
+Atlanta Technology Group, Inc.	Tucker	Georgia	2018	33.86	-84.21
+Atlantic Brewing Co	Atlanta	Georgia	2001	33.84	-84.38
+Atlas Brew Works	Washington	District of Columbia	2012	38.91	-76.98
+Atlast Brewing Company LLC	Atlanta	Georgia	2015	33.74	-84.38
+August Schell Brewing Company	New Ulm	Minnesota	1860	44.3	-94.5
+Augusta Brewing Co	Augusta	Missouri	2000	38.61	-90.88
+Authentic Beverages Company, Inc.	Austin	Texas	2003	30.24	-97.75
+Aviator Brewing Company	Fuquay Varina	North Carolina	2011	35.5	-78.8
+Aviator Brewing Company, Inc.	Holly Springs	North Carolina	2008	35.61	-78.87
+Azimuth Spirits LLC	Norman	Oklahoma	2017	35.2	-97.5
+B & B Brewery Company LLC	Norfolk	Virginia	2016	36.91	-76.22
+Ba Brewmeister Inc	Hampton	Virginia	1996	37.06	-76.41
+Bacardi USA	Bentonville	Arkansas	2011	36.3	-94.3
+Back Alley Brewers and More LLC	Ponca City	Oklahoma	2018	36.7	-97.1
+Back Forty Beer Company, LLC	Gadsden	Alabama	2009	34.0	-85.9
+Back Home Brewing, LLC	Ozark	Missouri	2015	37.1	-93.2
+Backcountry Brewery and Taproom	Rowlett	Texas	2016	32.89	-96.55
+Backswing Brewing Co., LLC	Lincoln	Nebraska	2016	40.79	-96.76
+Backyard Distillery LLC	Manning	South Carolina	2015	33.6	-80.2
+Bad Habit Brewing Company L. L. C.	Saint Joseph	Minnesota	2014	45.6	-94.4
+Badwolf Brewing Company, LLC	Manassas	Virginia	2012	38.74	-77.49
+Baile Cask & Kettle LLC	Urbana	Maryland	2017	39.34	-77.38
+Bald Man Brewing, Inc.	Eagan	Minnesota	2017	44.81	-93.2
+Bald Top Brewing Co, LLC	Madison	Virginia	2016	38.5	-78.3
+Baldwinpark Brewing Company	Orlando	Florida	2016	28.55	-81.3
+Ballad Brewing LLC	Danville	Virginia	2018	36.6	-79.5
+Bannon Corporation	Saint Louis	Missouri	2009	38.59	-90.22
+Bari-Canada, Inc.	Saint Louis	Missouri	2009	38.59	-90.22
+Barley Boys Brewery Co.	Omaha	Nebraska	1995	41.21	-96.05
+Barnhouse Brewery, LLC	Leesburg	Virginia	2011	39.2	-77.5
+Basic Brewery LLC	Greenville	South Carolina	2018	34.86	-82.29
+Battle & Brew of Sandy Springs LLC	Sandy Springs	Georgia	2015	33.93	-84.4
+Bauhaus Brew Labs L. L. C.	Minneapolis	Minnesota	2013	45.0	-93.24
+Bayne Brewing Company	Cornelius	North Carolina	2015	35.47	-80.89
+Bayou Teche Brewing L.L.C.	Arnaudville	Louisiana	2009	30.4	-91.9
+Bb2 LLC	Oklahoma City	Oklahoma	1998	35.48	-97.5
+Beacon Beverage Imports LLC	Southlake	Texas	2008	32.96	-97.15
+Beal Distributing, Inc.	Sioux Falls	South Dakota	1983	43.6	-96.68
+Beale Street Brewing Co. LLC	Memphis	Tennessee	2016	35.14	-90.0
+Bear Chase Brewing Company, LLC	Bluemont	Virginia	2017	39.09	-77.89
+Beer and Loathing On Broadway	Council Bluffs	Iowa	2010	41.2	-95.8
+Beer and Tobacco Express	Brunswick	Georgia	2010	31.3	-81.5
+Beer and Tobacco Watertown	Watertown	Tennessee	2009	36.1	-86.2
+Beer Engineers LLC	Birmingham	Alabama	2012	33.4	-86.7
+Beer Judge Certification Program Inc	Minneapolis	Minnesota	2008	44.95	-93.34
+Beer Study	Chapel Hill	North Carolina	2014	35.9	-79.2
+Beltway Brewing Company, LLC	Sterling	Virginia	2011	39.02	-77.4
+Bend Brewing LLC	Chattanooga	Tennessee	2007	35.03	-85.31
+Beno's Brew & Que	Port Charlotte	Florida	2016	27.0	-82.2
+Bentonville Brewing, LLC	Rogers	Arkansas	2015	36.3	-94.0
+Berry Company LLC	Leander	Texas	2015	30.5	-97.9
+Bevchek, Inc.	Fort Myers	Florida	2010	26.47	-81.81
+Big Bend Bees, LLC	Alpine	Texas	2015	30.0	-103.4
+Big Blue Brewing LLC	Cape Coral	Florida	2015	26.57	-81.94
+Big Storm Brewery, LLC	Odessa	Florida	2012	28.2	-82.6
+Big Timber Brewing Company LLC	Elkins	West Virginia	2012	38.9	-79.8
+Bishop Brew	Ottawa	Kansas	1999	38.6	-95.3
+Black Bear Cider Company LLC	Saint Louis	Missouri	2016	38.67	-90.32
+Black Flag Brewing Company, LLC	Columbia	Maryland	2014	39.17	-76.84
+Black Hoof Brewing Company LLC	Leesburg	Virginia	2016	39.1	-77.6
+Black-Eyed Susan Brewing Company, LLC	Columbia	Maryland	2013	39.2	-76.88
+Blacksburg Brewing Co	Charlottesville	Virginia	2007	38.0	-78.6
+Blackstone Brewing Company, LLC	Nashville	Tennessee	2009	36.15	-86.9
+Blanca's Tequila Incorporated	Saint Louis	Missouri	2009	38.45	-90.33
+Blind Mouth Brewing Company LLC	Saint Petersburg	Florida	2016	27.74	-82.69
+Blue Blood Brewing Company, Inc.	Lincoln	Nebraska	2011	40.78	-96.7
+Blue Kudzu Sake	Asheville	North Carolina	2013	35.59	-82.56
+Blue Mountain Brewery, Inc.	Afton	Virginia	2006	37.98	-78.79
+Blue Ridge Bites and Brews LLC	Blowing Rock	North Carolina	2016	36.1	-81.7
+Bluebonnet Beer Company, LLC	Round Rock	Texas	2013	30.5	-97.64
+Blues City Brewery, LLC	Memphis	Tennessee	2011	35.04	-89.93
+Bluff City Brewery, LLC	Memphis	Tennessee	2018	35.16	-89.92
+Bogmayer Ltd. Co.	North Charleston	South Carolina	2017	32.89	-80.06
+Bombshell Beer Company, LLC	Holly Springs	North Carolina	2012	35.61	-78.87
+Border Brewing Co.	Kansas City	Missouri	2018	39.08	-94.58
+Boss Burger and Brew	Hialeah	Florida	2016	25.94	-80.32
+Bossier Parish Distillery LLC	Bossier City	Louisiana	2016	32.58	-93.69
+Bottletree Beer Co., LLC	Tryon	North Carolina	2009	35.3	-82.2
+Bousa Brewing Co	Miami	Florida	2015	25.85	-80.18
+Boxcar Brewery, LLC	Lancaster	South Carolina	2012	34.8	-80.7
+Brackish Brewing Company Inc	Orlando	Florida	2016	28.47	-81.39
+Bradley Distributing Company	Kennett	Missouri	2001	36.2	-90.0
+Brau Brothers Brewing Co LLC	Marshall	Minnesota	2006	44.4	-95.7
+Brazos Valley Brewing Company, LLC	Brenham	Texas	2013	30.2	-96.4
+Breckenridge Brewery LLC	Saint Louis	Missouri	2016	38.59	-90.22
+Brevard Brewing Co.	Brevard	North Carolina	2016	35.2	-82.8
+Brew & Bottle, Inc	Saint Paul	Minnesota	1995	44.93	-93.12
+Brew Brunswick, LLC	Brunswick	Maryland	2016	39.32	-77.62
+Brew Bus Brewing Inc	Tampa	Florida	2012	27.99	-82.46
+Brew Central LLC	Jacksonville	Florida	2015	30.32	-81.68
+Brew Coffee LLC	Sugar Hill	Georgia	2016	34.12	-84.01
+Brew Hub, LLC	Lakeland	Florida	2012	28.04	-82.01
+Brew Lab	Overland Park	Kansas	2013	38.99	-94.68
+Brew Masters of Goldsboro	Goldsboro	North Carolina	2017	35.4	-77.9
+Brew Publik Incorporated	Charlotte	North Carolina	2015	35.21	-80.86
+Brew U LLC	Louisville	Kentucky	2013	38.2	-85.5
+Brew Water Enterprises LLC	Victoria	Minnesota	2014	44.86	-93.66
+Brew, LLC	Dickinson	North Dakota	2011	46.9	-102.8
+Brewbicle	Minneapolis	Minnesota	2012	44.94	-93.22
+Brewco LLC	Rural Retreat	Virginia	2015	36.9	-81.3
+Brewer Agency	Quitman	Arkansas	2016	35.4	-92.2
+Brewing	Dripping Springs	Texas	2017	30.2	-98.1
+Brewing A Better Forest Inc	Minneapolis	Minnesota	2016	44.93	-93.28
+Brewing LLC	Minneapolis	Minnesota	2015	44.94	-93.25
+Brewmasters Inc.	Wilson	North Carolina	2013	35.7	-77.9
+Brickstreet Brews LLC	Rogers	Arkansas	2014	36.3	-94.0
+Bricktown Brewery	Wichita Falls	Texas	2016	33.86	-98.55
+Bridal Brewing LLC	Ave Maria	Florida	2016	26.2	-81.2
+Bridge Brew Works LLC	Fayetteville	West Virginia	2008	38.1	-81.0
+Broken Antler Craft Brew and Cigar L.L.C.	Port St Lucie	Florida	2011	27.25	-80.33
+Broken Cauldron LLC	Orlando	Florida	2015	28.53	-81.41
+Broken Clock Brewing Cooperative	Minneapolis	Minnesota	2015	45.02	-93.24
+Broken Window Brewing Company LLC	Winchester	Virginia	2016	39.17	-78.17
+Bros2hoes Brewery Inc.	Lake City	Iowa	2013	42.3	-94.7
+Brown Jerrys Blues Brews	Pacific	Missouri	2016	38.5	-90.7
+Bs Unlimited, LLC	Imperial	Missouri	2005	38.4	-90.4
+BTS Two, LLC	Washington	District of Columbia	2014	38.94	-77.09
+Buff Brews	Houston	Texas	2014	29.77	-95.41
+Buffalo Bayou Brewing Company	Houston	Texas	2015	29.77	-95.41
+Buffalo Ridge Brewing Project, LLC	Hartford	South Dakota	2018	43.6	-97.0
+Bull Creek Brewing LLC	Austin	Texas	2015	30.4	-97.75
+Bull Durham Beer Co., LLC	Durham	North Carolina	2016	35.99	-78.9
+Bur Oak Brewing Company LLC	Columbia	Missouri	2010	38.9	-92.2
+Burial Beer Co., LLC	Asheville	North Carolina	2012	35.59	-82.56
+Burley Oak LLC	Berlin	Maryland	2011	38.3	-75.2
+Busch Entertainment Company International, Inc.	Orlando	Florida	2009	28.45	-81.46
+Bushwacker Beverage Company, LLC	Cape Girardeau	Missouri	2012	37.4	-89.6
+C. Villanueva Company, L.L.c	Houston	Texas	2007	29.75	-95.49
+Cabana Beverages, Inc.	Houston	Texas	2011	29.83	-95.47
+Cabarrus Brewing Company LLC	Concord	North Carolina	2016	35.4	-80.7
+Cahaba Brewing Company, LLC	Birmingham	Alabama	2011	33.52	-86.77
+Cajunboyz Brewery, LLC	Reserve	Louisiana	2016	30.06	-90.57
+Calfkiller Brewing Co	Sparta	Tennessee	2012	35.9	-85.5
+Cape Charles Brewing Company	Cape Charles	Virginia	2016	37.3	-75.8
+Caphin, Inc.	Houston	Texas	2012	29.75	-95.35
+Capitol Brewing Company, Pbc	Lexington	Kentucky	2018	38.05	-84.5
+Caram Company	Murfreesboro	Tennessee	2015	35.89	-86.32
+Carbon Brew, L.L.C.	Houston	Texas	2010	29.8	-95.5
+Carolina Bauernhaus, LLC	Anderson	South Carolina	2014	34.6	-82.8
+Carolina Beverage Group, LLC	Mooresville	North Carolina	1997	35.6	-80.8
+Carolina Brewing Company LLC	Holly Springs	North Carolina	1994	35.61	-78.87
+Carolina Global Inc	Columbia	South Carolina	2012	34.12	-80.87
+Carroll Farms LLC	Frederick	Maryland	2015	39.36	-77.46
+Carter Beverage Company	Fort Payne	Alabama	2011	34.4	-85.7
+Cash-WA Distributing Company	Aberdeen	South Dakota	2014	45.5	-98.5
+Castle Danger Brewery	Two Harbors	Minnesota	2014	47.3	-91.6
+Castleburg Brewery LLC	Richmond	Virginia	2015	37.55	-77.46
+Cat's Eye Distillery, LLC	Bettendorf	Iowa	2016	41.57	-90.46
+Cedar Island Brewing Company LLC	Albertville	Minnesota	2016	45.24	-93.67
+Cerberus Craft Distillery, LLC	Tampa	Florida	2016	28.01	-82.5
+Cervejas Premium Do Brazil, LLC	Boca Raton	Florida	2015	26.38	-80.1
+Champion Brewering Company	Charlottesville	Virginia	2014	38.0	-78.5
+Chaos Mountain Brewing LLC	Callaway	Virginia	2013	37.0	-80.1
+Chattanooga Brewing Co	Chattanooga	Tennessee	2010	35.03	-85.31
+Chava Solas Distilling Co LLC	La Vista	Nebraska	2010	41.18	-96.07
+Checker Spot Brewing	Baltimore	Maryland	2016	39.28	-76.53
+Chela Brewing Company, LLC	Lakewood Ranch	Florida	2016	27.41	-82.38
+Cherry Girl Enterprises LLC	Mount Clare	West Virginia	2005	39.22	-80.28
+Chesapeake Beer Works	Baltimore	Maryland	2015	39.26	-76.5
+Chesapeakemaine Trey	Rehoboth Beach	Delaware	2016	38.7	-75.1
+Chip N Sip Inc	Shelby	North Carolina	1996	35.2	-81.6
+Chocolate City Beer LLC	Washington	District of Columbia	2009	38.94	-76.99
+Chris J. Yahnis Corporation, Inc.	Florence	South Carolina	1966	34.21	-79.82
+Chuck Mach Miller Brewing	Baltimore	Maryland	2002	39.39	-76.53
+Chula Pasion, LLC	San Angelo	Texas	2013	31.5	-100.3
+Cib Brewery	Macedonia	Iowa	2018	41.2	-95.5
+Cibolo Creek Brewing LLC	Boerne	Texas	2014	29.9	-98.7
+Cigar City Brewing LLC	Tampa	Florida	2007	27.96	-82.54
+Citizens Brewing, LLC	Silver Spring	Maryland	2013	39.0	-77.04
+City Center Beverages	Georgetown	Texas	2007	30.7	-97.8
+Civic Center Corportation	Saint Louis	Missouri	2009	38.59	-90.22
+Clipper City Brewing Company, LP	Baltimore	Maryland	1994	39.24	-76.67
+Coast Brewing Co LLC	North Charleston	South Carolina	2008	32.85	-79.99
+Coastal Brewing Co	Annapolis	Maryland	2007	38.99	-76.54
+Coastal Canopy Brewhouse LLC	Spotsylvania	Virginia	2016	38.2	-77.7
+Coastal Empire Beer Co	Savannah	Georgia	2013	32.04	-81.17
+Cold Brew Beans, LLC	Austin	Texas	2015	30.31	-97.98
+Cold Spring Brewing Company	Cold Spring	Minnesota	1997	45.5	-94.4
+Comeback Brewing II, Inc.	San Antonio	Texas	2003	29.58	-98.48
+Comeback Brewing, Inc	San Antonio	Texas	1984	29.58	-98.48
+Computer Parts	Dadeville	Alabama	2016	32.8	-85.8
+Confluence Brewing Company, LLC	Des Moines	Iowa	2011	41.55	-93.62
+Conquest Brewing Company Inc	Columbia	South Carolina	2012	34.04	-81.11
+Coop Ale Works LLC	Oklahoma City	Oklahoma	2008	35.42	-97.65
+Core Brewing and Distilling Company	Springdale	Arkansas	2010	36.2	-94.0
+Cork & Barrel, Inc.	Cumming	Georgia	2010	34.3	-84.2
+Cosmos Brewing Company LLC	Hugo	Minnesota	2015	45.2	-93.0
+Country Boy Brewery	Lexington	Kentucky	2011	38.05	-84.5
+Craft Beverage Concepts LLC	Lagrange	Georgia	2016	33.0	-85.1
+Craftsman Distillery, LLC	Chesterfield	Virginia	2016	37.3	-77.6
+Craggie Brewing Company	Swannanoa	North Carolina	2008	35.63	-82.4
+Crazy Mule Food & Brew LLC	Greensburg	Kansas	2016	37.6	-99.3
+Crooked Thumb Brewery LLC	Safety Harbor	Florida	2015	28.01	-82.69
+Cuyuna Brewing Company L.L.C.	Crosby	Minnesota	2016	46.6	-94.0
+Dahlheimer Beverage, LLC	Minneapolis	Minnesota	2011	44.976	-93.272
+Daiquiri Cafe	Duncanville	Texas	2014	32.63	-96.91
+Daiquiris To Go	Dallas	Texas	2010	32.78	-96.82
+Day's End Brewing Company LLC	Saint Louis	Missouri	2013	38.61	-90.29
+Dead Beach Brewery, LLC	El Paso	Texas	2013	31.76	-106.48
+Deep Ellum Brewing Company, LLC	Dallas	Texas	2010	32.78	-96.78
+Deep Sleep Brewing Company LLC	Washington	Missouri	2015	38.5	-91.0
+Deepwoodsbevco3 Beverage Company	Tuskegee	Alabama	2018	32.4	-85.7
+Delmar Brewing Company LLC	Salisbury	Maryland	2009	38.35	-75.53
+Delmar Brewing Company, LLC	Salisbury	Maryland	2008	38.35	-75.53
+Delray Distillery LLC	Delray Beach	Florida	2015	26.45	-80.13
+Demons Run Brewing LLC	Arlington	Virginia	2014	38.91	-77.12
+Depot Street Brewing, LLC	Jonesborough	Tennessee	2004	36.3	-82.5
+DERELICT AIRSHIP DISTILLERY	Bastrop	Texas	2015	30.1	-97.3
+Devian LLC	Charlotte	North Carolina	2015	35.25	-80.69
+Devil's Creek Distillery LP	Morristown	Minnesota	2016	44.24	-93.44
+Dewey Beer & Food Company, LLC	Rehoboth Beach	Delaware	2016	38.7	-75.1
+Diamond Bear	North Little Rock	Arkansas	2014	34.77	-92.26
+Diamond Bear Brewing Company	North Little Rock	Arkansas	2000	34.77	-92.26
+Dibermex LLC	Miami Springs	Florida	2015	25.82	-80.31
+Dillon Beverage LLC	Plano	Texas	2008	33.04	-96.67
+Dimond Knoll Brewing Co., LLC	Cypress	Texas	2016	29.98	-95.66
+Diva's Brew	Crestview	Florida	2016	30.8	-86.4
+Dixie Brewing Company, LLC	New Orleans	Louisiana	2017	29.96	-90.08
+Diy Brew House LLC	Columbia	South Carolina	2015	34.12	-80.87
+Dodge City Brewing Co., LLC	Dodge City	Kansas	2016	37.7	-100.0
+Dog Hollow, LLC	Omaha	Nebraska	2016	41.24	-96.05
+Dogfish Head Craft Brewery LLC	Milton	Delaware	1995	38.8	-75.3
+Dogwood Brewing Associates LP	Atlanta	Georgia	1994	33.79	-84.44
+Double Barley Brewing, Inc.	Clayton	North Carolina	2014	35.66	-78.38
+Double Horn Brewery	Marble Falls	Texas	2017	30.6	-98.2
+Draught Barrel Brewery	Corpus Christi	Texas	2016	27.68	-97.4
+Dreamweavers' Brewery, LLC	Waxhaw	North Carolina	2014	34.9	-80.7
+Drinkplicity LLC	Saint Louis	Missouri	2016	38.59	-90.22
+Dry Falls Brewing Company, LLC	Weaverville	North Carolina	2016	35.7	-82.5
+Duclaw Brewing Company LLC	Bel Air	Maryland	1995	39.6	-76.3
+Duke's Brewhouse, Inc.	Plant City	Florida	2015	28.02	-82.13
+Dunedin Brewery Inc	Dunedin	Florida	1996	28.01	-82.78
+Eagle Creek Brewing Company LLC	Statesboro	Georgia	2012	32.4	-81.9
+Eagle Snacks	Alexandria	Louisiana	2010	31.2	-92.4
+East Texas Brewing Company, LLC	Tyler	Texas	2015	32.37	-95.31
+Eastlake Craft Brewery LLC	Minneapolis	Minnesota	2014	44.94	-93.25
+Eckles Beer Ventures Inc.	Mount Airy	Maryland	2014	39.4	-77.2
+Empyrean Brewing Co.	Lincoln	Nebraska	1997	40.82	-96.7
+Energybrew LLC	Saint Louis	Missouri	2004	38.67	-90.32
+Enki Brewing	Victoria	Minnesota	2013	44.86	-93.66
+Epiphany Craft Malt, LLC	Durham	North Carolina	2013	35.94	-78.8
+Escondido Hsb LLC	Austin	Texas	2016	30.24	-97.66
+EVENTIDE BREWing LLC	Atlanta	Georgia	2013	33.7	-84.38
+Excelsior Brewing	Excelsior	Minnesota	2011	44.9	-93.6
+Fair Isle Brewing	Austin	Texas	2015	30.29	-97.77
+Falstaff Brewing Corp	San Antonio	Texas	2000	29.46	-98.67
+Fanatic Brewing Company LLC	Knoxville	Tennessee	2012	35.96	-83.92
+Fantasy Brewmasters, LLC	Naples	Florida	2009	26.15	-81.74
+Fat Bottom Brewing Inc.	Nashville	Tennessee	2011	36.15	-86.9
+Fbn Trading Company, Inc	Marrero	Louisiana	1987	29.83	-90.15
+Fernson Brewing Company, LLC	Sioux Falls	South Dakota	2014	43.6	-96.68
+Fidelis Beer Company, LLC	Burke	Virginia	2014	38.79	-77.29
+Filling Station Brewery	Sidney	Nebraska	2015	41.1	-103.1
+Finnegans Brew Co., LLC	Minneapolis	Minnesota	2016	44.96	-93.26
+Fireweed Brewing Co LLC	Grand Marais	Minnesota	2004	48.0	-90.5
+First Ballot Enterprises, Inc.	Baton Rouge	Louisiana	2017	30.39	-91.06
+First Fruits Business Ministry, LLC	Columbia	South Carolina	2002	34.09	-80.93
+First Rate Brewers, Inc.	Salado	Texas	2015	30.9	-97.6
+Flat Earth Brewing Company	Saint Paul	Minnesota	2006	44.94	-93.05
+Flora Fonta Brewery LLC	Morganton	North Carolina	2013	35.8	-81.7
+Flying Dog Brewery Inc	Frederick	Maryland	1989	39.36	-77.46
+Flying Dog Brewery Lllp	Frederick	Maryland	1994	39.36	-77.46
+Flyway Brewing L.L.C.	Little Rock	Arkansas	2014	34.6	-92.3
+Flywheel Brewing Properties, LLC	Elizabethtown	Kentucky	2016	37.7	-85.9
+Foresthill Brewing	Germantown	Tennessee	2016	35.08	-89.77
+Forge Brew Works, LLC	Lorton	Virginia	2015	38.68	-77.21
+Forgotten Holler Brewing, LLC	Louisville	Kentucky	2015	38.2	-85.5
+Fountain Rock Management Corporation	Frederick	Maryland	1995	39.46	-77.34
+Franconia Brewing Co	Mckinney	Texas	2008	33.3	-96.6
+Franklin Street Brewing Company LLC	Manchester	Iowa	2012	42.5	-91.5
+Free State Brewing Co., Inc.	Lawrence	Kansas	1987	39.0	-95.2
+Frey's Brewing Company LLC	Mount Airy	Maryland	2013	39.4	-77.2
+Ftc, LLC	Louisville	Kentucky	2004	38.25	-85.75
+F-Town Brewing Company LLC	Faribault	Minnesota	2011	44.3	-93.3
+Fuggles Brewing Co, Inc	Saint Paul	Minnesota	1995	45.08	-93.19
+Fulbrook Ale Works LLC	Richmond	Texas	2016	29.6	-95.8
+Full Tilt Brewing, LLC	Baltimore	Maryland	2012	39.28	-76.53
+Fulton LLC	Minneapolis	Minnesota	2015	45.02	-93.24
+Future Brew, LLC	Duluth	Georgia	2019	34.02	-84.14
+G & B Electrical Contractors, Inc	Fayetteville	Georgia	2005	33.49	-84.48
+Galeo Imports, LLC	Baltimore	Maryland	2010	39.28	-76.53
+Georgia Brews	Marietta	Georgia	2015	34.02	-84.5
+Get Your Brew On LLC	Sunrise Beach	Missouri	2015	38.1	-92.7
+Ghost River Brewing	Memphis	Tennessee	2011	35.1	-90.09
+Ghost Train Brewing Company, Inc.	Birmingham	Alabama	2014	33.51	-86.8
+Ginger Wolf Distillery	Winchester	Virginia	2016	39.3	-78.2
+Glazer's Beer and Beverage, LLC	Dallas	Texas	2016	32.95	-96.8
+Gnarly Barley Brewing	Hammond	Louisiana	2014	30.5	-90.5
+Goliath Toppling Inc	Decorah	Iowa	2008	43.3	-91.8
+Good Bros Ginger Brew, LLC	Weaverville	North Carolina	2015	35.7	-82.5
+Good Neighbor Brews	Sachse	Texas	2016	32.97	-96.58
+Goodwood Brewing	Louisville	Kentucky	2017	38.25	-85.75
+Gordash Brewing Company	Fort Lauderdale	Florida	2006	26.09	-80.17
+Graham Barnes Distilling Inc.	Dripping Springs	Texas	2005	30.2	-98.1
+Graham Bruce Beer	Little Elm	Texas	2008	33.15	-96.95
+Granite City Brewery	Ellsworth	Iowa	2007	42.3	-93.6
+Grateful Brew Inc	Greenville	South Carolina	2016	34.84	-82.38
+Great Dane Pub and Brewing Com	Oberon	North Dakota	2013	47.9	-99.1
+Great Scott Inc	Spring Branch	Texas	2014	29.9	-98.4
+Green Line Brewery LLC	Canton	Georgia	2015	34.3	-84.5
+Green Man Brewing LLC	Asheville	North Carolina	2003	35.59	-82.56
+Greer Brewing Co LLC	Chesterfield	Missouri	2015	38.67	-90.53
+Growlers & Creft Brew, LLC	Valdosta	Georgia	2015	30.8	-83.4
+Guadalupe Brewing Company LLC	Canyon Lake	Texas	2010	29.9	-98.2
+Gulf Distributing Company of Alabama, LLC	Birmingham	Alabama	2017	33.52	-86.77
+Gulf Distributing Company of Birmingham, LLC	Birmingham	Alabama	2017	33.52	-86.77
+Gulf Supreme of Central Alabama, LLC	Birmingham	Alabama	2017	33.52	-86.77
+H.Y. McCord & Sons Distillery LLC	Atlanta	Georgia	2017	33.88	-84.38
+Happy Camper Brewery	Lawrenceville	Georgia	2015	34.01	-84.01
+Hastings Brew Works Inc	Hastings	Minnesota	2015	44.7	-92.9
+Haw River Farmhouse Ales, LLC	Saxapahaw	North Carolina	2011	36.0	-79.3
+Hell 'n Blazes Brewing Company	Melbourne	Florida	2014	28.08	-80.62
+Heller Highwater, Inc	Smyrna	Georgia	1997	33.87	-84.5
+Hell's Cellar Brewing Company, LLC	Bryan	Texas	2015	30.68	-96.39
+Henzco Holdings, LLC	Duncanville	Texas	2015	32.66	-96.92
+Hermes Imports LLC	Liberty	Missouri	2000	39.3	-94.4
+High Branch Brewing Company, LLC	Concord	North Carolina	2015	35.4	-80.7
+High Cotton Brewing Company	Memphis	Tennessee	2012	35.17	-90.07
+High Heel Brewing LLC	Saint Louis	Missouri	2016	38.65	-90.32
+Hilton Chicago Beverage III LLC	Mclean	Virginia	2013	38.93	-77.23
+Hog Haus Brewing Co	Fayetteville	Arkansas	2005	36.0	-94.1
+Holman Distillery, LLC	Moravian Falls	North Carolina	2015	36.1	-81.1
+Hootenanny Brewing Company, LLC	Mooresville	North Carolina	2018	35.6	-80.8
+Hopfusion Ale Works, LLC	Fort Worth	Texas	2015	32.73	-97.32
+Hopkinsville Brewing Co	Hopkinsville	Kentucky	2015	36.9	-87.5
+Hopping Gnome Brewing Company, LLC	Wichita	Kansas	2013	37.71	-97.32
+Horny Toad Brewing Company	Rowena	Texas	2000	31.6	-100.0
+Horseshoe Bend Brewing Co.	Lake Ozark	Missouri	2018	38.2	-92.67
+Humulus Lupulus Enterprises, Inc.	Blanco	Texas	1996	30.1	-98.4
+Hysteria Brewing Company	Baltimore	Maryland	2015	39.2	-76.56
+Idle Vine Brewing Company, LLC	Cedar Park	Texas	2015	30.5	-97.82
+In The Loop Brewing Inc	Land O Lakes	Florida	2016	28.3	-82.4
+Independence Brewing Co Inc	Austin	Texas	2002	30.18	-97.74
+Indian River Beverage Corporation	Melbourne	Florida	2000	28.08	-80.62
+Indio Brewing Co	Dacula	Georgia	2017	34.0	-83.9
+Inner Compass Brewing Company	Sanford	Florida	2014	28.75	-81.25
+Innovative Beverage Group Inc	Houston	Texas	2003	29.8	-95.5
+Intermission Brewing	Henrico	Virginia	2015	37.63	-77.5
+Iowa Brewing Company, LLC	Cedar Rapids	Iowa	2013	41.97	-91.65
+Islamorada Brewing Company LLC	Fort Pierce	Florida	2014	27.51	-80.36
+Isley Brewing Company	Richmond	Virginia	2012	37.59	-77.49
+Iwk USA Corp.	Coral Gables	Florida	2016	25.75	-80.27
+Jailbreak Brewing Company, LLC	Laurel	Maryland	2013	39.14	-76.87
+Jakal Distillery LLC	Lexington	South Carolina	2015	34.0	-81.3
+James Merritt Stewart	Prospect	Tennessee	2017	35.1	-87.0
+James Provost	Panama City	Florida	2017	30.2	-85.5
+James River Beverage Company, LLC	Kents Store	Virginia	2017	37.88	-78.09
+Java Brew Downtown	Louisville	Kentucky	2006	38.25	-85.75
+Java Brewing Co	Prospect	Kentucky	2006	38.38	-85.59
+Java Brewing Comm	Louisville	Kentucky	2005	38.24	-85.72
+Jeg's Brewing Company	Zachary	Louisiana	2016	30.6	-91.1
+Jekyll Brewing, LLC	Alpharetta	Georgia	2013	34.09	-84.22
+Jekyll Island Distillery LLC	Atlanta	Georgia	2016	33.84	-84.38
+Jimmys II Club	Lufkin	Texas	2005	31.4	-94.8
+Jrh Brewing	Johnson City	Tennessee	2016	36.3	-82.38
+Jrh Brewing, LLC	Piney Flats	Tennessee	2014	36.45	-82.34
+Junius Cold Brew Coffee Company LLC	Washington	District of Columbia	2015	38.91	-76.98
+Kalona Brewing Company	Kalona	Iowa	2013	41.5	-91.7
+Kamdjou, Inc.	Germantown	Maryland	2010	39.21	-77.24
+Kans & Kegs	Pharr	Texas	2010	26.2	-98.2
+Kansas City Bier Company, LLC	Kansas City	Missouri	2011	38.96	-94.6
+Kastaway Brewing Co Inc.	Katy	Texas	2017	29.74	-95.84
+Kbc Distilling Company LLC	Man	West Virginia	2014	37.7	-81.9
+Kbkk, LLC	Allen	Texas	2012	33.08	-96.61
+Keg Creek Brewing Company, LLC	Glenwood	Iowa	2011	41.0	-95.7
+Kelly Distributors, Inc.	Easton	Maryland	2005	38.8	-76.0
+Key Brewing Co	Baltimore	Maryland	2015	39.26	-76.62
+Keys Distillery, LLC	Summerland Key	Florida	2015	24.7	-81.3
+King & Bear	Saint Augustine	Florida	2000	29.9	-81.5
+King Jester Brewery	Austin	Texas	2015	30.24	-97.89
+Kinkaider Brewing Co., LLC	Broken Bow	Nebraska	2014	41.5	-99.5
+Kirksville Guild of Brewers	Kirksville	Missouri	2016	40.2	-92.6
+Krebs Brewing Co Inc	Mcalester	Oklahoma	2015	35.0	-95.8
+Anheuser-Busch Companies, LLC	Medford	Massachusetts	1852	42.42	-71.11
+Anheuser-Busch Companies, LLC	Williamsburg	Virginia	1852	37.2	-76.7
+Krome Brewing Company LLC	Miami	Florida	2016	25.55	-80.46
+Lagunitas Brewing Co	Franklin	Tennessee	2017	35.9	-87.0
+Lake I Stone L L C	Prior Lake	Minnesota	2014	44.7	-93.4
+Lake Norman Industries, LLC	Cornelius	North Carolina	2010	35.47	-80.89
+Lake Superior Brewing Co LLC	Duluth	Minnesota	1993	46.77	-92.13
+Lapdog Brewing Company, LLC	Little Elm	Texas	2015	33.15	-96.95
+Larry Neff	Neosho	Missouri	1999	36.9	-94.4
+Last Fort Brewing LLC	Fort Worth	Texas	2018	32.74	-97.38
+Lazy Hiker, LLC	Franklin	North Carolina	2014	35.2	-83.4
+Lazy Magnolia Brewing Co LLC	Kiln	Mississippi	2004	30.4	-89.5
+Le Chien Brewing Company LLC	Greenwell Springs	Louisiana	2016	30.6	-91.0
+Le Mundo Vino, LLC	Miami	Florida	2010	25.66	-80.41
+Leesburg Brewing Company	Leesburg	Virginia	2015	39.1	-77.6
+Legend Brewing Co	Richmond	Virginia	1992	37.5	-77.48
+Lib8 Beverages, L.P.	Saint Louis	Missouri	2013	38.65	-90.32
+Liberty Brew Works LLC	Houston	Texas	2015	29.77	-95.5
+Lift Bridge Brewing Technologies, LLC	Stillwater	Minnesota	2008	45.1	-92.8
+Lightswitch Foods, Inc.	Washington	District of Columbia	2016	38.94	-76.99
+Lightswitch Foods, Inc.	Marshall	North Carolina	2016	35.9	-82.7
+Limitless Brewing	Lenexa	Kansas	2016	38.95	-94.74
+Little Havana Brewing	Miami	Florida	2015	25.75	-80.23
+Lone Star Beer Distributor	Cameron	Texas	1947	30.9	-96.9
+Lone Star Brewery Development, Inc.	San Marcos	Texas	2015	29.9	-98.0
+Lone Star Brewing Co	San Antonio	Texas	2001	29.53	-98.48
+Lonerider Brewing Company	Raleigh	North Carolina	2006	35.9	-78.77
+Long Lane Orchard, LLC	Solon	Iowa	2016	41.8	-91.5
+Lost Duck Brewing Company	Fort Madison	Iowa	2003	40.6	-91.4
+Lost Falls LLC	Austin	Texas	2015	30.21	-97.8
+Anheuser-Busch Companies, LLC	Bronx	New York	1852	40.81	-73.89
+Lost Sanity Brewing LLC	Madelia	Minnesota	2017	44.1	-94.4
+Lost Spire Brewing Company, LLC	Stillwater	Oklahoma	2015	36.1	-97.1
+Louisiana Roots, L.L.C.	New Orleans	Louisiana	2014	29.94	-90.1
+Low Tide Brewing	Johns Island	South Carolina	2016	32.7	-80.1
+Lucid Brewing LLC	Minneapolis	Minnesota	2009	44.99	-93.27
+Lucky Bucket Brewing, LLC	La Vista	Nebraska	2008	41.18	-96.07
+Lucky Town Brewing Company LLC	Jackson	Mississippi	2011	32.31	-90.17
+Anheuser-Busch Companies, LLC	Washington	District of Columbia	1852	38.904	-77.032
+Lupine Brewing Company, LLC	Hanover	Minnesota	2013	45.16	-93.66
+Anheuser-Busch, LLC	Rogers	Arkansas	1852	36.3	-94.0
+Macchu Pisco, LLC	Bethesda	Maryland	2005	39.0	-77.16
+Macon Beer Company LLC	Macon	Georgia	2011	32.81	-83.62
+Madhouse Brewing Co LLC	Des Moines	Iowa	2008	41.58	-93.62
+Main Mill Brewing Company LLC	Festus	Missouri	2014	38.1	-90.4
+Malt Beverage Educational Corporation	Frankfort	Kentucky	2018	38.2	-84.9
+Manatee Brewing Company LLC	Port Charlotte	Florida	2015	26.97	-82.16
+Mangrove Distillery LLC	Melbourne	Florida	2016	28.08	-80.62
+Mantorville Brewing Co LLC	Mantorville	Minnesota	1996	44.09	-92.74
+Martin City Brewing Company LLC	Kansas City	Missouri	2011	38.88	-94.59
+Mastercraft Beverage LLC	Austin	Texas	2014	30.26	-97.71
+MBC United Whlse. LLC	Mobile	Alabama	2003	30.7	-88.1
+Metal Craft Brewing Co LLC	Waynesboro	Virginia	2014	38.1	-78.9
+Methodical Strategies, Inc.	Johnson City	Texas	2018	30.3	-98.4
+Miami Beer Ventures LLC	Miami	Florida	2013	25.81	-80.21
+Miel Brewing Company LLC	Hammond	Louisiana	2016	30.5	-90.5
+Mighty Miss. Brewing Company, LLC	Greenville	Mississippi	2015	33.3	-91.0
+Mikel Allen English	High Springs	Florida	2018	29.8	-82.7
+MIKEY'S POUR HOUSE LLC	Saint Charles	Missouri	2016	38.7	-90.6
+Mill Creek Brewing Company LLC	Nolensville	Tennessee	2014	35.94	-86.67
+Miller Brewing	Fort Worth	Texas	2012	32.64	-97.33
+Miller Brewing Company	Albany	Georgia	1971	31.5	-84.0
+Miller Coors	Albany	Georgia	2014	31.5	-84.0
+Millercoors	Bentonville	Arkansas	2016	36.3	-94.3
+Anheuser-Busch Companies, LLC	Sacramento	California	1852	38.58	-121.49
+Millercoors LLC	Tampa	Florida	2018	27.94	-82.52
+Millington Beer & Tobacco	Millington	Tennessee	2009	35.4	-89.9
+Mills River Brewery LLC	Arden	North Carolina	2014	35.46	-82.57
+Millstream Investments Inc	Amana	Iowa	1985	41.8	-91.9
+Minim LLC	Atlanta	Georgia	2016	33.7	-84.38
+Minnesota Nice Brewing Company	Mankato	Minnesota	2016	44.1	-94.0
+Mispillion River Brewing LLC	Milford	Delaware	2012	38.9	-75.4
+Mitchell and Davis LLC	Richmond	Virginia	2015	37.55	-77.49
+MO Brew	Kansas City	Missouri	2014	39.06	-94.59
+Momentum Brewhouse	Bonita Springs	Florida	2014	26.37	-81.73
+Monarch Custom Beverages	Canton	Georgia	2017	34.3	-84.5
+Monday Night Brewing	Smyrna	Georgia	2011	33.86	-84.53
+Monday Night Ventures LLC	Atlanta	Georgia	2009	33.79	-84.44
+Morgan Street Brewery & Tavern Inc	Saint Louis	Missouri	1993	38.64	-90.19
+Morini D.C. LLC LLC	Washington	District of Columbia	2014	38.88	-76.99
+Morningstar Brewing, LLC	Richardson	Texas	2014	32.95	-96.72
+Mother Earth Brewing, LLC	Kinston	North Carolina	2008	35.3	-77.5
+Mother's Brewing Co., LLC	Springfield	Missouri	2008	37.21	-93.3
+Mountain View Brewery, LLC	Lexington	Virginia	2008	37.8	-79.5
+Mr. G'S Trucking, Inc.	Little Rock	Arkansas	2007	34.71	-92.36
+Mt Juliet Beer Co	Mount Juliet	Tennessee	2010	36.2	-86.5
+Murphdog, LLC	Marietta	Georgia	2015	33.93	-84.46
+Nachos and Beer	Asheville	North Carolina	2009	35.54	-82.52
+Nebraska Craft, LLC	Omaha	Nebraska	2016	41.3	-96.0
+New Belgium Brewing Company Inc	Austin	Texas	2010	30.38	-97.71
+New Heights Brewing Company, L	Nashville	Tennessee	2015	36.15	-86.79
+New Knoxville Brewing Company	Knoxville	Tennessee	1995	36.0	-83.91
+New Main Brewing Company, LLC	Arlington	Texas	2016	32.72	-97.16
+New Orleans Lager and Ale Brewing Company, LLC	New Orleans	Louisiana	2007	29.93	-90.1
+New Republic Brewing	College Station	Texas	2015	30.5	-96.3
+New Republic, LLC	Lexington	Kentucky	2008	38.05	-84.5
+New Sarum Brewing Co. LLC	Salisbury	North Carolina	2012	35.71	-80.45
+New South Brewing Inc	Myrtle Beach	South Carolina	1998	33.7	-78.9
+Next Generation Beer Co.	Asheville	North Carolina	2005	35.6	-82.6
+Nine Mile Brewing Company	Clay Center	Nebraska	2015	40.5	-98.0
+Ninja Moose Brewing LLC	Liberty	Missouri	2013	39.3	-94.4
+No Coast Brewing, LLC	Hastings	Nebraska	2013	40.6	-98.4
+Nofo Brewing Llc.	Cumming	Georgia	2018	34.3	-84.2
+North Lock LLC	Alexandria	Virginia	2009	38.81	-77.13
+North Star Brewing Company L. L. C.	Maple Plain	Minnesota	2016	45.0	-93.7
+North Texas Craft Beer, LLC	Plano	Texas	2015	33.04	-96.67
+Northern Brewer Inc	Minneapolis	Minnesota	2011	44.91	-93.29
+Northern Brewer, LLC	Saint Paul	Minnesota	2011	45.01	-93.16
+Northwest Beverages	Fargo	North Dakota	2010	46.93	-96.83
+Not Lost Brewing Company	Ottawa	Kansas	2016	38.6	-95.3
+Oak High Services LLC	Chantilly	Virginia	2016	38.89	-77.51
+Oaklyn Springs Brewery Inc	Holly Springs	North Carolina	2016	35.61	-78.87
+Oakridge Centre	Homosassa	Florida	1957	28.78	-82.61
+O'Fallon Brewery, LLC	Maryland Heights	Missouri	2013	38.73	-90.45
+Old Bust Head Brewing Company, LLC	Vint Hill Farms	Virginia	2012	38.7	-77.7
+Old Kudzu Brewing, Llc, Doing Business As Old Kudzu Beer	Meridian	Mississippi	2018	32.5	-88.7
+Olde Mecklenburg Brewery LLC	Charlotte	North Carolina	2008	35.17	-80.92
+Ole Currahee Distillery, LLC	Toccoa	Georgia	2015	34.6	-83.3
+On Time Brewery LLC	Key Largo	Florida	2014	25.2	-80.4
+Onkar Inc	Hopkins	Minnesota	2001	44.91	-93.41
+Onkar, Inc.	Spring Hill	Florida	2011	28.48	-82.6
+Orangecity Brewery	Sarasota	Florida	2015	27.33	-82.56
+Orf Brewing, L.L.C.	Austin	Texas	2010	30.18	-97.74
+Orlando Brewing Partners	Orlando	Florida	2002	28.53	-81.41
+Orpheus Brewing Company LLC	Atlanta	Georgia	2013	33.82	-84.36
+Ozark Beer Company	Rogers	Arkansas	2013	36.3	-94.0
+Pack Square Brewing Co LLC	Asheville	North Carolina	2004	35.54	-82.52
+Paducah Brewing Company	Paducah	Kentucky	2014	37.1	-88.6
+Pagan River Associates LLC	Smithfield	Virginia	2015	37.0	-76.7
+Pair O'Dice Brewing Co LLC	Clearwater	Florida	2013	27.9	-82.66
+Palmetto Brewing Co Inc	Charleston	South Carolina	1994	32.8	-79.94
+Palmetto Brewing of Charleston, LLC	Charleston	South Carolina	2012	32.8	-79.94
+Parris Brothers LLC	Davenport	Iowa	2015	41.5	-90.62
+Patuxent Brewing Company, LLC	Waldorf	Maryland	2017	38.59	-76.9
+Pauley Hollow Distillery LLC	Forest Hills	Kentucky	2015	37.63	-82.29
+Payless Convenience	Dallas	Texas	1989	32.78	-96.82
+Peace Tree Brewing Company	Knoxville	Iowa	2009	41.3	-93.1
+Perk & Brew	Cape Coral	Florida	2015	26.57	-81.94
+Pete's Brewing Company	San Antonio	Texas	1986	29.58	-98.48
+Phenix Brands, LLC	Springfield	Missouri	2010	37.15	-93.25
+Phillips Distilling Co LLC	Princeton	Minnesota	1981	45.6	-93.6
+Pig's Eye Brewing Company LLC	Saint Paul	Minnesota	2002	44.91	-92.92
+Piney Woods Beverage	Center	Texas	2010	31.8	-94.2
+Pinpoint Brewery, LLC	Orlando	Florida	2015	28.39	-81.48
+Pittman's Liquors Inc	Hancock	Maryland	1968	39.7	-78.2
+Pluto Springs Brewing Co	Louisville	Kentucky	2001	38.26	-85.46
+Poe Spirits, LLC	El Paso	Texas	2010	31.79	-106.38
+Ponysaurus Brewing, LLC	Durham	North Carolina	2015	35.99	-78.9
+Prairie Brothers Brewing, LLC	Fargo	North Dakota	2015	46.79	-96.84
+Premium Brands, Inc.	Chattanooga	Tennessee	2009	35.05	-85.31
+Preservation Distillery, LLC	Bardstown	Kentucky	2016	37.8	-85.5
+Pretty Ugly Distribution LLC	Chesapeake	Virginia	2015	36.6	-76.3
+Preyer Brewing Company, LLC	Greensboro	North Carolina	2014	36.07	-79.77
+Prjs, LLC	Baltimore	Maryland	2007	39.28	-76.53
+Pro RE Nata Brewing Company, LLC	Crozet	Virginia	2015	38.2	-78.7
+Proof Artisan Distillers, LLC	Fargo	North Dakota	2013	46.93	-96.83
+Prost	Round Top	Texas	2015	30.0	-96.7
+Psa Brewery, LLC	Baltimore	Maryland	2015	39.32	-76.57
+Puritan Brew Co	Fayetteville	Arkansas	2014	36.0	-94.1
+Quality Brands of South Dakota, LLC	Omaha	Nebraska	2016	41.15	-96.13
+Queen City Brewing, Ltd.	Staunton	Virginia	2003	38.1	-79.1
+R J Rockers Brewing Co.	Spartanburg	South Carolina	2010	34.9	-81.92
+Rabbit Hole Brewing	Justin	Texas	2017	33.1	-97.3
+Rabbit Swamp Brewery-Tap Room	Travelers Rest	South Carolina	2018	35.1	-82.4
+Raleigh Pitmaster Empire, LLC	Raleigh	North Carolina	2007	35.77	-78.63
+Ranger Creek Brewing & Distilling, LLC	San Antonio	Texas	2010	29.55	-98.43
+Rattler, LLC	Dallas	Texas	2008	32.793	-96.773
+Raw Brewing Company	Pompano Beach	Florida	2016	26.24	-80.17
+Realerevival Brewing, LLC	Cambridge	Maryland	2013	38.6	-76.1
+Red Buffalo Brewing Company Inc.	Statesville	North Carolina	2018	35.7	-80.9
+Red Ear Brewing LLC	Worthington	Kentucky	2015	38.55	-82.74
+Red River Beverage Group LLC	Bossier City	Louisiana	2010	32.58	-93.69
+Redbeard Brewing Co LLC	Staunton	Virginia	2013	38.1	-79.1
+Reformation Brewery, LLC	Woodstock	Georgia	2012	34.12	-84.45
+Rek Hill Distillery, LLC	Hutto	Texas	2015	30.55	-97.55
+Reunion Brewing Company	Dallas	Texas	2014	32.78	-96.82
+Revelry Brewing Company, LLC	Charleston	South Carolina	2014	32.8	-79.94
+Revolver Brewing, LLC	Granbury	Texas	2011	32.5	-97.7
+Ricky's	Rockdale	Texas	1994	30.6	-97.0
+Riptide Brews, LLC	Silver Spring	Maryland	2015	39.02	-77.01
+Riverfront Mercantile	New Haven	Missouri	2004	38.6	-91.3
+Riverstreet Brewing Company Inc	Sylvania	Georgia	2001	32.7	-81.6
+Rock & Brews	Oklahoma City	Oklahoma	2016	35.61	-97.57
+Rock House Brewing Limited Liability Com	Lexington	Kentucky	2016	38.05	-84.5
+Rock of Ales, LLC	Spicewood	Texas	2012	30.4	-98.1
+Rolling Fork Distillery LLC	Louisville	Kentucky	2015	38.22	-85.62
+Roughtail Brewing Company LLC	Midwest City	Oklahoma	2012	35.46	-97.4
+Royal Brewery New Orleans LLC	New Orleans	Louisiana	2015	30.06	-89.97
+Rpd Management, LLC	Jacksonville	Florida	2011	30.32	-81.68
+S&M Vintage Brew , LLC	Independence	Kentucky	2015	38.93	-84.56
+S&P Battalion LLC	Atlanta	Georgia	2013	33.77	-84.34
+Sabmiller Latin America Inc.	Miami	Florida	2012	25.77	-80.19
+Saddlery Restaurants Inc	Des Moines	Iowa	1996	41.58	-93.62
+Safetyharbor Brewing	Safety Harbor	Florida	2017	28.01	-82.69
+Saint Arnold Brewing Company	Houston	Texas	1993	29.77	-95.32
+Saint Louis Brewery, LLC	Saint Louis	Missouri	1991	38.63	-90.22
+Saints and Sinners Brewing Company LLC	Houston	Texas	2014	29.77	-95.5
+Sawbriar Brewery LLC	Lafayette	Louisiana	2017	30.24	-91.99
+Saxony Hills Brewery	Altenburg	Missouri	2019	37.6	-89.57
+Sazerac Distillers, LLC	Louisville	Kentucky	2014	38.26	-85.54
+Schmidt Brew	Saint Paul	Minnesota	2014	44.93	-93.12
+Schulz Brau Brewing, LLC	Knoxville	Tennessee	2014	36.0	-83.91
+Scotts Point Distillery Ltd	Bath	North Carolina	2012	35.47	-76.77
+Scotty's Brewery ""llc	Cape Coral	Florida	2013	26.71	-81.97
+Second Love Brewery	Bowling Green	Kentucky	2016	36.9	-86.3
+Second Self, LLC	Atlanta	Georgia	2010	33.79	-84.44
+Serda Brewing Company, Inc.	Mobile	Alabama	2016	30.71	-88.03
+Sgt. Networks, Inc.	Orlando	Florida	2018	28.55	-81.35
+Shady J Brewing Company, LLC	Pikeville	North Carolina	2015	35.5	-78.0
+Shenandoah Valley Brewing Company	Staunton	Virginia	2012	38.1	-79.1
+Shiny Star Inc	Cambridge	Maryland	2014	38.6	-76.1
+Show-ME Brewing	Springfield	Missouri	2015	37.2	-93.3
+Siblings' Rivalry Brewery, LLC	Strasburg	Virginia	2016	39.0	-78.4
+Sigma Brewing Company LLC	Houston	Texas	2015	29.75	-95.35
+Silverline Brewing Company	Vienna	Virginia	2015	38.9	-77.25
+Simply Doyenne LLC	Stone Mountain	Georgia	2017	33.79	-84.2
+Sissons Restaurant Brewery	Baltimore	Maryland	2016	39.26	-76.62
+Sixpoint Brewery	Memphis	Tennessee	2018	35.04	-89.93
+Skull Camp Brewing	Elkin	North Carolina	2016	36.3	-80.9
+Slate Farm Brewery LLC	Whiteford	Maryland	2016	39.7	-76.32
+Sligo Mill Brewing Company, LLC	Rockville	Maryland	2014	39.05	-77.12
+Smallman Brewing, LLC	New Orleans	Louisiana	1997	29.91	-89.96
+Sociable Cider Werks, LLC	Minneapolis	Minnesota	2012	45.0	-93.24
+Sog City Brewery	Tampa	Florida	2015	27.89	-82.51
+Song Sakanin Corporation	Germantown	Maryland	2009	39.15	-77.29
+South Eastern Brewing Inc	Chapin	South Carolina	1995	34.14	-81.34
+Southerleigh Fine Food Brewing	San Antonio	Texas	2014	29.44	-98.48
+Southern Appalachian Brewery	Hendersonville	North Carolina	2012	35.3	-82.5
+Southern Crown Partners, LLC	Fitzgerald	Georgia	2007	31.7	-83.2
+Southern Glazer's Wine and Spirits of Texas, LLC	Farmers Branch	Texas	1909	32.92	-96.9
+Anheuser-Busch, LLC	Fort Collins	Colorado	1852	40.7	-105.0
+Southern Heights Brewing Co LLC	Round Rock	Texas	2014	30.54	-97.65
+Southern Pines Brewing Company, LLC	Southern Pines	North Carolina	2013	35.17	-79.38
+Southern Prohibition Brewing	Hattiesburg	Mississippi	2015	31.3	-89.4
+Southern Range Brewing LLC	Monroe	North Carolina	2016	34.9	-80.5
+Southern Wicked Distillery Inc.	Raleigh	North Carolina	2015	35.95	-78.61
+Southpaw Brew Co, LLC	Gainesville	Virginia	2016	38.81	-77.62
+Specialty Products International, Ltd.	Chapel Hill	North Carolina	1971	35.97	-79.04
+Spiral Brewery, LLC	Hastings	Minnesota	2014	44.7	-92.9
+Sports Fountain 1	Tucker	Georgia	2006	33.86	-84.21
+Spudco Beverages, Inc.	Myrtle Beach	South Carolina	2014	33.7	-78.9
+Stampede Brewing Co Ltd	Dallas	Texas	2005	32.86	-96.87
+Starr Hill Brewing Company	Crozet	Virginia	2004	38.2	-78.7
+Stash House Brewing LLC	Richmond	Virginia	2016	37.58	-77.52
+Statewide Beverage LLC	Harlingen	Texas	2010	26.2	-97.7
+Station 6 Brewing LLC	Ashburn	Virginia	2015	39.05	-77.48
+Still Hollow Distillery	Harman	West Virginia	2016	38.92	-79.52
+Stillwater Brewing Company LLC	Stillwater	Oklahoma	2015	36.1	-97.1
+Stockyards Brewing Company, LLC	Kansas City	Missouri	2012	39.093	-94.602
+Stone City Brewing Ltd Inc	Solon	Iowa	1996	41.8	-91.5
+Storm Clouds Brewing, LLC	Durham	North Carolina	2016	35.99	-78.9
+Stout Beverages, LLC	Kings Mountain	North Carolina	2011	35.3	-81.4
+Stout Brands, LLC	Kings Mountain	North Carolina	2012	35.3	-81.4
+Stout's Growlers, LLC	Canton	Georgia	2014	34.3	-84.5
+Sufu Brewery Tours	Mitchell	South Dakota	2016	43.7	-98.0
+Sugar Creek Brewing Company, LLC	Charlotte	North Carolina	2014	35.17	-80.92
+Summit Brewing Company	Saint Paul	Minnesota	1984	44.93	-93.12
+Surly Brewing Company	Minneapolis	Minnesota	2004	45.07	-93.34
+Swamp Head Brewery L.L.C.	Gainesville	Florida	2008	29.59	-82.4
+Sway Water Inc	Austin	Texas	2014	30.21	-97.8
+Sweetwater Brewing Company, LLC	Atlanta	Georgia	1996	33.82	-84.36
+Swilled Dog Hard Cider Company	Franklin	West Virginia	2016	38.6	-79.4
+Sycamore Brewing, LLC	Charlotte	North Carolina	2013	35.25	-80.82
+Tabula Rasa Brewing, LLC	Saint Johns	Florida	2015	30.1	-81.6
+Tailgate Beer	Nashville	Tennessee	2007	36.15	-86.9
+Talking Waters Brewing Company LLC	Montevideo	Minnesota	2015	45.0	-95.7
+Tall Tales Brewing Company LLC	Parsonsburg	Maryland	2013	38.4	-75.5
+Tallahassee Brew District LLC	Tallahassee	Florida	2016	30.46	-84.35
+Tallgrass Brewing Company	Manhattan	Kansas	2007	39.3	-96.7
+Tank 51 LLC	Coral Gables	Florida	2016	25.72	-80.27
+Tellmaleh, Inc.	Miami	Florida	2018	25.66	-80.29
+Tennessee Brew Works, LLC	Nashville	Tennessee	2011	36.15	-86.79
+Tennessee Cider Company	Adams	Tennessee	2016	36.6	-87.1
+Terrapin Beer Company, LLC	Athens	Georgia	2001	34.03	-83.45
+Texacello	Austin	Texas	2003	30.3	-97.81
+Texas Ingredient Corporation	Cleburne	Texas	1995	32.3	-97.5
+Texian Brewing Co	Richmond	Texas	2012	29.6	-95.8
+That Damn Mary Brewing LLC	Heathsville	Virginia	2015	37.9	-76.4
+The Abita Band Inc	Abita Springs	Louisiana	2009	30.5	-90.0
+The Atlanta Brewing Company	Atlanta	Georgia	1994	33.79	-84.44
+The Best of Brews	Duluth	Georgia	2013	34.02	-84.14
+The Beverage Cellar L L C	Osborne	Kansas	2010	39.4	-98.7
+The Brew Box LLC	Sylvania	Georgia	2019	32.7	-81.6
+The Brew LLC	Southlake	Texas	2015	32.96	-97.15
+The Brewers Cask	Glen Arm	Maryland	2014	39.46	-76.51
+The Burnt Hickory Brewery LLC	Kennesaw	Georgia	2011	34.03	-84.6
+The Center For Vital Living DBA	Naples	Florida	2010	26.13	-81.8
+The Cidery LLC	New Orleans	Louisiana	2016	29.95	-90.1
+The Duck- Rabbit Craft Brewery Inc	Farmville	North Carolina	2004	35.6	-77.6
+The Fermentation Station	Jacksonville	North Carolina	1995	34.7	-77.5
+The Fishermen's Wharf	Des Allemands	Louisiana	1999	29.9	-90.5
+The Florida Beer Company Inc	Melbourne	Florida	2000	28.08	-80.62
+The Florida Brewery Inc	Miami	Florida	2015	25.78	-80.3
+The Georgia Beer Company LLC	Valdosta	Georgia	2014	30.8	-83.4
+The Good Word Brewing LLC	Decatur	Georgia	2015	33.77	-84.29
+The Legion Distillery	Vanleer	Tennessee	2016	36.26	-87.47
+The Masters Brew	Sparta	Tennessee	2012	35.9	-85.5
+The Oozlefinch Craft Brewery LLC	Newport News	Virginia	2016	37.12	-76.52
+The River Company Restaurant & Brewery I	Radford	Virginia	2015	37.1	-80.6
+The Southern Brewing Company	Athens	Georgia	2015	34.0	-83.35
+The Speakeasy	Bluefield	West Virginia	2015	37.3	-81.1
+The Three Ring Brewing Co LLC	Asheville	North Carolina	2012	35.59	-82.56
+The Virginia Beer Company LLC	Williamsburg	Virginia	2012	37.2	-76.7
+The Witherspoon Distillery	Lewisville	Texas	2015	33.05	-96.98
+Thew Brewing Company	Cedar Rapids	Iowa	2016	41.97	-91.58
+Thick -N- Thin Brewery, LLC	Houston	Texas	2017	29.69	-95.65
+Thomas Creek Brewery, LLC	Greenville	South Carolina	1996	34.78	-82.38
+Thoroughbreds Grill & Brewing Company LLC	Leesburg	Virginia	2004	39.2	-77.5
+Three Stars Brewing Co LLC	Washington	District of Columbia	2010	38.98	-77.03
+Throx Brew Market and Grille	Winchester	Virginia	2015	39.3	-78.2
+Tin Mill Brewing Company	Hermann	Missouri	2006	38.7	-91.4
+Tin Roof Brewing Company, LLC	Baton Rouge	Louisiana	2009	30.43	-91.18
+Tipple Time	Savannah	Georgia	2008	32.07	-81.09
+Titanic Brewing Company Inc	Coral Gables	Florida	1995	25.72	-80.27
+Tom's Town Distiller	Kansas City	Missouri	2015	39.08	-94.58
+Tony Guinn	Big Flat	Arkansas	2017	36.1	-92.3
+Town In City Brewing Company, LLC	Houston	Texas	2011	29.79	-95.37
+Trapezium Brewing LLC	Petersburg	Virginia	2014	37.2	-77.5
+Travis County Brewing Company, LLC	Austin	Texas	2014	30.38	-97.89
+Trendbrew Inc.	Alpharetta	Georgia	2015	34.09	-84.22
+Trh Beverages of Brownsville, LLC	Louisville	Kentucky	2014	38.22	-85.68
+Trh Beverages of Port Arthur LLC	Louisville	Kentucky	2014	38.22	-85.68
+Trh Beverages of Temple, LLC	Louisville	Kentucky	2011	38.22	-85.68
+Triple Crown Brewing LLC	Lexington	Kentucky	2015	37.99	-84.37
+Triple Lll Whitetails	Huntsville	Texas	2005	30.8	-95.5
+Triple S Threat LLC	Lexington	Kentucky	2016	38.05	-84.5
+Triskelion Brewing Company LLC	Hendersonville	North Carolina	2014	35.3	-82.5
+Trophy On Maywood, LLC	Raleigh	North Carolina	2014	35.7	-78.7
+True Respite Brewing Company, LLC	Derwood	Maryland	2015	39.14	-77.13
+True Vine Brewing Company, LLC	Tyler	Texas	2011	32.32	-95.29
+Tuppers' Hop Pocket Brewing Co Inc	Bethesda	Maryland	1997	39.0	-77.16
+Tupps Brewery, LLC	Mckinney	Texas	2013	33.18	-96.59
+Twin Beaches Brewing Incorporated	Chesapeake Beach	Maryland	2013	38.66	-76.54
+Twin Lakes Brewing Co LP	Wilmington	Delaware	2004	39.72	-75.62
+Twisted Ales Craft Brewing LLC	Chesterfield	Virginia	2015	37.4	-77.6
+Twisted Vine Brewery	Saint Charles	Iowa	2018	41.3	-93.8
+Two Cousins Brewing LLC	Maxton	North Carolina	2016	34.7	-79.3
+Two Track Malting, LLC	Bismarck	North Dakota	2015	46.8	-100.8
+Tye Dye Brewing Company	Dallas	Texas	2007	32.8	-96.79
+Union Craft Brewing Company, LLC	Baltimore	Maryland	2011	39.33	-76.64
+United Distributing Co LLC	Dothan	Alabama	1952	31.3	-85.4
+Urban Chestnut Brewing Company, Inc.	Saint Louis	Missouri	2009	38.63	-90.22
+Urban Farmhouse Brewery, LLC	Oklahoma City	Oklahoma	2013	35.43	-97.52
+Vasen Brewing Company, LLC	Richmond	Virginia	2015	37.59	-77.49
+Virginia Craft Brewing Support LLC	Alexandria	Virginia	2015	38.81	-77.07
+Volunteer Brewing Company LLC	Middletown	Delaware	2015	39.5	-75.7
+Wabc Management, LLC	Fort Worth	Texas	2018	32.74	-97.38
+Wallnut Street Partners, LLC	Morgantown	West Virginia	2009	39.65	-79.95
+Wandering Butcher Brewing Co., LLC	San Antonio	Texas	2007	29.64	-98.58
+Wandering Butcher Brewing Co., LLC	San Antonio	Texas	2007	29.52	-98.53
+Weathered Souls Brewing Company	San Antonio	Texas	2016	29.53	-98.48
+Wedge Brewing Co	Asheville	North Carolina	2008	35.59	-82.56
+Weeping Radish Farm Brewery LLC	Grandy	North Carolina	2007	36.23	-75.88
+West Mountain Brewing Co	Fayetteville	Arkansas	1997	36.0	-94.1
+West Palm Brewing LLC	West Palm Beach	Florida	2016	26.72	-80.07
+Westminster House of Brews	Westminster	Maryland	2015	39.6	-77.0
+Whistle Top Brew Company	Cornelia	Georgia	2015	34.5	-83.6
+Wichita Brewing Company Production, LLC	Wichita	Kansas	2014	37.67	-97.32
+Wicked Boxer Brewing, LLC	Cypress	Texas	2017	29.96	-95.74
+Wicked Wort Brewing Company LLC	Minneapolis	Minnesota	2014	45.01	-93.34
+Wild 3434 Inc	Columbus	Georgia	2018	32.47	-84.95
+Wild Bills Eatery and Brew LLC	Sartell	Minnesota	2014	45.64	-94.23
+Wild Wolf, LLC	Lexington	Kentucky	2015	37.99	-84.37
+William D Allandale Brewing Co	Saint Louis	Missouri	2006	38.58	-90.42
+William K. Busch Brewing Company, LLC	Saint Louis	Missouri	2012	38.62	-90.35
+Wilmington Brew Works LLC	Wilmington	Delaware	2017	39.74	-75.52
+Winchester Brew Works, LLC	Winchester	Virginia	2016	39.17	-78.17
+Windmill Point LLC	Kissimmee	Florida	2015	28.31	-81.43
+Wingstop Beverages, Inc.	Richardson	Texas	2014	32.95	-96.72
+Winter Park Brewing Co LLC	Maitland	Florida	2005	28.63	-81.36
+Wise Man Brewing LLC	Oak Ridge	North Carolina	2014	36.17	-80.0
+Witherspoon Distillery	Lewisville	Texas	2015	33.05	-96.98
+Wnc Craft Beer Export	Asheville	North Carolina	2017	35.6	-82.6
+Wolffinz LLC	Manassas	Virginia	2016	38.74	-77.49
+World of Beer, Inc.	Tampa	Florida	2016	28.06	-82.61
+Worth Brewing Co	Northwood	Iowa	2007	43.4	-93.3
+Wynwood Brewing Company LLC	Miami	Florida	2011	25.81	-80.21
+Yazoo Brewing Company Inc	Nashville	Tennessee	2003	36.15	-86.79
+Yuengling Brewing Co Tampa Inc	Tampa	Florida	1998	28.05	-82.45
+Zilch, Inc.	The Woodlands	Texas	2004	30.2	-95.54
+Zodiac Spirits Inc	Dallas	Texas	2003	32.83	-96.77
+Zymurgy Holding Company, Lc	Del Valle	Texas	2014	30.15	-97.58
+14 Cannons Brewing Company, Inc.	Westlake Village	California	2017	34.2	-118.82
+15 Mile Ventures, LLC	The Dalles	Oregon	2015	45.6	-121.2
+1848 Distillery	Placerville	California	2015	38.8	-120.6
+1904 Brewing Company, Inc.	San Diego	California	2018	32.72	-117.12
+20 Corners Brewing, LLC	Woodinville	Washington	2015	47.76	-122.13
+23 Bottles of Beer LLC	Santa Rosa	California	2003	38.5	-122.6
+3 Disciples Brewing LLC	Sebastopol	California	2015	38.4	-122.9
+32 North Brewing Co LLC	San Diego	California	2016	32.9	-117.21
+401 Brew Street	San Diego	California	2015	32.72	-117.18
+411 Broadway Ales and Spirits, LLC	Fresno	California	2017	36.73	-119.79
+5 Cider LLC	Portland	Oregon	2016	45.54	-122.6
+7 Cold Brew LLC	San Diego	California	2016	32.72	-117.12
+7 Seas Brewing LLC	Tacoma	Washington	2008	47.27	-122.47
+7 Sisters Brewing Company LLC	Nipomo	California	2016	35.0	-120.5
+Abiqua Spirit Distillery LLC	Silverton	Oregon	2015	44.9	-122.6
+Absolution Brewing Company	Torrance	California	2013	33.84	-118.35
+Affinity Brew LLC	Corona	California	2015	33.93	-117.62
+Agaves Y Tequilas Don Pilar	Belmont	California	2007	37.51	-122.3
+Alaskan Brewing Holding, LLC	Juneau	Alaska	2004	58.0	-134.0
+Alaskan Brewing, LLC	Juneau	Alaska	1986	58.0	-134.0
+Ale & Lager Enterprises Incorporated	Mount Vernon	Washington	1993	48.4	-122.4
+Alesong Brewing & Blending	Eugene	Oregon	2016	44.0	-123.2
+Aliso Viejo Brewing Co Inc	Trabuco Canyon	California	1999	33.63	-117.55
+Almanac Beer Co., LLC	Alameda	California	2010	37.77	-122.28
+Alpine Beer Company, Inc.	Alpine	California	1995	32.8	-116.7
+Alpine Brewing Co	Oroville	Washington	2000	48.9	-119.3
+Altered Aleworks LLC	Sacramento	California	2015	38.54	-121.45
+Amakua Holdings Inc	Lahaina	Hawaii	1994	20.9	-156.6
+Ambitious Ales LLC	Buena Park	California	2014	33.88	-117.99
+Ambrew LLC	Edmonds	Washington	2010	47.81	-122.37
+Amnesia Brewing ""llc	Portland	Oregon	2003	45.54	-122.68
+Ancestry Brewing	Oregon City	Oregon	2016	45.3	-122.5
+Anchor Brewers & Distillers, LLC	Novato	California	2010	38.1	-122.64
+Anchorage Brewing Co	Anchorage	Alaska	2010	61.3	-149.8
+Anchorage Distillery	Anchorage	Alaska	2014	61.3	-149.8
+Andante Foods LLC	Los Angeles	California	2017	34.08	-118.22
+Anderson Valley Brewing, Inc.	Boonville	California	1987	39.03	-123.39
+Anheuser-Busch, LLC	Beverly Hills	California	1852	34.06	-118.4
+Anheuser-Busch, LLC	Portland	Oregon	1852	45.59	-122.71
+Apex	Portland	Oregon	2009	45.48	-122.64
+Arctic Bliss Brewing	Anchorage	Alaska	2015	61.21	-149.73
+Art Light Corp	Los Angeles	California	1979	34.11	-118.19
+Artisan Brewers LLC	Oakland	California	2016	37.81	-122.27
+Artisan Brewers, LLC	San Leandro	California	2008	37.71	-122.16
+Aslan Brewing Company LLC	Bellingham	Washington	2016	48.74	-122.53
+Associated Microbreweries, Inc.	San Diego	California	1988	32.8	-117.24
+Associated Microbreweries, Ltd., A California Limited Partnership	San Diego	California	1988	32.8	-117.24
+Astoria Brewing Company, Inc.	Astoria	Oregon	2012	46.1	-123.7
+Aumakua Holdings Inc.	Lahaina	Hawaii	2006	20.9	-156.6
+B C Marketing Concepts Inc.	Hood River	Oregon	1984	45.6	-121.7
+B W At The Brewery	Los Angeles	California	1999	34.08	-118.22
+Back Street Brewery	Vista	California	2017	33.2	-117.25
+Backyard Brew Pub LLC	Aliso Viejo	California	2015	33.56	-117.73
+Bad Dog Distillery, LLC	Arlington	Washington	2014	48.2	-122.0
+Balba C Brewer	Ontario	California	2016	34.03	-117.59
+Ballast Point Spirits, LLC	San Diego	California	2011	32.9	-117.21
+Barebottle Brewing Company, Inc.	San Francisco	California	2011	37.75	-122.42
+Barkandbrew Inc.	San Diego	California	2003	32.76	-117.07
+Barnaby Brewing Co.	Juneau	Alaska	2018	58.0	-134.0
+Barrel Brothers Brewing	Windsor	California	2016	38.53	-122.82
+Barrel Head Brewhouse	San Francisco	California	2013	37.77	-122.44
+Barritus Brewery	Carlsbad	California	2017	33.13	-117.31
+Bastion Brewing Company LLC	Oak Harbor	Washington	2016	48.3	-122.7
+Battlemage Brewing Company	Vista	California	2016	33.16	-117.25
+Bay Bridge Brewing	Chula Vista	California	2008	32.6	-117.04
+Bbd USA LLC	Los Angeles	California	2018	34.0	-118.43
+Bear Republic Brewing Co Inc	Cloverdale	California	1995	38.8	-123.0
+Beef N Brew	Diamond Springs	California	2016	38.68	-120.82
+Beer Designs, LLC	Ventura	California	2017	34.27	-119.22
+Beer Valley Brewing Company, LLC	Ontario	Oregon	2006	44.1	-117.0
+Beercraft	Rohnert Park	California	2012	38.34	-122.7
+Bell Family Brewery Inc	Vacaville	California	2015	38.4	-121.9
+Bellevue Brewing Company, LLC	Bellevue	Washington	2013	47.62	-122.17
+Bending Waters LLC	Garden Valley	California	2016	38.9	-120.8
+Benediction Brewing Company	Gardena	California	2015	33.9	-118.32
+Bevel Brewing Company	Bend	Oregon	2015	44.0	-121.3
+Big House Brewing Inc	Walla Walla	Washington	1996	46.1	-118.3
+Big Island Brewhaus LLC	Kamuela	Hawaii	1999	20.0	-155.6
+Big Island Brewing LLC	Honolulu	Hawaii	2007	21.29	-157.85
+Big Time Brewery Company Inc	Seattle	Washington	1988	47.66	-122.3
+Bighorn Brewery Warehouse	Tacoma	Washington	2008	47.21	-122.47
+Birdsview Brewing Co	Concrete	Washington	2006	48.5	-121.3
+Black Fleet Brewing	Tacoma	Washington	2016	47.25	-122.47
+Black Mountain Brewery LLC	Cupertino	California	2015	37.3	-122.07
+Blackball Brewing Company LLC	Hermosa Beach	California	2016	33.86	-118.4
+Blanco Basura Beverage, Inc.	Pleasanton	California	2009	37.7	-121.9
+Blewett Brewing Company LLC	Wenatchee	Washington	2016	47.4	-120.4
+Blinking Owl Distillery	Santa Ana	California	2013	33.75	-117.86
+Blinking Owl Distillery	Santa Ana	California	2017	33.75	-117.86
+Block 15 Brewing Co Inc	Corvallis	Oregon	2008	44.5	-123.3
+Blossom Rock Brewing Company	Oakland	California	2016	37.76	-122.16
+Blue Horse Brewing Company LLC	Stockton	California	2018	38.03	-121.42
+Blue Note Brewing Company	Woodland	California	2013	38.8	-121.9
+Boat Beer Brewing LLC	Bellevue	Washington	2016	47.61	-122.11
+Bootlegger's Brewery LLC	Fullerton	California	2006	33.88	-117.89
+Boundary Bay Brewing Company	Bellingham	Washington	1992	48.74	-122.53
+Boyle Heights Brewery	Los Angeles	California	2018	34.13	-118.21
+Brass Bear Brewing	Santa Barbara	California	2015	34.42	-119.71
+Brew Bakers	Grass Valley	California	2014	39.2	-120.9
+Brew Crafty	Santa Ana	California	2016	33.77	-117.88
+Brew Crew	Redlands	California	2010	34.06	-117.18
+Brew Crew Inc.	Riverside	California	2017	33.9	-117.45
+Brew In A Bag	Portland	Oregon	2014	45.61	-122.75
+Brew Rebellion	Yucaipa	California	2014	34.0	-117.0
+Brew Rebellion	San Bernardino	California	2017	34.08	-117.26
+Brew Rebellion Berdoo, LLC	Banning	California	2016	33.9	-116.8
+Brew Ventures Incorporated	Clayton	California	2016	37.89	-121.89
+Brew Wings LLC	Paramount	California	2015	33.9	-118.17
+Brew4u, LLC	San Carlos	California	2013	37.5	-122.27
+Brewbakers Brewing Company	Visalia	California	1995	36.4	-119.38
+Brewery	Portland	Oregon	2014	45.48	-122.64
+Brewery Atlantis, Inc.	San Francisco	California	1996	37.77	-122.39
+Brewhouse Provisions	Redmond	Washington	2015	47.68	-122.12
+Brewing NW Ltd Inc	Corvallis	Oregon	1982	44.5	-123.3
+Brewing Republic of California	Walnut Creek	California	2015	37.92	-122.07
+Brewing Your Winning Culture	Culver City	California	2016	34.02	-118.39
+Brewlab	Eugene	Oregon	2015	44.11	-123.13
+Brewmaster, Inc	San Francisco	California	1988	37.73	-122.38
+Brews Customs	Auburn	Washington	2016	47.31	-122.27
+Brewyard Beer Company LLC	Glendale	California	2018	34.17	-118.29
+Bridgeport Brewing Co	Portland	Oregon	2005	45.53	-122.68
+Brier Brewing LLC	Brier	Washington	2015	47.8	-122.28
+Brotherhood Brewing Company LLC	Kennewick	Washington	2015	46.1	-119.1
+Bulldog Brewery La, LLC	Sherman Oaks	California	2015	34.15	-118.43
+Bump City Brewing Company LLC	Oakland	California	2016	37.77	-122.22
+Buri Buri Liquors	South San Francisco	California	1957	37.66	-122.42
+Butchers Fine Sales, LLC	Santee	California	2013	32.86	-116.99
+Buzzworks Inc.	San Francisco	California	2013	37.78	-122.41
+Calapooia Brewing Co	Albany	Oregon	1993	44.6	-123.2
+Caldera Brewing Co	Ashland	Oregon	1996	42.2	-122.5
+California Beer Company LLC	Vista	California	2010	33.16	-117.25
+California Brewing Company, Inc.	Anderson	California	2006	40.5	-122.3
+Camino Brewing Company LLC	San Jose	California	2014	37.334	-121.891
+Casa Agria	Oxnard	California	2015	33.7	-119.3
+Cascade Ales Company	Longview	Washington	2010	46.2	-123.1
+Cascadia Homebrew	Olympia	Washington	2015	47.0	-122.9
+Celestial Meads	Anchorage	Alaska	2017	61.21	-149.82
+Chance Brewing Company, LLC	Honolulu	Hawaii	2015	21.27	-157.82
+Channel Brewing Co	Stockton	California	2016	37.98	-121.32
+Chehalis Brewing Group LLC	Chehalis	Washington	2016	46.7	-123.0
+Chief Spring's Fire and Irons Brew Pub, LLC	Dayton	Washington	2012	46.3	-117.9
+Chino Valley Brewery Inc.	Ontario	California	2016	34.03	-117.59
+Chuckanut Bay Distillery, Inc.	Bellingham	Washington	2012	48.74	-122.53
+Chugath Beverages LLC	Anchorage	Alaska	1995	61.3	-149.8
+Cleophus Quealy Beer Company	San Leandro	California	2012	37.71	-122.16
+Cloverdale Ale Brwng Company	Cloverdale	California	2015	38.8	-123.0
+Coastal Maine Brewing Company LLC	Port Hueneme	California	2014	34.15	-119.15
+Coin Toss Brewing Company LLC	Oregon City	Oregon	2014	45.3	-122.5
+Come On Get Hoppy	Nine Mile Falls	Washington	2018	47.8	-117.6
+Converge Brewing Company	Paso Robles	California	2017	35.6	-120.9
+Anheuser-Busch, Incorporated	Lakeland	Florida	1852	27.99	-82.01
+Copper Collar Distillery, LLC	Chula Vista	California	2015	32.63	-117.05
+Copperhill Distillery	Valencia	California	2016	34.46	-118.56
+Corvallis Brewing Supply	Corvallis	Oregon	1998	44.5	-123.3
+Coyote Valley Brewing Company	San Jose	California	2016	37.22	-121.75
+Craft Brew Alliance, Inc.	Portland	Oregon	1981	45.54	-122.68
+Craftsman Brewing Co	Pasadena	California	1995	34.17	-118.17
+Creative Creature, LLC	El Cajon	California	2017	32.84	-116.88
+Crispinian Inc	Colfax	California	2008	39.1	-120.7
+Crooked City Cider LLC	Oakland	California	2015	37.81	-122.24
+Cross Creek Brewing Company, LLC	Tujunga	California	2011	34.3	-118.2
+Crucible Brewing Co	Bellevue	Washington	2015	47.62	-122.21
+Crucible Brewing Company	Everett	Washington	2015	47.9	-122.18
+Cydea, Inc.	San Diego	California	1997	32.91	-117.14
+D & Ed Liquor, Inc.	South Gate	California	2006	33.94	-118.19
+D&S Brewing Solutions, Inc.	Long Beach	California	2014	33.8	-118.11
+Dark See LLC	Oakland	California	2016	37.83	-122.26
+Dbmitchell Brewing LLC	San Diego	California	2016	32.74	-117.13
+De Garde Brewing	Tillamook	Oregon	2015	45.6	-123.7
+DEAD OAK BREWING COMPANY LLC	Atascadero	California	2016	35.5	-120.7
+Delaney Brewing Company LLC	Los Osos	California	2013	35.3	-120.8
+Delta Coast Beer, LLC	Anaheim	California	2015	33.84	-117.87
+Deluxe Brewing Company	Albany	Oregon	2015	44.6	-123.2
+Deschutes Brewery, Inc.	Bend	Oregon	1988	43.9	-121.3
+Desert Brothers Craft	Montebello	California	2014	34.01	-118.11
+Desolation Brewing Company	South Lake Tahoe	California	2016	38.8	-120.1
+Detar Brewing LLC	Liberty Lake	Washington	2016	47.64	-117.09
+Devil's Canyon Brewing Company, Inc.	San Carlos	California	2014	37.5	-122.27
+Diamond Knot Brewery Inc	Mukilteo	Washington	1996	47.91	-122.3
+Dimitroff, John	Riverside	California	2011	33.9	-117.45
+Dirty Couch LLC	Seattle	Washington	2014	47.66	-122.38
+Distillery 101 LLC	Del Mar	California	2015	32.97	-117.24
+Diving Dog LLC	Oakland	California	2013	37.81	-122.27
+Double Mountain Brewery	Portland	Oregon	2015	45.48	-122.6
+Double Mountain Brewery	Hood River	Oregon	2006	45.6	-121.7
+Down Shift Brewing Company LLC	Cloverdale	California	2018	38.8	-123.0
+Downbeat Brewing	San Diego	California	2016	33.02	-117.14
+Downtown PR LLC	Paso Robles	California	2010	35.6	-120.9
+Dragas Brewing Industries, Inc.	Rocklin	California	2012	38.8	-121.23
+Dragon's Tale Brewery, Inc.	Montclair	California	2015	34.07	-117.7
+Drake's Brewing Company Inc	San Leandro	California	1989	37.71	-122.16
+Drakes Dealership (master Agreement)	Oakland	California	2015	37.81	-122.27
+Draughtsmen Aleworks LLC	Goleta	California	2015	34.2	-120.0
+Drinks Americas Holdings, Ltd.	Los Angeles	California	2014	34.04	-118.19
+Dropout Wines LLC	Napa	California	2013	38.5	-122.3
+DSB Enterprises, Inc.	Vista	California	2002	33.16	-117.25
+Dungeness Brewing Co.	Port Angeles	Washington	2017	48.0	-123.3
+Dunloe Brewing LLC	Davis	California	2015	38.56	-121.82
+Dunsmuir Brewery Works	Dunsmuir	California	2015	41.2	-122.3
+Dwinell, LLC	Goldendale	Washington	2017	45.8	-120.5
+Eagle Rock Brewery, LLC	Los Angeles	California	2006	34.11	-118.23
+East Brother Beer Company	Richmond	California	2016	37.92	-122.34
+Eight Bridges Brewing Inc.	Livermore	California	2013	37.8	-121.7
+El Dorado Brewing Co.	Camino	California	1994	38.75	-120.68
+Elliott Bay Brewing Company	Seattle	Washington	1997	47.58	-122.4
+Elysian Brewing Company, Inc.	Seattle	Washington	1995	47.54	-122.31
+Encinitas Brewing Science	Encinitas	California	2015	33.05	-117.25
+Encinitas Oggis Inc	Encinitas	California	2004	33.05	-117.25
+English Ales Brewers, Inc.	Marina	California	2001	36.68	-121.79
+English Setter Brewing	Spokane Valley	Washington	2014	47.67	-117.2
+Epidemic Ales	Concord	California	2015	37.97	-122.04
+Ernst Fleckenstein Brewing Co	Portland	Oregon	2001	45.55	-122.73
+Etna Brewing Co LLC	Etna	California	1990	41.4	-122.9
+Etna Brewing Co Tap House	Yreka	California	2015	41.8	-122.7
+Eurolink Ltd	Woodland Hills	California	1993	34.17	-118.62
+Evans Brewing Company Inc.	Corona	California	2012	33.93	-117.62
+Ewan Brewin LLC	Spokane Valley	Washington	2012	47.6	-117.2
+Faction Brewing Company, LLC	Alameda	California	2013	37.77	-122.28
+Fairbanksfermentation, LLC	Fairbanks	Alaska	2011	64.6	-147.3
+Farmers Brewing Company, LLC	Princeton	California	2017	39.43	-122.07
+Fearless Brewing Co	Estacada	Oregon	2006	45.1	-122.1
+Feather River Brewing Co	Magalia	California	2006	39.9	-121.5
+Feathered Serpent Brewery, LLC	West Covina	California	2017	34.07	-117.94
+Fete Today, Inc.	Lodi	California	2015	38.2	-121.1
+Figurehead Brewing Company LLC	Seattle	Washington	2016	47.66	-122.38
+Filter and Brew LLC	San Francisco	California	2016	37.75	-122.42
+Firefighter Brewing Company LLC	Lakewood	Washington	2015	47.16	-122.5
+Firestone Walker, Inc.	Paso Robles	California	1997	35.6	-120.9
+Firestonebeer	Paso Robles	California	2009	35.6	-120.9
+Firsty Associates LLC	Campbell	California	2015	37.28	-121.94
+Fish Brewing Co.	Olympia	Washington	1992	47.0	-122.9
+Fish On Rice, LLC	Carlsbad	California	2012	33.16	-117.28
+Flightline Brewing	Livermore	California	2014	37.4	-121.6
+Flyboy Brewing	Tualatin	Oregon	2013	45.37	-122.76
+Flybrew LLC	San Gabriel	California	2013	34.09	-118.1
+Foggy Bottom Distillery LLC	Los Osos	California	2016	35.3	-120.8
+Foggy Noggin Brewing	Bothell	Washington	2010	47.8	-122.2
+Forward Operating Base Brewing Company L	Puyallup	Washington	2016	47.1	-122.33
+Four Generals Brewing	Renton	Washington	2016	47.47	-122.22
+Fox-Tail Cider, LLC	Hood River	Oregon	2012	45.6	-121.7
+Fried Industries, LLC	Long Beach	California	2016	33.81	-118.17
+Fuego Huevos	Pleasant Hill	California	2018	37.95	-122.08
+Fuji Sake Brewing Co Ltd	Honolulu	Hawaii	2006	21.34	-157.84
+Full Sail Brewing Company	Hood River	Oregon	2017	45.6	-121.7
+Full Sail Brewing, Inc.	Hood River	Oregon	2016	45.6	-121.7
+Full Stop & Save	Rancho Cordova	California	1998	38.6	-121.27
+Fus Cafe' 88, Llc.	Sacramento	California	2013	38.51	-121.5
+G Man Brewery	Tualatin	Oregon	2016	45.37	-122.76
+Gallaghers Where U Brew Inc.	Edmonds	Washington	1995	47.81	-122.37
+Gallery Brewing	Santa Cruz	California	2005	37.03	-121.98
+Gandolfo Brewing, LLC	Solvang	California	2014	34.6	-120.1
+Gear Tooth Brewing	San Jose	California	2015	37.32	-121.93
+General Brewing Company, LLC	Mill Valley	California	2012	37.9	-122.57
+Genus Brewing Company LLC	Spokane Valley	Washington	2015	47.63	-117.19
+Gfbc, Inc.	San Diego	California	2010	32.9	-117.21
+Ghost Runners Brewery	Vancouver	Washington	2012	45.64	-122.63
+Gig Harbor Brewing Co.	Tacoma	Washington	2018	47.21	-122.47
+Glacier Design Systems, Inc.	Huntington Beach	California	2000	33.72	-118.05
+Gold Coast Draft Inc	Moorpark	California	2003	34.3	-118.8
+Good Meadow Distillery, LLC	Roseburg	Oregon	2015	43.2	-123.5
+Grains of Wrath Brewery	Camas	Washington	2016	45.7	-122.4
+Gramic Enterprises, Inc.	Yorba Linda	California	2005	33.9	-117.73
+Grav South Brew Co	Cotati	California	2016	38.33	-122.72
+Great Beer Co	Chatsworth	California	1996	34.3	-118.6
+Great Sex Brewing Inc	Redding	California	2001	40.7	-122.3
+Green Lake Brewing Company LLC	Seattle	Washington	2008	47.67	-122.34
+Greg Ekman & Bruce Spencer	Agoura Hills	California	2010	34.12	-118.77
+Grizzly Malt LLC	Santa Rosa	California	2015	38.5	-122.6
+Groundswell Brewing Co.	San Diego	California	2016	32.8	-117.07
+Growler Werx LLC	Everett	Washington	2015	47.99	-122.21
+Haines Brewing Co Inc	Haines	Alaska	1998	59.0	-135.0
+Hale's Ales, Ltd.	Seattle	Washington	1983	47.66	-122.38
+Half Lion Brewing Company LLC	Auburn	Washington	2015	47.3	-122.1
+Half Lion Brewing Company LLC	Bonney Lake	Washington	2015	47.2	-122.2
+Hameed Algazali	Sacramento	California	1999	38.55	-121.45
+Hand Brewed Beer LLC	Northridge	California	2012	34.24	-118.55
+Harris Brewing, LLC	Portland	Oregon	2013	45.54	-122.68
+Healdsburg Beer Company	Healdsburg	California	2008	38.7	-122.9
+Hermitage Brewing Company LP	San Jose	California	2009	37.34	-121.88
+Hermosa Brewing Company LLC	Manhattan Beach	California	2016	33.89	-118.4
+Hilliard's Beer LLC	Seattle	Washington	2011	47.69	-122.38
+Hoi Polloi Brewing Inc	San Francisco	California	2015	37.77	-122.44
+Hollister Brewing Company, LLC	Goleta	California	2006	34.2	-120.0
+Hollywood Beach Brewing Co	Oxnard	California	2006	34.1	-119.3
+Hollywood Beach Brewing Company LLC	Oxnard	California	2008	33.7	-119.3
+Holm Brewing Enterpises LLC	Kirkland	Washington	2013	47.67	-122.19
+Home Brew Chef	Sonoma	California	2015	38.2	-122.5
+Home Brew Mart, Inc.	San Diego	California	1992	32.9	-117.21
+Home Brew Services	Whittier	California	2014	33.95	-118.02
+Homer Brewing Co	Homer	Alaska	1996	60.0	-151.0
+Hop Union	Yakima	Washington	2014	46.6	-120.53
+Hopunion Craft Brewing Sales, L.L.C.	Yakima	Washington	2011	46.6	-120.53
+Hoquiam Brewing Co.	Hoquiam	Washington	2018	47.1	-124.0
+Hot Bikini Brew 2 LLC	Portland	Oregon	2015	45.48	-122.64
+House of Canaan Inc	Pasadena	California	2006	34.14	-118.13
+House of Pendragon Brewing Co.	Sanger	California	2016	36.8	-119.4
+Humble Sea, Inc.	Ben Lomond	California	2015	37.09	-122.09
+Humboldt Regeneration	Mckinleyville	California	2010	41.0	-124.0
+Hunt Gather Brew LLC	Port Townsend	Washington	2015	48.0	-122.8
+Hunters Point Brewery, LLC	Oakland	California	2017	37.74	-122.21
+Huntington Beach Brewing Company	Morgan Hill	California	1993	37.1	-121.7
+Ice Harbor Brewing Company	Kennewick	Washington	1995	46.21	-119.18
+Independent Brewers Unite	Portland	Oregon	2013	45.55	-122.73
+Indian Wells Companies	Inyokern	California	1993	35.9	-118.0
+Indianvalley Brew Co	Novato	California	2015	38.1	-122.64
+Inland Empire Brewery Tours	Riverside	California	2015	33.9	-117.45
+Inside Passage Brewing Company, LLC	Ketchikan	Alaska	2018	55.6	-131.4
+Iron Hop Brewing Co. LLC	Monroe	Washington	2016	47.9	-121.8
+Iron Triangle Brewing Company	Los Angeles	California	2014	34.03	-118.24
+Ironbark Ciderworks, Inc.	Claremont	California	2017	34.16	-117.71
+Island Brewing Co	Carpinteria	California	2004	34.0	-119.3
+J&J Beverage Innovations, Inc.	Gardena	California	2015	33.9	-118.32
+J&L Eppig Brewing LLC	San Diego	California	2015	32.74	-117.13
+Jack Joyce	Newport	Oregon	1988	44.7	-124.0
+Jacked Up Brewery	Escondido	California	2017	33.09	-117.06
+Jellyfish Brewing Company	Seattle	Washington	2016	47.68	-122.29
+Joe Nestor	Cashmere	Washington	2010	47.5	-120.5
+June Lake Brewing LLC	June Lake	California	2016	37.76	-119.09
+June Sf, LLC	San Francisco	California	2013	37.8	-122.46
+Jywh, Inc.	La Crescenta	California	2015	34.24	-118.24
+K. A. McNair Brewing Company, LLC	San Diego	California	2013	32.74	-117.13
+Karl Strauss Brewery Gardens-U	Universal City	California	2001	34.138	-118.354
+Karl Strauss Brewing Company	San Diego	California	1989	32.8	-117.24
+Kassik's Kenai Brew Stop, LLC	Kenai	Alaska	2005	60.7	-150.5
+Kenai River Brewing Company	Soldotna	Alaska	2007	60.4	-150.9
+Kern River Brewing Company, Inc.	Kernville	California	2006	35.73	-118.37
+Kilowatt Brewing	San Diego	California	2015	32.82	-117.15
+Kinship Brewing LLC	Spokane	Washington	2016	47.69	-117.45
+Knotty Brewing	San Diego	California	2015	32.8	-117.07
+Knox Brewing	Pacific Grove	California	1999	36.62	-121.92
+Kodiak Island Brewing Co	Kodiak	Alaska	2006	57.0	-153.0
+Kona Brewing Co. Inc	Kailua Kona	Hawaii	1994	19.7	-155.8
+Kulshan Brewing Company	Bellingham	Washington	2012	48.7	-122.4
+Lagunitas	Seattle	Washington	2017	47.66	-122.38
+Lahaina Brewery, Inc.	Lahaina	Hawaii	2014	20.9	-156.6
+Laht Neppur Ventures, Inc.	Waitsburg	Washington	2006	46.2	-118.1
+Lanikai Brewing Company LLC	Kailua	Hawaii	2011	21.4	-157.75
+Lantern Brewing LLC	Seattle	Washington	2012	47.67	-122.34
+Laughing Buddha Brewing	Seattle	Washington	2007	47.54	-122.31
+LDB Beverage Company	Stevenson	Washington	2015	46.0	-121.9
+Leashless Brewing	Ventura	California	2016	34.3	-119.3
+Left Coast Brewing Company	San Clemente	California	2004	33.46	-117.62
+Leggett Beer Company	Issaquah	Washington	1992	47.58	-122.02
+Lengthwise Brewing Company	Bakersfield	California	1998	35.1	-119.0
+Liquid Gold	San Francisco	California	2014	37.79	-122.42
+Little Miss Brewing, Llc.	San Diego	California	2016	32.91	-117.14
+Lockdown Brewing Co	Folsom	California	2004	38.67	-121.15
+Lodi Beer Co LLC	Lodi	California	2005	38.2	-121.1
+Logsdon Barrel House & Taproom	Hood River	Oregon	2016	45.6	-121.7
+Lord Leviason Enterprises, LLC	Encino	California	2015	34.16	-118.51
+Los Angeles Ale Works, LLC	Hawthorne	California	2010	33.91	-118.35
+Lotsolox Enterprises	Fairfax	California	1999	38.0	-122.7
+Low Brow Brewing Company, LLC	San Miguel	California	2014	36.0	-120.6
+Loyal Legion	Portland	Oregon	2015	45.51	-122.64
+Ls Brewing Inc	Everett	Washington	2005	47.9	-122.18
+Lucky Luke Brewing Company	Palmdale	California	2015	34.6	-118.2
+Lunatik Brewing	Carlsbad	California	2007	33.13	-117.31
+Lynn's Liquors Inc	King City	California	1945	36.2	-121.0
+Mac & Jack's Brewery Inc	Redmond	Washington	1993	47.68	-122.12
+Madra Tarrthail Brewing LLC	Altadena	California	2016	34.22	-118.13
+Madre Gertrudes, Inc.	Chula Vista	California	2016	32.66	-116.96
+Mamawolf Brewing LLC	Los Angeles	California	2015	34.13	-118.33
+Mammoth Beers	Mammoth Lakes	California	2007	37.6	-118.8
+Mammoth Brewing Company	Mammoth Lakes	California	1998	37.6	-118.8
+Man and Beast, LLC	Damascus	Oregon	2014	45.42	-122.45
+Mare Island Brewing Co. LLC	Vallejo	California	2004	38.1	-122.25
+Maritime Pacific Brewing Co Inc	Seattle	Washington	1990	47.66	-122.38
+Martin Hawley Brewing Enterprises LLC	Santa Rosa	California	2013	38.45	-122.78
+Matanuska Brewing Company	Eagle River	Alaska	2016	61.1	-149.1
+Maui Brewing Co.	Lahaina	Hawaii	2011	20.9	-156.6
+Mazama Brewing Company, LLC	Corvallis	Oregon	2012	44.5	-123.3
+Mc Kenzie Brewing Company	Eugene	Oregon	1990	44.07	-123.08
+McKenzie River Brewing Company, LLC	Eugene	Oregon	2009	44.0	-123.2
+McLean Brewery, Inc	San Francisco	California	1996	37.77	-122.44
+Meconi Pub & Eatery	Tacoma	Washington	2004	47.27	-122.47
+Mehana Brewing Company, Inc.	Hilo	Hawaii	1995	19.7	-155.2
+Mendocino Brewing Company Inc	Ukiah	California	1983	39.1	-123.3
+'merica Brewing Company, LLC	Newcastle	California	2014	38.87	-121.15
+Methow House Watch Inc	Winthrop	Washington	2015	48.7	-120.4
+Midnight Sun Brewing LLC	Anchorage	Alaska	1992	61.16	-149.89
+Mikkeller Brewing San Diego	San Diego	California	2016	32.91	-117.14
+Mile Rock Brewery Inc	San Francisco	California	1989	37.78	-122.41
+Miller Brewing Co	Irwindale	California	2016	34.09	-117.97
+Mind Your Manna, LLC	Portland	Oregon	2015	45.55	-122.5
+Mischievous Inc.	Rio Linda	California	2014	38.69	-121.47
+Mojave Market	Victorville	California	2009	34.6	-117.3
+Mt. Hood Beverage Company, LLC	Centralia	Washington	2013	46.7	-122.9
+Mulhouse LLC	Clarkston	Washington	2016	46.4	-117.2
+N Case Brew Inc	Pasadena	California	1995	34.17	-118.17
+Naan & Brew	Bellingham	Washington	2015	48.74	-122.53
+Narrows Brewing LLP	Tacoma	Washington	2012	47.22	-122.54
+Nashs Natural Brewing Company	Auburn	California	2016	38.9	-121.1
+New World Brewing Company Inc	Saratoga	California	2015	37.27	-122.05
+Ninkasi Holding Company, Inc.	Eugene	Oregon	2005	44.0	-123.2
+No Umbrella Brewing Company LLC	Seattle	Washington	2016	47.67	-122.34
+Noble Brewing Company LLC	Bend	Oregon	2009	43.9	-121.3
+Nookies Restaurant & Brewery	Hermiston	Oregon	2009	45.8	-119.3
+North Channel Distillery	San Francisco	California	2016	37.73	-122.38
+North Coast Brewing Co., Inc.	Fort Bragg	California	1988	39.5	-123.7
+Northern Ales, Inc.	Kettle Falls	Washington	2007	48.7	-118.1
+Northern Lights Brewing Co	Spokane	Washington	1993	47.66	-117.38
+Northern Pine Brewing, LLC	Oceanside	California	2014	33.2	-117.37
+Northwest Peaks Brewery, LLC	Seattle	Washington	2010	47.66	-122.38
+Nuoc Mia Vien Dong	Garden Grove	California	2011	33.75	-117.92
+Nutraceutical Brews For Life, Inc.	Pasadena	California	2013	34.2	-118.0
+O'Ahu Brewing Co	Honolulu	Hawaii	2005	21.29	-157.82
+Oakshire, Inc.	Eugene	Oregon	2004	44.0	-123.2
+Ocean Ale House LLC	San Francisco	California	2015	37.72	-122.44
+Ocean Avenue Brewing Co	Laguna Beach	California	1994	33.55	-117.78
+Ocean Shores Brewing Company LLC	Snoqualmie	Washington	2015	47.6	-121.8
+Ochoco Brewing	Prineville	Oregon	2016	44.1	-120.5
+Off Your Rocker Brewing Company, Inc.	Winchester	California	2013	33.6	-117.1
+Oggi's Pizza & Brewing Co	San Diego	California	1989	32.95	-117.2
+Oil Town Brewery, LLC	Long Beach	California	2017	33.8	-118.11
+Old Hangtown Beer Works	Placerville	California	2010	38.8	-120.6
+Old Tavern Distillery, LLC	Sacramento	California	2015	38.58	-121.49
+Old Town Brew	Nipomo	California	2016	35.0	-120.5
+O'Meara Bros. Brewing Company	Lakeport	California	2013	39.0	-122.9
+Omission Brewing Company	Portland	Oregon	2016	45.54	-122.68
+One Nation Brewing	Portland	Oregon	2015	45.45	-122.7
+Optimism Brewing LLC	Seattle	Washington	2013	47.61	-122.3
+Orchard Bay Brewing Company LLC	Port Orchard	Washington	2015	47.5	-122.6
+Oregon Brewing Company	Newport	Oregon	1989	44.7	-124.0
+Oregon Honey Products LLC	Philomath	Oregon	2010	44.7	-123.5
+Original Pattern, Inc.	Oakland	California	2017	37.81	-122.3
+Osmo's Alehouse LLC	Medford	Oregon	2016	42.3	-122.9
+Otay Lakes Brewery LLC	Chula Vista	California	2014	32.66	-116.96
+O-Town Brewing, LLC	Lacey	Washington	2016	47.03	-122.8
+Ottano Inc	San Luis Obispo	California	2007	35.3	-120.7
+Outlaw Beverage, Inc.	Oakland	California	2015	37.81	-122.27
+Overtime Brewing Inc.	Fort Bragg	California	2015	39.5	-123.7
+Oxwood Brewing LLC	Sunnyvale	California	2018	37.37	-122.02
+Pabst Brewing Company LLC	Los Angeles	California	1844	34.05	-118.44
+Page & Company, LLC	Grants Pass	Oregon	2011	42.4	-123.4
+Palewater LLC	Bellevue	Washington	2016	47.62	-122.21
+Paradise Brewing Company Tap and Grill	Kailua Kona	Hawaii	2015	19.7	-155.8
+Parlor	Salem	Oregon	2016	44.91	-123.05
+Pasadena Brewing Company, LLC	Altadena	California	2014	34.22	-118.13
+Paz De La Enterprises Inc	Los Banos	California	2015	37.0	-120.9
+Pelican Brewing Company LLC	San Marcos	California	2015	33.18	-117.16
+Penalty Box Brew Pub LLC	San Diego	California	2015	32.8	-117.24
+Pied Piper Alehouse	Seattle	Washington	2007	47.61	-122.3
+Pier71wines LLC	Saint Helena	California	2012	38.5	-122.5
+Pierco Sales	Del Mar	California	1970	32.97	-117.24
+Pike Brewing Company	Seattle	Washington	1997	47.61	-122.33
+Pine Creek Brewing, LLC	Bishop	California	2005	37.5	-118.3
+Plan 9 Alehouse	Escondido	California	2012	33.09	-117.06
+Pleasanton Main Street Brewery, Inc.	Pleasanton	California	1995	37.65	-121.86
+Polymath Brewing LLC	Riverside	California	2015	33.9	-117.45
+Pono Brewing, LLC	Portland	Oregon	2013	45.4	-122.62
+Port Brewing LLC	San Marcos	California	2005	33.18	-117.16
+Port O'Pints Brewing Company, LLC	Brookings	Oregon	2018	42.3	-124.1
+Port Townsend Brewing Co	Port Townsend	Washington	1997	48.0	-122.8
+Power Brands Consulting, LLC	Van Nuys	California	2006	34.18	-118.46
+Prestons' Beverage Company, LLC	San Diego	California	2016	32.96	-117.13
+Prodigy Brewing Company	San Marcos	California	2013	33.12	-117.18
+Prospector Brewing Co	Beaverton	Oregon	1999	45.45	-122.88
+Prost Partners, L.P.	Hughson	California	1981	37.59	-120.84
+Puddle Stomp Brewing	Portland	Oregon	2016	45.55	-122.5
+Puyallup River Brewing Company LLC	Puyallup	Washington	2012	47.1	-122.33
+Pyramid Breweries Inc.	Seattle	Washington	1984	47.57	-122.34
+Quality Beverages Inc	Fresno	California	2010	36.6	-119.7
+Quantum Health Beverages Inc.	Irvine	California	2011	33.67	-117.83
+Quiet Giant Brewing Co LLC	Lakewood	Washington	2015	47.16	-122.5
+Quixotic Brewing Co.	Manhattan Beach	California	2016	33.89	-118.4
+R Ellersick Brewing Co	Lynnwood	Washington	2008	47.8	-122.28
+R Ellersick Brewing Co	Mountlake Terrace	Washington	1997	47.79	-122.31
+Ram Big Horn Brewery-Northgate	Seattle	Washington	2007	47.72	-122.3
+Ram Bighorn Brewery Kent	Kent	Washington	2007	47.4	-122.26
+Redfire Inc	San Francisco	California	2010	37.8	-122.44
+Redwood Coast Cider LLC	San Carlos	California	2014	37.5	-122.27
+Redwood Curtain Brewing Company LLC	Arcata	California	2009	40.8	-124.1
+Renegade Brewing Co	Newport	Oregon	2001	44.7	-124.0
+Revel Spirits Inc	Venice	California	2016	33.99	-118.46
+Revision Brewing Company LLC	Auburn	California	2015	38.99	-121.1
+Rhythm & Brews	Arlington	Washington	2016	48.2	-122.0
+Riip, Inc.	Huntington Beach	California	2017	33.72	-118.05
+Riley's Brew Pub	Clovis	California	2016	36.82	-119.69
+River City Brewing, LLC	Spokane	Washington	1999	47.66	-117.44
+Riverport Brewing	Clarkston	Washington	2010	46.4	-117.2
+Road Soda Brewing Company LLC	Ramona	California	2014	33.0	-116.8
+Ronald Chips	Kelseyville	California	2012	38.9	-122.8
+Rooftop Brewing Company	Seattle	Washington	2012	47.64	-122.37
+Rosetta Coffee Brewing Company LLC	Laguna Niguel	California	2016	33.53	-117.71
+Roslyn Brewing Co Inc	Roslyn	Washington	1990	47.22	-121.0
+Royal Hawaiian Brewing Co Ltd	Honolulu	Hawaii	2003	21.29	-157.69
+Running Man Distributing, LLC	Portland	Oregon	2014	45.59	-122.71
+Russian River Brewing Company, Inc.	Geyserville	California	2015	38.7	-123.1
+Rusty Bucket Brewing	Medford	Oregon	2016	42.3	-122.9
+Ruth McGowans Brew Pub	Cloverdale	California	2002	38.8	-123.0
+Sake Beverage Company Inc	Calabasas	California	1999	34.13	-118.67
+Saktea	El Cajon	California	2011	32.79	-116.97
+Saladin Corporation	Tualatin	Oregon	2012	45.37	-122.76
+San Diego Beer Towers, LLC	San Diego	California	2015	32.91	-117.14
+San Francisco Brewcraft	San Francisco	California	1998	37.78	-122.46
+San Luis Obispo Brewing Co	San Luis Obispo	California	2006	35.2	-120.6
+Santa Clara Valley Brewing Inc	San Jose	California	2015	37.34	-121.88
+Santa Cruz Brewing Company, LLC	Aptos	California	2008	37.01	-121.88
+Santa Cruz Mountain Brewing	Santa Cruz	California	2005	37.0	-122.1
+Santiam Brewing Company LLC	Spokane	Washington	2015	47.66	-117.38
+Scholb Premium Ales Inc	Torrance	California	2015	33.84	-118.35
+Schooner Exact	Seattle	Washington	2006	47.57	-122.34
+Scrappy Punk Brewing LLC	Snohomish	Washington	2016	47.9	-122.0
+Scuttlebutt Brewing Co LLC	Everett	Washington	1996	47.99	-122.21
+Seattle Brewers	Seattle	Washington	1992	47.54	-122.31
+Seattle Cider Company	Seattle	Washington	2013	47.57	-122.34
+Sebastopol Brewing Company LLC	Sebastopol	California	2006	38.4	-122.9
+Second Home Brewing Company, LLC	Corvallis	Oregon	2008	44.6	-123.3
+Seven Bridges Cooperative Microbrewery	Aptos	California	1997	37.01	-121.88
+Seventh Street Brew House	Redmond	Oregon	1999	44.3	-121.2
+Shadow Puppet Brewing Company LLC	Livermore	California	2015	37.8	-121.7
+Shady Oak Barrel House LLC	Santa Rosa	California	2013	38.5	-122.6
+Shark Attack Brewing	Agoura Hills	California	2005	34.12	-118.77
+Shoug Brewing Company LLC	Washougal	Washington	2016	45.7	-122.2
+Sidellis Lake Tahoe Inc	South Lake Tahoe	California	2015	38.8	-120.1
+Sierra Moonshine Homebrew Supply	Grass Valley	California	1995	39.2	-120.9
+Sierra Nevada Brewing Co.	Chico	California	1979	39.7	-121.8
+Silver City Brewing Co Inc	Silverdale	Washington	1990	47.68	-122.71
+Silver Gulch Brewing & Bottling	Fairbanks	Alaska	1958	65.0	-146.0
+Silverado Brewing Co L L C	Calistoga	California	1996	38.6	-122.6
+Simple Brew Corporation	San Francisco	California	2016	37.73	-122.38
+Singha North America, Inc.	Redwood City	California	2002	37.53	-122.23
+Sixty4oz	White Salmon	Washington	2014	45.8	-121.5
+Skookum Brewery LLC	Arlington	Washington	2005	48.2	-122.0
+Skye Book & Brew	Dayton	Washington	2004	46.3	-117.9
+Smoking Cannon Brewery LLC	Ramona	California	2016	33.0	-116.8
+Snipes Mountain Brewing Inc	Sunnyside	Washington	1997	46.4	-119.9
+So Cal Draft Beer Service, LLC	Newport Beach	California	2015	33.6	-117.9
+Solid Ground Brewing	Placerville	California	2016	38.8	-120.6
+Solorio Brewing Company LLC	Rancho Cucamonga	California	2015	34.1	-117.58
+Sonoma Springs Brewing Company LLC	Sonoma	California	2006	38.2	-122.5
+South Bay Beverage Inc	San Jose	California	2011	37.34	-121.88
+Southern Oregon Brewing Co	Medford	Oregon	2007	42.3	-122.8
+Southern Pacific Brewing, LLC	San Francisco	California	2010	37.75	-122.42
+Spanky Burger & Brew	Tacoma	Washington	2016	47.25	-122.47
+Sparklehorse, LLC	Gig Harbor	Washington	2014	47.29	-122.62
+Spartan Beverages Incorporated	Stevenson Ranch	California	2008	34.38	-118.6
+Spechops, LLC	Vista	California	2015	33.16	-117.25
+Specialty Beer Investments, Inc.	Larkspur	California	1997	37.94	-122.53
+St. Elias Brewing Company	Soldotna	Alaska	2008	60.4	-150.9
+St. Stan's Brewing Co., Inc.	Modesto	California	2006	37.64	-120.97
+Star Beverages LLC	Los Angeles	California	2005	34.07	-118.43
+Steinbeck Brewing Company	Hayward	California	1994	37.67	-122.11
+Steinsoriginal LLC	San Francisco	California	2018	37.8	-122.7
+Stereo Brewing Co.	Irvine	California	2018	33.69	-117.79
+Stone Brewing Co., LLC	Escondido	California	1996	33.08	-117.15
+Stoney Creek Brewing Company LLC	Sammamish	Washington	2011	47.61	-122.04
+Stover Brewing Co	San Diego	California	2016	32.82	-117.07
+Strange Markings, Inc.	Burbank	California	2016	34.18	-118.35
+Strauss, Karl Brewery and Restaurant	La Jolla	California	2004	32.8	-117.2
+Strike Brewing Co	San Jose	California	2011	37.34	-121.88
+Strong Brew Inc	Walnut Creek	California	2015	37.92	-122.07
+Structures Brewing LLC	Bellingham	Washington	2015	48.74	-122.53
+Subdued Brewing LLC	Bellingham	Washington	2015	48.74	-122.53
+Sullivan Brewing	Upland	California	2016	34.1	-117.66
+Sumerian Brewing Co. LLC	Woodinville	Washington	2014	47.76	-122.13
+Sun Mountain Brewing Company	Spokane Valley	Washington	2015	47.63	-117.15
+Sunriver Brewing Company	Bend	Oregon	2015	43.8	-121.6
+Sunriver Brewing Company, LLC	Sunriver	Oregon	2012	43.8	-121.6
+Swing Tree Brewing Co	Ashland	Oregon	2013	42.2	-122.5
+Switchback Ridge	Saint Helena	California	2005	38.5	-122.5
+T W Pitchers Brewing Company	Saint Helena	California	2015	38.5	-122.5
+Table Bluff Brewing Inc	Eureka	California	1989	40.8	-124.14
+Taft Brewing Co	Taft	California	2008	35.2	-119.4
+Tahoe Mountain Brewing Co	Truckee	California	2014	39.2	-120.4
+Tamalpais Brewery and Taproom	San Rafael	California	2018	37.97	-122.5
+Tdbrewing LLC	Fresno	California	2016	36.86	-119.76
+Teariot, LLC	Venice	California	2017	33.99	-118.46
+Telegraph Brewing Co., Inc.	Santa Barbara	California	2005	34.43	-119.68
+Temblor Brewing, LLC	Bakersfield	California	2014	35.6	-118.9
+The Big Stump Brewing Company	El Dorado Hills	California	2014	38.7	-121.1
+The Brewery Lofts	Los Angeles	California	2008	34.08	-118.22
+The Bu LLC	Corona	California	2018	33.76	-117.49
+The Charlie's Beer Company USA LLC	Rancho Cucamonga	California	2014	34.1	-117.58
+The Dudes Brewing Company	Somis	California	2013	34.31	-119.05
+The Elk Horn Brewery LLC	Eugene	Oregon	2013	44.07	-123.08
+The Growler	Danville	California	2014	37.81	-121.99
+The Heavy Metal Brewing Co LLC	Vancouver	Washington	2015	45.64	-122.63
+The Hop Grenade	Concord	California	2014	37.97	-122.04
+The Lagunitas Brewing Company	Petaluma	California	1996	38.2	-122.6
+The Lucky Labrador Brewing Company	Portland	Oregon	1993	45.51	-122.64
+The Oregon Trader Brewing Company	Albany	Oregon	1992	44.6	-123.2
+The Organic Brewer's Guild	San Jose	California	2014	37.34	-121.88
+The Rare Barrel LLC	Berkeley	California	2012	37.87	-122.31
+Thirsty Bear Brewing Co LLC	San Francisco	California	1996	37.789	-122.395
+Thirsty Crab Brewery LLC	Freeland	Washington	2015	48.02	-122.55
+Three Creeks Brewing Company, LLC	Sisters	Oregon	2007	44.0	-121.7
+Three Monkeys Brewing	Madera	California	2013	36.9	-120.2
+Tiger Beer USA Inc	San Francisco	California	2007	37.78	-122.46
+Tiger Town Brewing Company LLC	Mitchell	Oregon	2015	44.6	-120.0
+Topatopa Brewing Company LLC	Ventura	California	2014	34.3	-119.3
+Torpedo Room	Berkeley	California	2017	37.87	-122.31
+Torrance Brewing Co. Inc.	Torrance	California	2001	33.83	-118.31
+Towne Park Brew, Inc.	Anaheim	California	2014	33.85	-117.96
+Transplants Brewing Company	Palmdale	California	2014	34.6	-118.2
+Triple J Brewing	Citrus Heights	California	2015	38.69	-121.27
+Triple Rock Brewing Co, Inc	Berkeley	California	1986	37.87	-122.25
+Tripp Distillery	Pacifica	California	2015	37.63	-122.49
+Trusty Brewing Company LLC	West Linn	Oregon	2015	45.34	-122.66
+Tt's Old Iron Brewery LLC	Spokane	Washington	2016	47.59	-117.32
+Tug Boat Brewing Co	Portland	Oregon	1996	45.52	-122.7
+Tuscan Brewing Company Inc	Red Bluff	California	1992	40.1	-122.4
+Two Beers Brewing Co.	Seattle	Washington	2007	47.61	-122.35
+Two Docs Brewing Company	Del Mar	California	1993	32.97	-117.24
+Two Scots LLC	Eugene	Oregon	2012	44.0	-123.2
+TWOSCOTS LLC	Eugene	Oregon	2015	43.9	-123.1
+Ukiah Brewing Co LLC	Ukiah	California	2000	39.1	-123.3
+Uncommon Brewers, Inc.	Santa Cruz	California	2008	37.0	-122.1
+Underground Brew Squad	Sacramento	California	2015	38.55	-121.45
+United Brands LLC	San Diego	California	2017	32.9	-117.21
+United Craft Brewers, Inc.	Sausalito	California	2009	37.9	-122.6
+Unsung Brewing Company LLC	Anaheim	California	2015	33.83	-117.91
+Urban Family Brewing Co.	Seattle	Washington	2018	47.64	-122.39
+Us.milk Nutrition, Inc.	Temecula	California	2015	33.49	-117.23
+Us-Tq Beverage Products Int'l, Inc.	Pasadena	California	2012	34.2	-118.0
+Valhalla Brewing and Beverage Company LL	Tukwila	Washington	2015	47.45	-122.28
+Valhalla Brewing and Beverage LLC	Seattle	Washington	2009	47.54	-122.31
+Vampt America, Inc.	Seattle	Washington	2006	47.63	-122.34
+Vault Taphouse	Redmond	Oregon	2018	44.3	-121.2
+Vbnj Inc	Weed	California	1992	41.4	-122.4
+Ventura Coast Brewing Company, LLC	Ventura	California	2015	34.27	-119.22
+Vertigo Brewing	Hillsboro	Oregon	2007	45.4	-123.0
+Vertigo Brewing LLC	Hillsboro	Oregon	2007	45.6	-123.0
+Virgin River Brewing	Fairfield	California	2016	38.2	-122.1
+Visalia Brewing Company	Visalia	California	2002	36.4	-119.38
+Vise Brewing Co. Inc	Visalia	California	2015	36.4	-119.38
+Wanderlust	Lake Balboa	California	2015	34.2	-118.49
+Wanderlust LLC	Modesto	California	2014	37.67	-120.94
+Waterman Brewing Company, LLC	Elk Grove	California	2016	38.4	-121.3
+Wenatchee Valley Brewing Co., LLC	Wenatchee	Washington	2009	47.4	-120.4
+West Peak Brewing Company, LLC	Novato	California	2016	38.1	-122.64
+West Seattle Brewing Company	Seattle	Washington	2015	47.58	-122.4
+Western Beverage	Bend	Oregon	2008	44.0	-121.3
+Westland Distillery	Seattle	Washington	2010	47.57	-122.34
+Wg Barr Beverage Company LP	Saint Helena	California	2016	38.5	-122.5
+Whalebird Kombucha	San Luis Obispo	California	2012	35.2	-120.6
+What Up Brew	San Diego	California	2015	32.9	-117.21
+Whipsaw Brewing LLC	Ellensburg	Washington	2015	47.0	-120.4
+White Fence Brewing Company, LLC	Vista	California	2017	33.16	-117.25
+White Fox of Freestone	Sebastopol	California	2014	38.4	-122.9
+Whitewater Brewers LLC	Upland	California	2016	34.1	-117.66
+Whitstran Brewing Company Inc	Prosser	Washington	1996	46.2	-119.7
+Widmer Brothers Brewing Company	Portland	Oregon	1984	45.54	-122.68
+Wild Donkey Brewing Company	Redlands	California	2013	34.06	-117.18
+Wild Eagle Brewing	Patterson	California	2015	37.4	-121.3
+Wild Parrot Brewing Company	Pasadena	California	2015	34.2	-118.0
+Wildfire Brewery	Bend	Oregon	2006	44.0	-121.3
+Windmill Enterprises, Inc	Baker City	Oregon	1975	44.8	-117.8
+Working Man Brewing Co	Livermore	California	2011	37.4	-121.6
+Wsj LLC	Santa Rosa	California	2015	38.39	-122.75
+Yakima Chief-Hopunion, LLC	Yakima	Washington	2014	46.6	-120.53
+Yogd, LLC	Saint Helens	Oregon	2010	45.9	-122.9
+Yorkshire Square Brewing	Palos Verdes Estates	California	2016	33.3	-118.5
+You Brew It	Rancho Cordova	California	2014	38.57	-121.19
+You Brew San Diego	San Diego	California	2014	32.74	-117.24
+Young's Market of Washington	Renton	Washington	2004	47.47	-122.22
